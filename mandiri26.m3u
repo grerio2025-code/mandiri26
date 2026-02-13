@@ -59,6 +59,66 @@ http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=1565921&
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=1547335&extension=ts&play_token=nGV7IV8MEB
 #EXTINF:0,PIX HD,,0
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=1116481&extension=ts&play_token=TDiZjYTbOB
+#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/3982.png?33746" group-title="UK| GENERAL ᴴᴰ/ᴿᴬᵂ",UK: BBC Earth HD ◉
+http://m3u.best-smarter.me:80/play/live.php?mac=00:1A:79:76:0F:14&stream=414042&extension=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/6168.png?81098" group-title="UK| GENERAL ᴴᴰ/ᴿᴬᵂ",UK: FOOD NETWORK ◉
+http://m3u.best-smarter.me:80/play/live.php?mac=00:1A:79:76:0F:14&stream=162159&extension=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/10167.jpg?30673" group-title="UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",UK: LOVE NATURE 4K ◉
+http://m3u.best-smarter.me:80/play/live.php?mac=00:1A:79:76:0F:14&stream=162385&extension=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/3134.jpg?52263" group-title="UK| DOCUMENTARY ᴴᴰ/ᴿᴬᵂ",UK: SKY NATURE 4K ◉
+http://m3u.best-smarter.me:80/play/live.php?mac=00:1A:79:76:0F:14&stream=162384&extension=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/1395.png?11908" group-title="UK| DOCUMENTARY ʰᵉᵛᶜ",UK: NAT GEO WILD HEVC 4K
+http://m3u.best-smarter.me:80/play/live.php?mac=00:1A:79:76:0F:14&stream=717709&extension=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/60.jpg?60971" group-title="UK| DOCUMENTARY ʰᵉᵛᶜ",UK: NATIONAL GEO HEVC 4K
+http://m3u.best-smarter.me:80/play/live.php?mac=00:1A:79:76:0F:14&stream=717708&extension=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/621.jpg?41366" group-title="UK| DOCUMENTARY ʰᵉᵛᶜ",UK: HISTORY HEVC 4K
+http://m3u.best-smarter.me:80/play/live.php?mac=00:1A:79:76:0F:14&stream=717707&extension=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/3921.jpg?1338" group-title="UK| DOCUMENTARY ʰᵉᵛᶜ",UK: HISTORY 2 HEVC 4K
+http://m3u.best-smarter.me:80/play/live.php?mac=00:1A:79:76:0F:14&stream=717706&extension=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/13470.jpg?3770" group-title="UK| NOW TV ENTERTAINMENT ᴴᴰ/ᴿᴬᵂ",NOW: SKY ACTION ᴿᴬᵂ
+http://m3u.best-smarter.me:80/play/live.php?mac=00:1A:79:76:0F:14&stream=1527714&extension=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/13470.jpg?3770" group-title="UK| NOW TV ENTERTAINMENT ᴴᴰ/ᴿᴬᵂ",NOW: SKY ACTION ᴴᴰ
+http://m3u.best-smarter.me:80/play/live.php?mac=00:1A:79:76:0F:14&stream=1527713&extension=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/12112.jpg?55134" group-title="UK| NOW TV ENTERTAINMENT ᴴᴰ/ᴿᴬᵂ",NOW: SKY ARTS 1 ᴿᴬᵂ
+http://m3u.best-smarter.me:80/play/live.php?mac=00:1A:79:76:0F:14&stream=1527712&extension=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/12112.jpg?55134" group-title="UK| NOW TV ENTERTAINMENT ᴴᴰ/ᴿᴬᵂ",NOW: SKY ARTS 1 ᴴᴰ
+http://m3u.best-smarter.me:80/play/live.php?mac=00:1A:79:76:0F:14&stream=1527711&extension=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/6482.jpg?88948" group-title="UK| NOW TV ENTERTAINMENT ᴴᴰ/ᴿᴬᵂ",NOW: SKY ATLANTIC ᴿᴬᵂ
+http://m3u.best-smarter.me:80/play/live.php?mac=00:1A:79:76:0F:14&stream=1527710&extension=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/6482.jpg?88948" group-title="UK| NOW TV ENTERTAINMENT ᴴᴰ/ᴿᴬᵂ",NOW: SKY ATLANTIC ᴴᴰ
+http://m3u.best-smarter.me:80/play/live.php?mac=00:1A:79:76:0F:14&stream=1527709&extension=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/3261.png?33560" group-title="UK| NOW TV ENTERTAINMENT ᴴᴰ/ᴿᴬᵂ",NOW: SKY BOURNE ᴿᴬᵂ
+http://m3u.best-smarter.me:80/play/live.php?mac=00:1A:79:76:0F:14&stream=1527708&extension=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/3261.png?33560" group-title="UK| NOW TV ENTERTAINMENT ᴴᴰ/ᴿᴬᵂ",NOW: SKY BOURNE ᴴᴰ
+http://m3u.best-smarter.me:80/play/live.php?mac=00:1A:79:76:0F:14&stream=1527707&extension=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/6463.jpg?66392" group-title="UK| NOW TV ENTERTAINMENT ᴴᴰ/ᴿᴬᵂ",NOW: SKY CINEMA PREMIERE ᴿᴬᵂ
+http://m3u.best-smarter.me:80/play/live.php?mac=00:1A:79:76:0F:14&stream=1527706&extension=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/6463.jpg?66392" group-title="UK| NOW TV ENTERTAINMENT ᴴᴰ/ᴿᴬᵂ",NOW: SKY CINEMA PREMIERE ᴴᴰ
+http://m3u.best-smarter.me:80/play/live.php?mac=00:1A:79:76:0F:14&stream=1527705&extension=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/9672.png?51391" group-title="UK| TNT SPORT ᴴᴰ ⱽᴵᴾ",VIP: TNT SPORT 1 ᴴᴰ ʰᵉᵛᶜ
+http://m3u.best-smarter.me:80/play/live.php?mac=00:1A:79:76:0F:14&stream=1290372&extension=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/6400.png?67159" group-title="UK| TNT SPORT ᴴᴰ ⱽᴵᴾ",VIP: TNT SPORT 2 ᴴᴰ ʰᵉᵛᶜ
+http://m3u.best-smarter.me:80/play/live.php?mac=00:1A:79:76:0F:14&stream=1290371&extension=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/6123.png?96158" group-title="UK| TNT SPORT ᴴᴰ ⱽᴵᴾ",VIP: TNT SPORT 3 ᴴᴰ ʰᵉᵛᶜ
+http://m3u.best-smarter.me:80/play/live.php?mac=00:1A:79:76:0F:14&stream=1290370&extension=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/6398.png?95958" group-title="UK| TNT SPORT ᴴᴰ ⱽᴵᴾ",VIP: TNT SPORT 4 ᴴᴰ ʰᵉᵛᶜ
+http://m3u.best-smarter.me:80/play/live.php?mac=00:1A:79:76:0F:14&stream=1290369&extension=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/9672.png?83167" group-title="UK| SPORT ʰᵉᵛᶜ",UK: TNT SPORTS 1 HEVC HD
+http://m3u.best-smarter.me:80/play/live.php?mac=00:1A:79:76:0F:14&stream=621661&extension=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/6400.png?54855" group-title="UK| SPORT ʰᵉᵛᶜ",UK: TNT SPORTS 2 HEVC HD
+http://m3u.best-smarter.me:80/play/live.php?mac=00:1A:79:76:0F:14&stream=621660&extension=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/6123.png?67930" group-title="UK| SPORT ʰᵉᵛᶜ",UK: TNT SPORTS 3 HEVC HD
+http://m3u.best-smarter.me:80/play/live.php?mac=00:1A:79:76:0F:14&stream=621659&extension=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/6398.png?52533" group-title="UK| SPORT ʰᵉᵛᶜ",UK: TNT SPORTS 4 HEVC HD
+http://m3u.best-smarter.me:80/play/live.php?mac=00:1A:79:76:0F:14&stream=621658&extension=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/6545.png?72925" group-title="GR| ΑΘΛΗΤΙΚΑ/SPORTS VIP",GR: COSMOTE SPORT 1 ᴴᴰ ◉
+http://m3u.best-smarter.me:80/play/live.php?mac=00:1A:79:76:0F:14&stream=842765&extension=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/1969.png?29894" group-title="GR| ΑΘΛΗΤΙΚΑ/SPORTS VIP",GR: COSMOTE SPORT 2 ᴴᴰ ◉
+http://m3u.best-smarter.me:80/play/live.php?mac=00:1A:79:76:0F:14&stream=842764&extension=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/9355.png?71856" group-title="GR| ΑΘΛΗΤΙΚΑ/SPORTS VIP",GR: COSMOTE SPORT 3 ᴴᴰ ◉
+http://m3u.best-smarter.me:80/play/live.php?mac=00:1A:79:76:0F:14&stream=842763&extension=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/12445.jpg?56863" group-title="GR| ΑΘΛΗΤΙΚΑ/SPORTS VIP",GR: COSMOTE SPORT 4 ᴴᴰ ◉
+http://m3u.best-smarter.me:80/play/live.php?mac=00:1A:79:76:0F:14&stream=842762&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/bein/beinsports1.png" group-title="ARAB | BEIN VIP",AR: BEIN SPORTS 1
 http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/841
 #EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/bein/beinsports2.png" group-title="ARAB | BEIN VIP",AR: BEIN SPORTS 2
@@ -105,6 +165,10 @@ http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/376
 http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/377
 #EXTINF:-1 tvg-id="BEIN SPORTS MAX 6" tvg-name="FR: BEIN SPORT MAX 6" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_6.png" group-title="FR | SPORT VIP",FR: BEIN SPORT MAX 6
 http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/378
+#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/4757.jpg?68497" group-title="UK| MUSIC ᴴᴰ/ᴿᴬᵂ",UK: TRACE URBAN
+http://m3u.best-smarter.me:80/play/live.php?mac=00:1A:79:76:0F:14&stream=162421&extension=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/13024.jpg?22928" group-title="UK| MUSIC ᴴᴰ/ᴿᴬᵂ",UK: VH1
+http://m3u.best-smarter.me:80/play/live.php?mac=00:1A:79:76:0F:14&stream=162422&extension=ts
 #EXTINF:-1,PT: SPORT TV 1 FHD
 http://fortv.cc:8080/91990097/91990097/167742
 #EXTINF:-1,PT: SPORT TV 2 HD
