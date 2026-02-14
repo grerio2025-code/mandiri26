@@ -1,63 +1,115 @@
 #EXTM3U
-#EXTINF:0,Odisea,,0
+
+#EXTINF:0 group-title="Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBpG6wXpKH-Y8DhFrIeMpGEyh4Hj73Ba3yFQ&usqp=CAU",Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1894445364_b744100_sleng.m3u8
+#EXTINF:0 group-title="Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQITMOuw1_fxu9aL2jcWTyD_JOjdCeFbfrgUoBUXFy83XcDN64mjG4t7c5e&s=10",Transtv HD
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1676901579_b744100_sleng.m3u8
+#EXTINF:0 group-title="Indonesia" tvg-logo="http://www.dens.tv/images/channel-logo/6.jpg", Metro TV
+http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
+#EXTINF:0 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+#EXTINF:0 group-title="Indonesia" tvg-logo="http://www.dens.tv/images/channel-logo/9.jpg", SCTV
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+#EXTINF:0 group-title="Indonesia" tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg", INDOSIAR
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+#EXTINF:0 group-title="Indonesia" tvg-logo="http://www.dens.tv/images/channel-logo/107.jpg", Dens Play
+http://op-group1-swiftservehd-1.dens.tv/h/h246/02.m3u8
+#EXTINF:0 group-title="Indonesia" tvg-logo="http://www.dens.tv/images/channel-logo/42.jpg", Dens LifeStyle
+http://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
+#EXTINF:0 group-title="Indonesia" tvg-logo="http://www.dens.tv/images/channel-logo/37.jpg", TV5 Monde Style
+http://op-group1-swiftservehd-1.dens.tv/h/h121/01.m3u8
+#EXTINF:0 group-title="Indonesia" tvg-logo="http://www.dens.tv/images/channel-logo/7.jpg",TV One
+http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
+#EXTINF:0 group-title="Indonesia" tvg-logo="http://www.dens.tv/images/channel-logo/14.jpg", Kompas TV
+http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
+#EXTINF:0 group-title="Indonesia" tvg-logo="http://www.dens.tv/images/channel-logo/13.jpg", NET.
+http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+#EXTINF:0 group-title="Indonesia" tvg-logo="http://www.dens.tv/images/channel-logo/8.jpg", ANTV
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+#EXTINF:0 group-title="Indonesia" tvg-logo="http://www.dens.tv/images/channel-logo/22.jpg", RTV
+http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/122.jpg" group-title="Indonesia", MAGNA Tv
+http://op-group1-swiftservehd-1.dens.tv/h/h24/01.m3u8
+#EXTINF:0 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TVRI_JAKARTA_2023.svg/1200px-TVRI_JAKARTA_2023.svg.png",TVRI Jakarta
+https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI-avc1_1500000=10003-mp4a_96000=20001.m3u8
+#EXTINF:0 group-title="Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsqD0y4zANeHXWfwhVgAAiQYpudCPqeE1Sho-JoRR5&s",TVRI Aceh
+https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh-avc1_1500000=10006-mp4a_96000=20001.m3u8
+#EXTINF:-1 tvg-id="CNNInternationalAsiaPacific.us" tvg-name="CNN INDONESIA  =>1" tvg-logo="https://i.ibb.co/zx3WHbV/ASC.png" group-title="Lokal",CNN INDONESIA HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w412411721_b384000_sleng.m3u8
+#EXTINF:0, CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
+#EXTINF:0, BERITA SATU
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group1-swiftservehd-1.dens.tv/h/h128/index2.m3u8
+#EXTINF:0, SCTV
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+#EXTINF:0, INDOSIAR
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+
+#EXTINF:0,Odisea
 http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/135.ts
-#EXTINF:0,Dark,,0
+#EXTINF:0,Dark
 http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/140.ts
-#EXTINF:0,Filmbox Action,,0
+#EXTINF:0,Filmbox Action
 http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/3958.ts
 #EXTINF:-1 tvg-id="Cinr+ Frisson" tvg-name="FR: CINE+ FRISSON" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CINE_FRISSON.png" group-title="FR | CINEMA VIP",FR: CINE+ FRISSON
 http://vipbxcass.top:8080/VIP013121753051754520/d8621da32cbc/468
 #EXTINF:-1 tvg-id="Action" tvg-name="FR: ACTION" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/ACTION.png" group-title="FR | CINEMA VIP",FR: ACTION
 http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/482
-#EXTINF:0,Fr,,0
+#EXTINF:0,Fr
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=507434&extension=ts&play_token=d1xCEMXNV0
-#EXTINF:0,Fr2,,0
+#EXTINF:0,Fr2
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=812175&extension=ts&play_token=GLAYevYrnd
-#EXTINF:0,Club,,0
+#EXTINF:0,Club
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=1920570&extension=ts&play_token=Cq1FcAAurF
-#EXTINF:0,Action,,0
+#EXTINF:0,Action
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=507424&extension=ts&play_token=DmbKcY4Utm
-#EXTINF:0,NL Action,,0
+#EXTINF:0,NL Action
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=1282835&extension=ts&play_token=leGtNZC2A4
-#EXTINF:0,FB Action,,0
+#EXTINF:0,FB Action
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=1395475&extension=ts&play_token=mqU8zW1iSp
-#EXTINF:0,Filmbox 2,,0
+#EXTINF:0,Filmbox 2
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=1282831&extension=ts&play_token=wGeVxPtWAv
-#EXTINF:0,Polsat Play,,0
+#EXTINF:0,Polsat Play
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=1530203&extension=ts&play_token=RLoHICAJ6Q
-#EXTINF:0,Puls,,0
+#EXTINF:0,Puls
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=882099&extension=ts&play_token=6Ki9jEDwFb
-#EXTINF:0,Puls2,,0
+#EXTINF:0,Puls2
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=1530195&extension=ts&play_token=FVjjr8RDy0
-#EXTINF:0,PolPl,,0
+#EXTINF:0,PolPl
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=1530202&extension=ts&play_token=ONYxk9KFyk
-#EXTINF:0,Puls,,0
+#EXTINF:0,Puls
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=880339&extension=ts&play_token=yS40On4XI5
-#EXTINF:0,Puls4,,0
+#EXTINF:0,Puls4
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=880335&extension=ts&play_token=y9YnSeRcN7
-#EXTINF:0,Ch6,,0
+#EXTINF:0,Ch6
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=1530229&extension=ts&play_token=VzcvNuea95
-#EXTINF:0,6,,0
+#EXTINF:0,6
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=880371&extension=ts&play_token=DGcUrx3rvF
-#EXTINF:0,Cielo,,0
+#EXTINF:0,Cielo
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=691585&extension=ts&play_token=ecDZFp6Dgi
-#EXTINF:0,Rouge,,0
+#EXTINF:0,Rouge
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=1705705&extension=ts&play_token=KR3wosZgOH
-#EXTINF:0,Carac3,,0
+#EXTINF:0,Carac3
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=1705707&extension=ts&play_token=bQeiFMkNCg
-#EXTINF:0,OCS,,0
+#EXTINF:0,OCS
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=1581641&extension=ts&play_token=f7ymrQ8LEJ
-#EXTINF:0,OCS Go,,0
+#EXTINF:0,OCS Go
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=920274&extension=ts&play_token=P8zYXkEwUv
-#EXTINF:0,Cine Star Act,,0
+#EXTINF:0,Cine Star Act
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=110891&extension=ts&play_token=xXxZ4YHdw8
-#EXTINF:0,Cine Star,,0
+#EXTINF:0,Cine Star
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=110888&extension=ts&play_token=yWWMZfFQuU
-#EXTINF:0,Cine Star2,,0
+#EXTINF:0,Cine Star2
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=1565921&extension=ts&play_token=fCZrDfJZ6K
-#EXTINF:0,Odisea 4k,,0
+#EXTINF:0,Odisea 4k
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=1547335&extension=ts&play_token=nGV7IV8MEB
-#EXTINF:0,PIX HD,,0
+#EXTINF:0,PIX HD
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=1116481&extension=ts&play_token=TDiZjYTbOB
 #EXTINF:-1 tvg-logo="http://icon-tmdb.com/stalker_portal/misc/logos/320/3982.png?33746" group-title="UK| GENERAL ᴴᴰ/ᴿᴬᵂ",UK: BBC Earth HD ◉
 http://m3u.best-smarter.me:80/play/live.php?mac=00:1A:79:76:0F:14&stream=414042&extension=ts
