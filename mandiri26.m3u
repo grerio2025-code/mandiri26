@@ -231,7 +231,7 @@ http://fortv.cc:8080/91990097/91990097/57418
 #EXTINF:-1,CA (FR) TV5 
 http://fortv.cc:8080/91990097/91990097/57288
 
-EXTINF:-1 tvg-id="showcase.ca" tvg-name="SHOWCASE " tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Showcase15.png" group-title="USA",SHOWCASE 
+#EXTINF:-1 tvg-id="showcase.ca" tvg-name="SHOWCASE " tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Showcase15.png" group-title="USA",SHOWCASE 
 http://tkosportz.live:25461/Charlieb1088/1088/46107
 #EXTINF:-1 tvg-id="mtvclassic.us" tvg-name="MTV Classic" tvg-logo="https://i.imgur.com/ieAldkW.png" group-title="USA",MTV Classic
 http://tkosportz.live:25461/Charlieb1088/1088/46110
