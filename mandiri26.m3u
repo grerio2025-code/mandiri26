@@ -85,19 +85,19 @@ http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/3958.ts
 http://vipbxcass.top:8080/VIP013121753051754520/d8621da32cbc/468
 #EXTINF:-1 tvg-id="Action" tvg-name="FR: ACTION" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/ACTION.png" group-title="FR | CINEMA VIP",FR: ACTION
 http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/482
-#EXTINF:0,Fr
+#EXTINF:0,FR: CINE+ FRISSON
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=507434&extension=ts&play_token=d1xCEMXNV0
-#EXTINF:0,Fr2
+#EXTINF:0,Ziggo 2
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=812175&extension=ts&play_token=GLAYevYrnd
-#EXTINF:0,Club
+#EXTINF:0,FR: Club
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=1920570&extension=ts&play_token=Cq1FcAAurF
-#EXTINF:0,Action
+#EXTINF:0,Cine Action
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=507424&extension=ts&play_token=DmbKcY4Utm
-#EXTINF:0,NL Action
+#EXTINF:0,NL: Film Action
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=1282835&extension=ts&play_token=leGtNZC2A4
 #EXTINF:0,FB Action
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=1395475&extension=ts&play_token=mqU8zW1iSp
-#EXTINF:0,Filmbox 2
+#EXTINF:0,Filmbox Action 2
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=1282831&extension=ts&play_token=wGeVxPtWAv
 #EXTINF:0,Polsat Play
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=1530203&extension=ts&play_token=RLoHICAJ6Q
@@ -218,26 +218,22 @@ http://fortv.cc:8080/91990097/91990097/57418
 #EXTINF:-1,CA (FR) TV5 
 http://fortv.cc:8080/91990097/91990097/57288
 
-EXTINF:-1 tvg-id="showcase.ca" tvg-name="SHOWCASE " tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Showcase15.png" group-title="02. USA CABLE  TV #1",SHOWCASE 
+EXTINF:-1 tvg-id="showcase.ca" tvg-name="SHOWCASE " tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Showcase15.png" group-title="USA",SHOWCASE 
 http://tkosportz.live:25461/Charlieb1088/1088/46107
-#EXTINF:-1 tvg-id="mtvclassic.us" tvg-name="MTV Classic" tvg-logo="https://i.imgur.com/ieAldkW.png" group-title="02. USA CABLE  TV #1",MTV Classic
+#EXTINF:-1 tvg-id="mtvclassic.us" tvg-name="MTV Classic" tvg-logo="https://i.imgur.com/ieAldkW.png" group-title="USA",MTV Classic
 http://tkosportz.live:25461/Charlieb1088/1088/46110
-#EXTINF:-1 tvg-id="pixltv.us" tvg-name="PIXL" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Pixl.png" group-title="02. USA CABLE  TV #1",PIXL
+#EXTINF:-1 tvg-id="pixltv.us" tvg-name="PIXL" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Pixl.png" group-title="USA",PIXL
 http://tkosportz.live:25461/Charlieb1088/1088/48054
-#EXTINF:-1 tvg-id="mtv2.us" tvg-name="MTV II #2" tvg-logo="" group-title="02. USA CABLE TV #2",MTV II #2
+#EXTINF:-1 tvg-id="mtv2.us" tvg-name="MTV II #2" tvg-logo="" group-title="USA",MTV II #2
 http://tkosportz.live:25461/Charlieb1088/1088/41139
-#EXTINF:-1 tvg-id="smithsonianchannel.us" tvg-name="Smithsonian Channel #2" tvg-logo="" group-title="02. USA CABLE TV #2",Smithsonian Channel #2
+#EXTINF:-1 tvg-id="smithsonianchannel.us" tvg-name="Smithsonian Channel #2" tvg-logo="" group-title="USA",Smithsonian Channel #2
 http://tkosportz.live:25461/Charlieb1088/1088/41141
-#EXTINF:-1 tvg-id="insp.us" tvg-name="INSP #2" tvg-logo="" group-title="02. USA CABLE TV #2",INSP #2
+#EXTINF:-1 tvg-id="insp.us" tvg-name="INSP #2" tvg-logo="" group-title="USA",INSP #2
 http://tkosportz.live:25461/Charlieb1088/1088/41142
-#EXTINF:-1 tvg-id="cozinetwork.us" tvg-name="COZI TV #2" tvg-logo="" group-title="02. USA CABLE TV #2",COZI TV #2
+#EXTINF:-1 tvg-id="cozinetwork.us" tvg-name="COZI TV #2" tvg-logo="" group-title="USA",COZI TV #2
 http://tkosportz.live:25461/Charlieb1088/1088/41143
-#EXTINF:-1 tvg-id="metv.us" tvg-name="METV #2" tvg-logo="" group-title="02. USA CABLE TV #2",METV #2
-http://tkosportz.live:25461/Charlieb1088/1088/41144
 #EXTINF:-1 tvg-id="revolt.us" tvg-name="REVOLT" tvg-logo="" group-title="02. USA CABLE  TV #1",REVOLT
 http://tkosportz.live:25461/Charlieb1088/1088/58587
-#EXTINF:-1 tvg-id="" tvg-name="Gospel Truth TV" tvg-logo="" group-title="33. RELIGIOUS",Gospel Truth TV
-http://tkosportz.live:25461/Charlieb1088/1088/59738
 #EXTINF:-1 tvg-id="discoveryhistoryplus1.uk" tvg-name="DISCOVERY HISTORY" tvg-logo="https://img.apksum.com/49/discoveryguide.topdiscoveryshows.guidefordiscovery.discoveryguide/1.2/icon.png" group-title="02. USA CABLE  TV #1",DISCOVERY HISTORY
 http://tkosportz.live:25461/Charlieb1088/1088/45995
 #EXTINF:-1 tvg-id="lifetimenetwork.us" tvg-name="Lifetime #2" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Lifetime_2020.png" group-title="02. USA CABLE TV #2",Lifetime #2
@@ -256,22 +252,14 @@ http://tkosportz.live:25461/Charlieb1088/1088/17562
 http://tkosportz.live:25461/Charlieb1088/1088/17563
 #EXTINF:-1 tvg-id="discoveryscience.us" tvg-name="Science #2" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/05/Science_2016.png" group-title="02. USA CABLE TV #2",Science #2
 http://tkosportz.live:25461/Charlieb1088/1088/17564
-#EXTINF:-1 tvg-id="tbs.us" tvg-name="TBS #2" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/05/TBS_2015.png" group-title="02. USA CABLE TV #2",TBS #2
-http://tkosportz.live:25461/Charlieb1088/1088/17569
 #EXTINF:-1 tvg-id="tnt.us" tvg-name="TNT #2" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/05/TNT_2016.png" group-title="02. USA CABLE TV #2",TNT #2
 http://tkosportz.live:25461/Charlieb1088/1088/17570
 #EXTINF:-1 tvg-id="andtv.us" tvg-name="Travel Channel #2" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/05/Travel_Channel_2018.png" group-title="02. USA CABLE TV #2",Travel Channel #2
 http://tkosportz.live:25461/Charlieb1088/1088/17571
-#EXTINF:-1 tvg-id="tvlandeast.us" tvg-name="TV Land #2" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/tvland.png" group-title="02. USA CABLE TV #2",TV Land #2
-http://tkosportz.live:25461/Charlieb1088/1088/17572
 #EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN*" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/05/ESPN.png" group-title="02. USA CABLE TV #2",ESPN*
 http://tkosportz.live:25461/Charlieb1088/1088/17573
 #EXTINF:-1 tvg-id="foxsports2.us" tvg-name="FOX Sports 2 *" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/05/FS2_logo.png" group-title="02. USA CABLE TV #2",FOX Sports 2 *
 http://tkosportz.live:25461/Charlieb1088/1088/17575
-#EXTINF:-1 tvg-id="fetv.us" tvg-name="FETV #2" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/05/FETV2021.png" group-title="02. USA CABLE TV #2",FETV #2
-http://tkosportz.live:25461/Charlieb1088/1088/35697
-#EXTINF:-1 tvg-id="antennatv.us" tvg-name="Antenna Tv #2" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Antenna_TV_logo.png" group-title="02. USA CABLE TV #2",Antenna Tv #2
-http://tkosportz.live:25461/Charlieb1088/1088/36955
 #EXTINF:-1 tvg-id="fx.us" tvg-name="FX #2" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/FX.png" group-title="02. USA CABLE TV #2",FX #2
 http://tkosportz.live:25461/Charlieb1088/1088/17547
 #EXTINF:-1 tvg-id="fxx.us" tvg-name="FXX*" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/FXX.png" group-title="02. USA CABLE TV #2",FXX*
@@ -324,8 +312,6 @@ http://tkosportz.live:25461/Charlieb1088/1088/10358
 http://tkosportz.live:25461/Charlieb1088/1088/10361
 #EXTINF:-1 tvg-id="animalplanet.ca" tvg-name="ANIMAL PLANET" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Animal_Planet_2018.png" group-title="USA CABLE",ANIMAL PLANET
 http://tkosportz.live:25461/Charlieb1088/1088/10362
-#EXTINF:-1 tvg-id="bet.us" tvg-name="BET HD" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/BET_28201029.png" group-title="USA CABLE",BET HD
-http://tkosportz.live:25461/Charlieb1088/1088/10365
 #EXTINF:-1 tvg-id="bether.us" tvg-name="BET HER" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/BET_Her.png" group-title="USA CABLE",BET HER
 http://tkosportz.live:25461/Charlieb1088/1088/10366
 #EXTINF:-1 tvg-id="americanheroeschannel.us" tvg-name="AHC American Hero" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/American_Heroes_Channel.png" group-title="USA CABLE",AHC American Hero
@@ -396,12 +382,6 @@ http://tkosportz.live:25461/Charlieb1088/1088/14922
 http://tkosportz.live:25461/Charlieb1088/1088/14923
 #EXTINF:-1 tvg-id="starzencoresuspense.us" tvg-name="STARZ ENCORE SUSPENCE" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/06/Encore_Suspense_2013.png" group-title="USA CABLE",STARZ ENCORE SUSPENCE
 http://tkosportz.live:25461/Charlieb1088/1088/14924
-#EXTINF:-1 tvg-id="hln.ca" tvg-name="HLN HEAD LINE NEWS" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/HLN_2017.png" group-title="USA CABLE",HLN HEAD LINE NEWS
-http://tkosportz.live:25461/Charlieb1088/1088/10415
-#EXTINF:-1 tvg-id="buzzertv.us" tvg-name="BUZZER " tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Buzzr_TV_Network_Logo.png" group-title="USA CABLE",BUZZER 
-http://tkosportz.live:25461/Charlieb1088/1088/15367
-#EXTINF:-1 tvg-id="bouncetv.us" tvg-name="BOUNCE TV" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/bounce.png" group-title="USA CABLE",BOUNCE TV
-http://tkosportz.live:25461/Charlieb1088/1088/17504
 #EXTINF:-1 tvg-id="syfy.uk" tvg-name="SYFY HD" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Syfy_logo.png" group-title="USA CABLE",SYFY HD
 http://tkosportz.live:25461/Charlieb1088/1088/10445
 #EXTINF:-1 tvg-id="homeshoppingnetwork.us" tvg-name="HSN" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/hsn.png" group-title="USA CABLE",HSN
@@ -511,6 +491,39 @@ http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/132475
 http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/132476
 #EXTINF:-1 tvg-id="" tvg-name="XXX: ᴘʀᴇᴍɪᴜᴍ xxx Miami TV (18+)" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: ᴘʀᴇᴍɪᴜᴍ xxx Miami TV (18+)
 http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/132477
-
 #EXTINF:-1 tvg-id="" tvg-name="XXM: SEXART" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX More",XXM: SEXART
 http://aflaxtv.xyz:8080/rapidiptv/shhT6NQ6ZdFw5/302335
+#EXTINF:-1 tvg-id="" tvg-name="Babes TV HD" tvg-logo="" group-title="96. ADULT ",Babes TV HD
+http://tkosportz.live:25461/Charlieb1088/1088/71981
+EXTINF:-1 tvg-id="" tvg-name="Nuart" tvg-logo="" group-title="96. ADULT ",Nuart
+http://tkosportz.live:25461/Charlieb1088/1088/72021
+#EXTINF:-1 tvg-id="" tvg-name="O-la-la" tvg-logo="" group-title="96. ADULT ",O-la-la
+http://tkosportz.live:25461/Charlieb1088/1088/72022
+#EXTINF:-1 tvg-id="" tvg-name="Penthouse Gold HD" tvg-logo="" group-title="96. ADULT ",Penthouse Gold HD
+http://tkosportz.live:25461/Charlieb1088/1088/72025
+#EXTINF:-1 tvg-id="" tvg-name="Penthouse Passion HD" tvg-logo="" group-title="96. ADULT ",Penthouse Passion HD
+http://tkosportz.live:25461/Charlieb1088/1088/72026
+#EXTINF:-1 tvg-id="" tvg-name="Penthouse Reality TV HD" tvg-logo="" group-title="96. ADULT ",Penthouse Reality TV HD
+http://tkosportz.live:25461/Charlieb1088/1088/72027
+#EXTINF:-1 tvg-id="" tvg-name="Pinko Club" tvg-logo="" group-title="96. ADULT ",Pinko Club
+http://tkosportz.live:25461/Charlieb1088/1088/72028
+#EXTINF:-1 tvg-id="" tvg-name="Playboy TV Europe HD" tvg-logo="" group-title="96. ADULT ",Playboy TV Europe HD
+http://tkosportz.live:25461/Charlieb1088/1088/72029
+#EXTINF:-1 tvg-id="" tvg-name="Playboy TV LA" tvg-logo="" group-title="96. ADULT ",Playboy TV LA
+http://tkosportz.live:25461/Charlieb1088/1088/72030
+#EXTINF:-1 tvg-id="" tvg-name="Playhouse HD" tvg-logo="" group-title="96. ADULT ",Playhouse HD
+http://tkosportz.live:25461/Charlieb1088/1088/72031
+#EXTINF:-1 tvg-id="" tvg-name="Private HD" tvg-logo="" group-title="96. ADULT ",Private HD
+http://tkosportz.live:25461/Charlieb1088/1088/72032
+#EXTINF:-1 tvg-id="" tvg-name="Pure Babes" tvg-logo="" group-title="96. ADULT ",Pure Babes
+http://tkosportz.live:25461/Charlieb1088/1088/72033
+#EXTINF:-1 tvg-id="" tvg-name="Vixen HD" tvg-logo="" group-title="96. ADULT ",Vixen HD
+http://tkosportz.live:25461/Charlieb1088/1088/72048
+#EXTINF:-1 tvg-id="" tvg-name="XXL" tvg-logo="" group-title="96. ADULT ",XXL
+http://tkosportz.live:25461/Charlieb1088/1088/72050
+#EXTINF:-1 tvg-id="" tvg-name="XY Max HD" tvg-logo="" group-title="96. ADULT ",XY Max HD
+http://tkosportz.live:25461/Charlieb1088/1088/72051
+#EXTINF:-1 tvg-id="" tvg-name="XY Mix HD" tvg-logo="" group-title="96. ADULT ",XY Mix HD
+http://tkosportz.live:25461/Charlieb1088/1088/72052
+#EXTINF:-1 tvg-id="" tvg-name="XY Plus HD" tvg-logo="" group-title="96. ADULT ",XY Plus HD
+http://tkosportz.live:25461/Charlieb1088/1088/72053
