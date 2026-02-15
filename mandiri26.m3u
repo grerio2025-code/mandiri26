@@ -74,6 +74,10 @@ http://31.148.48.15/Europa_Plus_HD/index.m3u8
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 #EXTINF:-1 tvg-id="FashionTVSecrets.fr@HD",FashionTV Secrets (1080p)
 https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1
+#EXTINF:-1 tvg-id="fashiontv.nl" tvg-name="NL: FASHION TV HD" tvg-logo="https://tvlogo.nl/files/ch/PORTEK%C4%B0Z/FASHION%20TV%20HD.png" group-title="NL | GENERAL",NL: FASHION TV HD
+http://xcmaster.live:8080/mmichi/Brigitte.3382/308105
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV HD" tvg-logo="" group-title="FR | FRANCE / HEVC",FASHION TV HD
+http://xcmaster.live:8080/mmichi/Brigitte.3382/310097
 
 #EXTINF:0,Odisea
 http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/135.ts
@@ -85,6 +89,15 @@ http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/3958.ts
 http://vipbxcass.top:8080/VIP013121753051754520/d8621da32cbc/468
 #EXTINF:-1 tvg-id="Action" tvg-name="FR: ACTION" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/ACTION.png" group-title="FR | CINEMA VIP",FR: ACTION
 http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/482
+#EXTINF:-1 tvg-id="cineplusclub.fr" tvg-name="FR: CINE+ CLUB HEVC" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9yr9ClgwXYMM7NEXlU-xWpmrgjLgQoTKAjwqgOpKOq5uw.png" group-title="FR | CINEMA / HEVC",FR: CINE+ CLUB HEVC
+http://xcmaster.live:8080/mmichi/Brigitte.3382/198219
+#EXTINF:-1 tvg-id="cineplusclub.fr" tvg-name="FR: CINE+ CLUB FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9yr9ClgwXYMM7NEXlU-xWpmrgjLgQoTKAjwqgOpKOq5uw.png" group-title="FR | CINEMA / HEVC",FR: CINE+ CLUB FHD
+http://xcmaster.live:8080/mmichi/Brigitte.3382/198154
+#EXTINF:-1 tvg-id="cineplusfrisson.fr" tvg-name="FR: CINE+ FRISSON HEVC" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9yr9ClgwXYMM7NEXlU-xWpmGqTR5ci5wdp90L4OwN7T5g.png" group-title="FR | CINEMA / HEVC",FR: CINE+ FRISSON HEVC
+http://xcmaster.live:8080/mmichi/Brigitte.3382/198217
+#EXTINF:-1 tvg-id="action.fr" tvg-name="FR: ACTION HEVC" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9w-S96CR4QPL27T4BADNHDY1qlJpYNagEtpXe80xkTvpw.png" group-title="FR | CINEMA / HEVC",FR: ACTION HEVC
+http://xcmaster.live:8080/mmichi/Brigitte.3382/198227
+
 #EXTINF:0,FR: CINE+ FRISSON
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=507434&extension=ts&play_token=d1xCEMXNV0
 #EXTINF:0,Ziggo 2
