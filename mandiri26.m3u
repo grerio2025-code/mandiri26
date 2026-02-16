@@ -73,8 +73,6 @@ https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HL
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=85575&extension=ts
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/traceurban.png" group-title="AFR| GENERAL",MUSIC| TRACE URBAN
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=85506&extension=ts
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/FRANCE.png" group-title="FR| FRANCE FHD",##### MUSIQUE FHD #####
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=814562&extension=ts
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/M6MUSIC.png" group-title="FR| FRANCE FHD",FR| M6 MUSIC FHD
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=506496&extension=ts
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/NRJHITS.png" group-title="FR| FRANCE FHD",FR| NRJ HITS FHD
@@ -104,12 +102,6 @@ http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1430261&
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/JUST-FOR-LAUGHS-GAGS.png" group-title="FR| PREMIUM PLAY",FR| JUST FOR LAUGHS GAGS
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1531569&extension=ts
 
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/CX.png" group-title="General",EN| XMAS VEVO BEST HITS
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1729377&extension=ts
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/CX.png" group-title="General",EN| XMAS VEVO HIP HOP
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1729378&extension=ts
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/CX.png" group-title="General",EN| XMAS VEVO MUSIC
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1729379&extension=ts
 #EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/skysportsmainevent.png" group-title="4K UHD 3840P",4K| SKY SPORTS MAIN EVENTS UHD
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1608071&extension=ts
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SKY-SPORTS-UHD.png" group-title="4K UHD 3840P",4K| SKY SPORTS UHD [EVENT]
@@ -182,12 +174,6 @@ http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1640386&
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1471386&extension=ts
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MUSEUM.png" group-title="4K UHD 3840P",4K| MUSEUM UHD
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1632124&extension=ts
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/BLOOMBERG-HD.png" group-title="4K UHD 3840P",4K| BLOOMBERG UHD
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1470604&extension=ts
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/CNN.png" group-title="4K UHD 3840P",4K| CNN UHD 4K
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1470653&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="4K UHD 3840P",4K| TRT UHD
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1471380&extension=ts
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/COCINA.png" group-title="4K UHD 3840P",4K| COCINA UHD
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1471385&extension=ts
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/DECASA.png" group-title="4K UHD 3840P",4K| DECASA UHD
@@ -196,10 +182,6 @@ http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1471384&
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1620282&extension=ts
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/UHD-1-BY-ASTRA.png" group-title="4K UHD 3840P",4K| UHD 1 BY ASTRA
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1491209&extension=ts
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/QVC-ZWEI-UHD.png" group-title="4K UHD 3840P",4K| QVC ZWEI UHD
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1491208&extension=ts
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/QVC-UHD.png" group-title="4K UHD 3840P",4K| QVC UHD
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1491207&extension=ts
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ODISEA.png" group-title="4K UHD 3840P",4K| ODISEA UHD
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1471383&extension=ts
 
