@@ -72,12 +72,107 @@ http://31.148.48.15/Bridge_TV_Dance/index.m3u8
 http://31.148.48.15/Europa_Plus_HD/index.m3u8
 #EXTINF:-1 tvg-id="FashionTVParisLOriginal.fr@SD",FashionTV Paris L'Original (1080p)
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
-#EXTINF:-1 tvg-id="FashionTVSecrets.fr@HD",FashionTV Secrets (1080p)
-https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1
-#EXTINF:-1 tvg-id="fashiontv.nl" tvg-name="NL: FASHION TV HD" tvg-logo="https://tvlogo.nl/files/ch/PORTEK%C4%B0Z/FASHION%20TV%20HD.png" group-title="NL | GENERAL",NL: FASHION TV HD
-http://xcmaster.live:8080/mmichi/Brigitte.3382/308105
-#EXTINF:-1 tvg-id="" tvg-name="FASHION TV HD" tvg-logo="" group-title="FR | FRANCE / HEVC",FASHION TV HD
-http://xcmaster.live:8080/mmichi/Brigitte.3382/310097
+#EXTINF:-1 tvg-logo="" group-title="AFR| GENERAL",NIG| FASHION TV
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=85575&extension=ts
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/CX.png" group-title="General",EN| XMAS VEVO BEST HITS
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1729377&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/CX.png" group-title="General",EN| XMAS VEVO HIP HOP
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1729378&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/CX.png" group-title="General",EN| XMAS VEVO MUSIC
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1729379&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/skysportsmainevent.png" group-title="4K UHD 3840P",4K| SKY SPORTS MAIN EVENTS UHD
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1608071&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SKY-SPORTS-UHD.png" group-title="4K UHD 3840P",4K| SKY SPORTS UHD [EVENT]
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1471387&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SKY-SPORTS-1.png" group-title="4K UHD 3840P",4K| SKY SPORTS 1 UHD
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1608068&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SKY-SPORTS-2.png" group-title="4K UHD 3840P",4K| SKY SPORTS 2 UHD
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1608069&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ITALY/SKY-SPORTF1.png" group-title="4K UHD 3840P",4K| SKY SPORTS F1 UHD
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1761500&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SKY-SPORTS-F1-UHD.png" group-title="4K UHD 3840P",4K| SKY SPORTS DARTS UHD
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1471382&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ZEE-TV.png" group-title="4K UHD 3840P",4K| ZEE TV UHD
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1761502&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/tntsports.png" group-title="4K UHD 3840P",4K| TNT ULTIMATE 4K+ [LIVE-EVENT]
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1595637&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/tntsports.png" group-title="4K UHD 3840P",4K| TNT SPORTS UHD [EVENT]
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1479591&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/Astro_Supersport_HD.png" group-title="4K UHD 3840P",4K| ASTRO SUPERSPORT UHD
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1479590&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/NOW-SPORTS.png" group-title="4K UHD 3840P",4K| NOW SPORTS (EPL) UHD
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1470622&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/SPORTSNET-360.png" group-title="4K UHD 3840P",4K| SPORTSNET 360 UHD
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1470603&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/espnuhd.png" group-title="4K UHD 3840P",4K| ESPN UHD
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1481941&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ELEVEN-SPORTS-1.png" group-title="4K UHD 3840P",4K| ELEVEN SPORTS 1 UHD
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1470618&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/ziggosportuhd.png" group-title="4K UHD 3840P",4K| ZIGGO SPORT UHD
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1481950&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/DAZN-LA-LIGA-.PNG" group-title="4K UHD 3840P",4K| DAZN LA LIGA TV UHD
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1471376&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/LIGA-CAMPEONES.png" group-title="4K UHD 3840P",4K| LIGA CAMPEONES UHD
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1471377&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SPORT-TV-1.png" group-title="4K UHD 3840P",4K| SPORT TV PT UHD
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1471378&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/V-SPORT-PLUS.png" group-title="4K UHD 3840P",4K| V SPORT+ UHD
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1632123&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/5SPORT.png" group-title="4K UHD 3840P",4K| 5SPORT UHD
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1470620&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/ARCHIV-81.png" group-title="4K UHD 3840P",4k| ARCHIV 81 UHD/4K
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1749221&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/SPECIAL-BOX.png" group-title="4K UHD 3840P",4k| SPECIAL BOX UHD/4K
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1749220&extension=ts
+#EXTINF:-1 tvg-logo="https://logo.protv.cc/piconsnew/sportklub.png" group-title="4K UHD 3840P",4k| SPORT KLUB UHD/4K
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1749219&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DIGI.png" group-title="4K UHD 3840P",4K| DIGI UHD
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1632122&extension=ts
+#EXTINF:-1 tvg-logo="https://epgx.site/p/bein-sports-4k.png" group-title="4K UHD 3840P",4K| BEIN SPORTS AR [EVENT]
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1500113&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/tf1.png" group-title="4K UHD 3840P",4k| TF1 HDR/UHD/4K
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1640379&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/tf1.png" group-title="4K UHD 3840P",4k| TF1 UHD/4K
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1640384&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/NESN-UHD.png" group-title="4K UHD 3840P",4k| NESN UHD/4K+
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1124351&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/M6-UHD.png" group-title="4K UHD 3840P",4k| M6 UHD/4K
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1640383&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/FOOT-PLUS.png" group-title="4K UHD 3840P",4k| EVENEMENT SPORT HDR/UHD/4K
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1640385&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-PLUS-UHD.png" group-title="4K UHD 3840P",4k| CANAL+ EVENEMENT UHD/4K
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1640388&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-PLUS-UHD.png" group-title="4K UHD 3840P",4k| CANAL+ HDR/UHD/4K
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1640387&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/CANAL-PLUS-UHD.png" group-title="4K UHD 3840P",4k| CANAL+ BOX OFFICE UHD/4K
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1640380&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/LOUPE-ART.png" group-title="4K UHD 3840P",4k| LOUPE ART UHD/4K
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1640386&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/LOVE-NATURE-UHD1.png" group-title="4K UHD 3840P",4K| LOVE NATURE UHD
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1471386&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MUSEUM.png" group-title="4K UHD 3840P",4K| MUSEUM UHD
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1632124&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/BLOOMBERG-HD.png" group-title="4K UHD 3840P",4K| BLOOMBERG UHD
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1470604&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/CNN.png" group-title="4K UHD 3840P",4K| CNN UHD 4K
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1470653&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="4K UHD 3840P",4K| TRT UHD
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1471380&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/COCINA.png" group-title="4K UHD 3840P",4K| COCINA UHD
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1471385&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/DECASA.png" group-title="4K UHD 3840P",4K| DECASA UHD
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1471384&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/LA1.png" group-title="4K UHD 3840P",4K| LA 1 UHD
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1620282&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/UHD-1-BY-ASTRA.png" group-title="4K UHD 3840P",4K| UHD 1 BY ASTRA
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1491209&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/QVC-ZWEI-UHD.png" group-title="4K UHD 3840P",4K| QVC ZWEI UHD
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1491208&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/QVC-UHD.png" group-title="4K UHD 3840P",4K| QVC UHD
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1491207&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ODISEA.png" group-title="4K UHD 3840P",4K| ODISEA UHD
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1471383&extension=ts
 
 #EXTINF:0,Odisea
 http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/135.ts
@@ -85,18 +180,6 @@ http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/135.ts
 http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/140.ts
 #EXTINF:0,Filmbox Action
 http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/3958.ts
-#EXTINF:-1 tvg-id="Cinr+ Frisson" tvg-name="FR: CINE+ FRISSON" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CINE_FRISSON.png" group-title="FR | CINEMA VIP",FR: CINE+ FRISSON
-http://vipbxcass.top:8080/VIP013121753051754520/d8621da32cbc/468
-#EXTINF:-1 tvg-id="Action" tvg-name="FR: ACTION" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/ACTION.png" group-title="FR | CINEMA VIP",FR: ACTION
-http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/482
-#EXTINF:-1 tvg-id="cineplusclub.fr" tvg-name="FR: CINE+ CLUB HEVC" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9yr9ClgwXYMM7NEXlU-xWpmrgjLgQoTKAjwqgOpKOq5uw.png" group-title="FR | CINEMA / HEVC",FR: CINE+ CLUB HEVC
-http://xcmaster.live:8080/mmichi/Brigitte.3382/198219
-#EXTINF:-1 tvg-id="cineplusclub.fr" tvg-name="FR: CINE+ CLUB FHD" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9yr9ClgwXYMM7NEXlU-xWpmrgjLgQoTKAjwqgOpKOq5uw.png" group-title="FR | CINEMA / HEVC",FR: CINE+ CLUB FHD
-http://xcmaster.live:8080/mmichi/Brigitte.3382/198154
-#EXTINF:-1 tvg-id="cineplusfrisson.fr" tvg-name="FR: CINE+ FRISSON HEVC" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9yr9ClgwXYMM7NEXlU-xWpmGqTR5ci5wdp90L4OwN7T5g.png" group-title="FR | CINEMA / HEVC",FR: CINE+ FRISSON HEVC
-http://xcmaster.live:8080/mmichi/Brigitte.3382/198217
-#EXTINF:-1 tvg-id="action.fr" tvg-name="FR: ACTION HEVC" tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9w-S96CR4QPL27T4BADNHDY1qlJpYNagEtpXe80xkTvpw.png" group-title="FR | CINEMA / HEVC",FR: ACTION HEVC
-http://xcmaster.live:8080/mmichi/Brigitte.3382/198227
 
 #EXTINF:0,FR: CINE+ FRISSON
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=507434&extension=ts&play_token=d1xCEMXNV0
@@ -222,68 +305,14 @@ http://fortv.cc:8080/91990097/91990097/47338
 http://fortv.cc:8080/91990097/91990097/57450
 #EXTINF:-1,CA Love Nature HD 
 http://fortv.cc:8080/91990097/91990097/47324
-#EXTINF:-1,CA | BBC EARTH
-http://fortv.cc:8080/91990097/91990097/99621
-#EXTINF:-1,CA Discovery Channel 
-http://fortv.cc:8080/91990097/91990097/57252
-#EXTINF:-1,CA: Discovery Science
-http://fortv.cc:8080/91990097/91990097/57418
-#EXTINF:-1,CA (FR) TV5 
-http://fortv.cc:8080/91990097/91990097/57288
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/BBC-EARTH.png" group-title="CA| ENGLISH",CA| BBC EARTH HD
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=176867&extension=ts
 #EXTINF:-1 tvg-id="showcase.ca" tvg-name="SHOWCASE " tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Showcase15.png" group-title="USA",SHOWCASE  
 http://tkosportz.live:25461/Charlieb1088/1088/46107
 #EXTINF:-1 tvg-id="mtvclassic.us" tvg-name="MTV Classic" tvg-logo="https://i.imgur.com/ieAldkW.png" group-title="USA",MTV Classic
 http://tkosportz.live:25461/Charlieb1088/1088/46110
 #EXTINF:-1 tvg-id="pixltv.us" tvg-name="PIXL" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Pixl.png" group-title="USA",PIXL
 http://tkosportz.live:25461/Charlieb1088/1088/48054
-#EXTINF:-1 tvg-id="mtv2.us" tvg-name="MTV II #2" tvg-logo="" group-title="USA",MTV II #2
-http://tkosportz.live:25461/Charlieb1088/1088/41139
-#EXTINF:-1 tvg-id="smithsonianchannel.us" tvg-name="Smithsonian Channel #2" tvg-logo="" group-title="USA",Smithsonian Channel #2
-http://tkosportz.live:25461/Charlieb1088/1088/41141
-#EXTINF:-1 tvg-id="insp.us" tvg-name="INSP #2" tvg-logo="" group-title="USA",INSP #2
-http://tkosportz.live:25461/Charlieb1088/1088/41142
-#EXTINF:-1 tvg-id="cozinetwork.us" tvg-name="COZI TV #2" tvg-logo="" group-title="USA",COZI TV #2
-http://tkosportz.live:25461/Charlieb1088/1088/41143
-#EXTINF:-1 tvg-id="revolt.us" tvg-name="REVOLT" tvg-logo="" group-title="02. USA CABLE  TV #1",REVOLT
-http://tkosportz.live:25461/Charlieb1088/1088/58587
-#EXTINF:-1 tvg-id="discoveryhistoryplus1.uk" tvg-name="DISCOVERY HISTORY" tvg-logo="https://img.apksum.com/49/discoveryguide.topdiscoveryshows.guidefordiscovery.discoveryguide/1.2/icon.png" group-title="02. USA CABLE  TV #1",DISCOVERY HISTORY
-http://tkosportz.live:25461/Charlieb1088/1088/45995
-#EXTINF:-1 tvg-id="lifetimenetwork.us" tvg-name="Lifetime #2" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Lifetime_2020.png" group-title="02. USA CABLE TV #2",Lifetime #2
-http://tkosportz.live:25461/Charlieb1088/1088/17557
-#EXTINF:-1 tvg-id="lifetimemovies.us" tvg-name="Lifetime Movies #2" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Lifetime_Movie_Network_2019.png" group-title="02. USA CABLE TV #2",Lifetime Movies #2
-http://tkosportz.live:25461/Charlieb1088/1088/17558
-#EXTINF:-1 tvg-id="mtvlive.us" tvg-name="MTV LIVE #2" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/MTV_28201029.png" group-title="02. USA CABLE TV #2",MTV LIVE #2
-http://tkosportz.live:25461/Charlieb1088/1088/17559
-#EXTINF:-1 tvg-id="natgeo.us" tvg-name="National Geo #2" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/National_Geographic_2008.png" group-title="02. USA CABLE TV #2",National Geo #2
-http://tkosportz.live:25461/Charlieb1088/1088/17560
-#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="Nat Geo Wild #2" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/National_Geographic_Wild_2018.png" group-title="02. USA CABLE TV #2",Nat Geo Wild #2
-http://tkosportz.live:25461/Charlieb1088/1088/17561
-#EXTINF:-1 tvg-id="paramountnetwork.us" tvg-name="Paramount #2" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Paramount_Network.png" group-title="02. USA CABLE TV #2",Paramount #2
-http://tkosportz.live:25461/Charlieb1088/1088/17562
-#EXTINF:-1 tvg-id="poptv.us" tvg-name="POP #2" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/05/Pop_channel_blue.png" group-title="02. USA CABLE TV #2",POP #2
-http://tkosportz.live:25461/Charlieb1088/1088/17563
-#EXTINF:-1 tvg-id="discoveryscience.us" tvg-name="Science #2" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/05/Science_2016.png" group-title="02. USA CABLE TV #2",Science #2
-http://tkosportz.live:25461/Charlieb1088/1088/17564
-#EXTINF:-1 tvg-id="tnt.us" tvg-name="TNT #2" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/05/TNT_2016.png" group-title="02. USA CABLE TV #2",TNT #2
-http://tkosportz.live:25461/Charlieb1088/1088/17570
-#EXTINF:-1 tvg-id="andtv.us" tvg-name="Travel Channel #2" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/05/Travel_Channel_2018.png" group-title="02. USA CABLE TV #2",Travel Channel #2
-http://tkosportz.live:25461/Charlieb1088/1088/17571
-#EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN*" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/05/ESPN.png" group-title="02. USA CABLE TV #2",ESPN*
-http://tkosportz.live:25461/Charlieb1088/1088/17573
-#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="FOX Sports 2 *" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/05/FS2_logo.png" group-title="02. USA CABLE TV #2",FOX Sports 2 *
-http://tkosportz.live:25461/Charlieb1088/1088/17575
-#EXTINF:-1 tvg-id="fx.us" tvg-name="FX #2" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/FX.png" group-title="02. USA CABLE TV #2",FX #2
-http://tkosportz.live:25461/Charlieb1088/1088/17547
-#EXTINF:-1 tvg-id="fxx.us" tvg-name="FXX*" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/FXX.png" group-title="02. USA CABLE TV #2",FXX*
-http://tkosportz.live:25461/Charlieb1088/1088/17548
-#EXTINF:-1 tvg-id="hallmark.us" tvg-name="Hallmark Channel*" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Hallmark_Channel.png" group-title="02. USA CABLE TV #2",Hallmark Channel*
-http://tkosportz.live:25461/Charlieb1088/1088/17549
-#EXTINF:-1 tvg-id="hallmarkdrama.us" tvg-name="Hallmark Drama*" tvg-logo="https://skeplayer.com/wp-content/uploads/2020/11/halldrama.png" group-title="02. USA CABLE TV #2",Hallmark Drama*
-http://tkosportz.live:25461/Charlieb1088/1088/17550
-#EXTINF:-1 tvg-id="hallmarkmoviesmysteries.us" tvg-name="Hallmark Movies & Mysteries*" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Hallmark_Movies_26_Mysteries_28Gold29.png" group-title="02. USA CABLE TV #2",Hallmark Movies & Mysteries*
-http://tkosportz.live:25461/Charlieb1088/1088/17551
-#EXTINF:-1 tvg-id="hgtv.us" tvg-name="HGTV #2" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/05/Home_Garden_Television.png" group-title="02. USA CABLE TV #2",HGTV #2
-http://tkosportz.live:25461/Charlieb1088/1088/17553
 #EXTINF:-1 tvg-id="vh1.us" tvg-name="VH1 " tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/VH1_2013.png" group-title="02. USA CABLE  TV #1",VH1 
 http://tkosportz.live:25461/Charlieb1088/1088/10457
 #EXTINF:-1 tvg-id="destinationamerica.us" tvg-name="DESTINATION AMERICA" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Destination_America_2015.png" group-title="USA CABLE",DESTINATION AMERICA
@@ -326,10 +355,6 @@ http://tkosportz.live:25461/Charlieb1088/1088/10361
 http://tkosportz.live:25461/Charlieb1088/1088/10362
 #EXTINF:-1 tvg-id="bether.us" tvg-name="BET HER" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/BET_Her.png" group-title="USA CABLE",BET HER
 http://tkosportz.live:25461/Charlieb1088/1088/10366
-#EXTINF:-1 tvg-id="americanheroeschannel.us" tvg-name="AHC American Hero" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/American_Heroes_Channel.png" group-title="USA CABLE",AHC American Hero
-http://tkosportz.live:25461/Charlieb1088/1088/10370
-#EXTINF:-1 tvg-id="axstv.us" tvg-name="AXS TV" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/AXS_TV_2012.png" group-title="USA CABLE",AXS TV
-http://tkosportz.live:25461/Charlieb1088/1088/10371
 #EXTINF:-1 tvg-id="bbcamerica.us" tvg-name="BBC America" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/BBC_America_2008.png" group-title="USA CABLE",BBC America
 http://tkosportz.live:25461/Charlieb1088/1088/10372
 #EXTINF:-1 tvg-id="bravo.us" tvg-name="BRAVO HD" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Bravo_2017.png" group-title="USA CABLE",BRAVO HD
@@ -366,8 +391,6 @@ http://tkosportz.live:25461/Charlieb1088/1088/14168
 http://tkosportz.live:25461/Charlieb1088/1088/14169
 #EXTINF:-1 tvg-id="showtimefamilyzone.us" tvg-name="SHOWTIME FAMILY ZONE" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Showtime_Family_Zone.png" group-title="USA CABLE",SHOWTIME FAMILY ZONE
 http://tkosportz.live:25461/Charlieb1088/1088/14171
-#EXTINF:-1 tvg-id="shoxbet.us" tvg-name="SHOW X BET" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/01/shobet.png" group-title="USA CABLE",SHOW X BET
-http://tkosportz.live:25461/Charlieb1088/1088/14173
 #EXTINF:-1 tvg-id="showtimewest.us" tvg-name="SHOWTIME WEST " tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/showtime-west-logo.png" group-title="USA CABLE",SHOWTIME WEST 
 http://tkosportz.live:25461/Charlieb1088/1088/14174
 #EXTINF:-1 tvg-id="epixhits.us" tvg-name="EPIX HITS" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Epix-hits-new-logo-1.png" group-title="USA CABLE",EPIX HITS
@@ -404,14 +427,6 @@ http://tkosportz.live:25461/Charlieb1088/1088/22375
 http://tkosportz.live:25461/Charlieb1088/1088/22376
 #EXTINF:-1 tvg-id="hbosignature.us" tvg-name="HBO SIGNATURE" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/HBO_Signature_2000.png" group-title="03. MOVIE CHANNELS",HBO SIGNATURE
 http://tkosportz.live:25461/Charlieb1088/1088/13436
-#EXTINF:-1 tvg-id="hbozone.us" tvg-name="HBO ZONE" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/HBO_Zone_2000.png" group-title="03. MOVIE CHANNELS",HBO ZONE
-http://tkosportz.live:25461/Charlieb1088/1088/13437
-#EXTINF:-1 tvg-id="hbo.ca" tvg-name="HBO CA 1" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/02/hbo-ca1.png" group-title="03. MOVIE CHANNELS",HBO CA 1
-http://tkosportz.live:25461/Charlieb1088/1088/13440
-#EXTINF:-1 tvg-id="hbo2.ca" tvg-name="HBO CA 2" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/02/hbo-ca1.png" group-title="03. MOVIE CHANNELS",HBO CA 2
-http://tkosportz.live:25461/Charlieb1088/1088/13441
-#EXTINF:-1 tvg-id="tmc.us" tvg-name="The Movie Channel" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/02/the-movie-channel-logo-png-transparent.png" group-title="03. MOVIE CHANNELS",The Movie Channel
-http://tkosportz.live:25461/Charlieb1088/1088/13449
 #EXTINF:-1 tvg-id="movieplex.us" tvg-name="MoviePlex" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Movieplex-logo.png" group-title="03. MOVIE CHANNELS",MoviePlex
 http://tkosportz.live:25461/Charlieb1088/1088/13984
 #EXTINF:-1 tvg-id="outermax.us" tvg-name="Cinemax Outermax" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/OuterMax_2011.png" group-title="03. MOVIE CHANNELS",Cinemax Outermax
@@ -440,22 +455,7 @@ http://tkosportz.live:25461/Charlieb1088/1088/38620
 http://tkosportz.live:25461/Charlieb1088/1088/40759
 #EXTINF:-1 tvg-id="starzwest.us" tvg-name="Starz West" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Starz_2016.png" group-title="03. MOVIE CHANNELS",Starz West
 http://tkosportz.live:25461/Charlieb1088/1088/43857
-#EXTINF:-1 tvg-id="movietime.ca" tvg-name="MovieTime" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/10/MovieTime_logo.png" group-title="03. MOVIE CHANNELS",MovieTime
-http://tkosportz.live:25461/Charlieb1088/1088/45944
-#EXTINF:-1 tvg-id="starz1.ca" tvg-name="STARZ 1 " tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Starz_2016.png" group-title="03. MOVIE CHANNELS",STARZ 1 
-http://tkosportz.live:25461/Charlieb1088/1088/48246
-#EXTINF:-1 tvg-id="screenpixwesterns.us" tvg-name="ScreenPix Westerns" tvg-logo="" group-title="03. MOVIE CHANNELS",ScreenPix Westerns
-http://tkosportz.live:25461/Charlieb1088/1088/52705
-#EXTINF:-1 tvg-id="screenpix.us" tvg-name="SCREEN PIX" tvg-logo="" group-title="03. MOVIE CHANNELS",SCREEN PIX
-http://tkosportz.live:25461/Charlieb1088/1088/56262
-#EXTINF:-1 tvg-id="sonymax.uk" tvg-name="SONY MOVIES" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Sony_Movies_2019.png" group-title="03. MOVIE CHANNELS",SONY MOVIES
-http://tkosportz.live:25461/Charlieb1088/1088/14850
-#EXTINF:-1 tvg-id="skythriller.uk" tvg-name="ScreenPix Action" tvg-logo="" group-title="03. MOVIE CHANNELS",ScreenPix Action
-http://tkosportz.live:25461/Charlieb1088/1088/59833
-#EXTINF:-1 tvg-id="" tvg-name="CA: BBC Earth" tvg-logo="" group-title="34. CANADA #1",CA: BBC Earth
-http://tkosportz.live:25461/Charlieb1088/1088/83534
-#EXTINF:-1 tvg-id="" tvg-name="CA: Love Nature" tvg-logo="" group-title="34. CANADA #1",CA: Love Nature
-http://tkosportz.live:25461/Charlieb1088/1088/83563
+
 
 #EXTINF:-1 tvg-id="" tvg-name="XXX: ᴘʀᴇᴍɪᴜᴍ xxx Nuart TV (18+)" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: ᴘʀᴇᴍɪᴜᴍ xxx Nuart TV (18+)
 http://vipbxcass.top:8080/VIP013121753051754520/d8621da32cbc/132476
@@ -539,3 +539,38 @@ http://tkosportz.live:25461/Charlieb1088/1088/72051
 http://tkosportz.live:25461/Charlieb1088/1088/72052
 #EXTINF:-1 tvg-id="" tvg-name="XY Plus HD" tvg-logo="" group-title="96. ADULT ",XY Plus HD
 http://tkosportz.live:25461/Charlieb1088/1088/72053
+
+#EXTINF:0 radio="true", Baiturrahman
+https://b.alhastream.com:5013/radio
+#EXTINF:0 radio="true", Hardrock Cafe
+https://stream.radiojar.com/7csmg90fuqruv
+#EXTINF:0 radio="true", Prambors
+https://stream.radiojar.com/u7d8heq3bnzuv
+#EXTINF:0 radio="true", Cosmopolitan FM
+https://stream.denger.in/
+#EXTINF:0 radio="true", i-Radio
+https://stream.radiojar.com/4ywdgup3bnzuv
+#EXTINF:0 radio="true", Bahana
+https://s1.cloudmu.id/listen/bahana/stream
+#EXTINF:0 radio="true", OZ Radio Bandung
+https://s3.vinhostmedia.com/1031
+#EXTINF:0 radio="true", Retjo Buntung FM
+https://ssg.streamingmurah.com:9940/stream
+#EXTINF:0 radio="true", Gen FM
+https://ic.mari.co.id:8443/genfm
+#EXTINF:0 radio="true", Radio Dangdut
+https://stream.roov.id:8062/stream
+#EXTINF:0 radio="true", Trax FM
+https://stream.radiojar.com/rrqf78p3bnzuv
+#EXTINF:0 radio="true", Delta FM
+https://s1.cloudmu.id/listen/delta_fm/stream
+#EXTINF:0 radio="true", Radio Kajian Islam
+https://stream.zeno.fm/ge2ekgd7f18uv
+#EXTINF:0 radio="true", Radio Musik Indonesia
+https://stream.zeno.fm/av6xzace6ehvv
+#EXTINF:0 radio="true", Jax 101
+https://ic.mari.co.id:8443/jakfm
+#EXTINF:0 radio="true", Sonora
+https://cast1.my-control-panel.com/proxy/radioso1/live
+#EXTINF:0 radio="true", Slow Radio
+https://stream.zeno.fm/dpk2zq5np2zuv
