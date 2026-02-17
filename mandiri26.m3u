@@ -309,7 +309,19 @@ http://smarttv.suportline.xyz/live00/ArenaSportHD5.m3u8?u=ekoraca&p=1c88308d4348
 http://smarttv.suportline.xyz/live32/ArenaSport6.m3u8?u=ekoraca&p=1c88308d43489aacf8197e13514c3558001f7a57544de0b6c78273cdce989ccb&token=yKtn8Ljbjj4ItbDhrmtchg&channel=ArenaSport6&e=1999999999&d=smarttv&dName=smarttvApp
 #EXTINF:0 tvg-id="Arena Sport 6 RS" tvg-logo="http://suportline.xyz/images/channel/20210907224225.png" group-title="SPORT",Arena Sport 6 SR
 http://smarttv.suportline.xyz/live32/ArenaSport6SR.m3u8?u=ekoraca&p=1c88308d43489aacf8197e13514c3558001f7a57544de0b6c78273cdce989ccb&token=wBhsCF2sSMWHCBCho6VTOA&channel=ArenaSport6SR&e=1999999999&d=smarttv&dName=smarttvApp
-
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 HD" tvg-logo="https://up6.cc/2024/11/173179141973691.png" group-title="SPORTS➣beIN  (UHD)",beIN SPORTS 1 HD
+http://otv-app.fit:80//live/0987654/0987654/508209.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 HD" tvg-logo="https://up6.cc/2024/11/173179141973691.png" group-title="SPORTS➣beIN  (UHD)",beIN SPORTS 2 HD
+http://otv-app.fit:80//live/0987654/0987654/508210.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 HD" tvg-logo="https://up6.cc/2024/11/173179141973691.png" group-title="SPORTS➣beIN  (UHD)",beIN SPORTS 3 HD
+http://otv-app.fit:80//live/0987654/0987654/508211.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 HD" tvg-logo="https://up6.cc/2024/11/173179141973691.png" group-title="SPORTS➣beIN  (UHD)",beIN SPORTS 4 HD
+http://otv-app.fit:80//live/0987654/0987654/508212.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 HD" tvg-logo="https://up6.cc/2024/11/173179141973691.png" group-title="SPORTS➣beIN  (UHD)",beIN SPORTS 5 HD
+http://otv-app.fit:80//live/0987654/0987654/508213.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6 HD" tvg-logo="https://up6.cc/2024/11/173179141973691.png" group-title="SPORTS➣beIN  (UHD)",beIN SPORTS 6 HD
+http://otv-app.fit:80//live/0987654/0987654/508214.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7 HD" tvg-logo="https://up6.cc/2024/11/173179141973691.png" group-title="SPORTS➣beIN  (UHD)",beIN SPORTS 7 HD
 #EXTINF:-1,PT: SPORT TV 1 
 http://fortv.cc:8080/91990097/91990097/167742
 #EXTINF:-1,PT: SPORT TV 2 
