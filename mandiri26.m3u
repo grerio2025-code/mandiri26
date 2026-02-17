@@ -57,20 +57,14 @@ http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8
 https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD",NHK World-Japan 
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
-#EXTINF:-1 tvg-id="JustforLaughsGags.us@SD",Just For Laughs Gags (720p)
-https://distributionsjustepourrire-justforlaughsgags-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BRIDGE.ru@SD",BRIDGE
 http://31.148.48.15/Bridge_TV/index.m3u8
-#EXTINF:-1 tvg-id="BRIDGEClassic.ru@SD",BRIDGE Classic
-http://31.148.48.15/Bridge_TV_Classic/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGEDeluxe.ru@SD",BRIDGE Deluxe
 http://31.148.48.15/Bridge_TV_HD/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGEHits.ru@SD",BRIDGE Hits
 http://31.148.48.15/Bridge_TV_Dance/index.m3u8
 #EXTINF:-1 tvg-id="FashionTVParisLOriginal.fr@SD",FashionTV Paris L'Original (1080p)
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
-#EXTINF:-1 tvg-logo="" group-title="AFR| GENERAL",NIG| FASHION TV
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=85575&extension=ts
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/traceurban.png" group-title="AFR| GENERAL",MUSIC| TRACE URBAN
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=85506&extension=ts
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/M6MUSIC.png" group-title="FR| FRANCE FHD",FR| M6 MUSIC FHD
@@ -93,29 +87,17 @@ http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=506495&e
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=506494&extension=ts
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/TRACE-CARIBBEAN.png" group-title="FR| FRANCE FHD",FR| TRACE CARIBBEAN FHD
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=506493&extension=ts
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/RFMTV.png" group-title="FR| FRANCE FHD",FR| RFM TV FHD
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=551807&extension=ts
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/cinemania.jpg" group-title="US| CINEMANIA TV SHOWS",US| LOONEY TUNES CARTOONS CLASSIC FHD
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1430262&extension=ts
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/cinemania.jpg" group-title="US| CINEMANIA TV SHOWS",US| LOONEY TUNES CARTOONS FHD
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1430261&extension=ts
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/JUST-FOR-LAUGHS-GAGS.png" group-title="FR| PREMIUM PLAY",FR| JUST FOR LAUGHS GAGS
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1531569&extension=ts
 
 #EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/skysportsmainevent.png" group-title="4K UHD 3840P",4K| SKY SPORTS MAIN EVENTS UHD
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1608071&extension=ts
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SKY-SPORTS-UHD.png" group-title="4K UHD 3840P",4K| SKY SPORTS UHD [EVENT]
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1471387&extension=ts
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SKY-SPORTS-1.png" group-title="4K UHD 3840P",4K| SKY SPORTS 1 UHD
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1608068&extension=ts
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SKY-SPORTS-2.png" group-title="4K UHD 3840P",4K| SKY SPORTS 2 UHD
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1608069&extension=ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ITALY/SKY-SPORTF1.png" group-title="4K UHD 3840P",4K| SKY SPORTS F1 UHD
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1761500&extension=ts
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SKY-SPORTS-F1-UHD.png" group-title="4K UHD 3840P",4K| SKY SPORTS DARTS UHD
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1471382&extension=ts
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ZEE-TV.png" group-title="4K UHD 3840P",4K| ZEE TV UHD
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1761502&extension=ts
 #EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/tntsports.png" group-title="4K UHD 3840P",4K| TNT ULTIMATE 4K+ [LIVE-EVENT]
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1595637&extension=ts
 #EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/tntsports.png" group-title="4K UHD 3840P",4K| TNT SPORTS UHD [EVENT]
@@ -124,10 +106,6 @@ http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1479591&
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1479590&extension=ts
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/NOW-SPORTS.png" group-title="4K UHD 3840P",4K| NOW SPORTS (EPL) UHD
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1470622&extension=ts
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/SPORTSNET-360.png" group-title="4K UHD 3840P",4K| SPORTSNET 360 UHD
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1470603&extension=ts
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/espnuhd.png" group-title="4K UHD 3840P",4K| ESPN UHD
-http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1481941&extension=ts
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ELEVEN-SPORTS-1.png" group-title="4K UHD 3840P",4K| ELEVEN SPORTS 1 UHD
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1470618&extension=ts
 #EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/ziggosportuhd.png" group-title="4K UHD 3840P",4K| ZIGGO SPORT UHD
@@ -332,19 +310,19 @@ http://smarttv.suportline.xyz/live32/ArenaSport6.m3u8?u=ekoraca&p=1c88308d43489a
 #EXTINF:0 tvg-id="Arena Sport 6 RS" tvg-logo="http://suportline.xyz/images/channel/20210907224225.png" group-title="Sport",Arena Sport 6 SR
 http://smarttv.suportline.xyz/live32/ArenaSport6SR.m3u8?u=ekoraca&p=1c88308d43489aacf8197e13514c3558001f7a57544de0b6c78273cdce989ccb&token=wBhsCF2sSMWHCBCho6VTOA&channel=ArenaSport6SR&e=1999999999&d=smarttv&dName=smarttvApp
 
-#EXTINF:-1,PT: SPORT TV 1 FHD
+#EXTINF:-1,PT: SPORT TV 1 
 http://fortv.cc:8080/91990097/91990097/167742
-#EXTINF:-1,PT: SPORT TV 2 HD
+#EXTINF:-1,PT: SPORT TV 2 
 http://fortv.cc:8080/91990097/91990097/167743
-#EXTINF:-1,PT: SPORT TV 3 HD
+#EXTINF:-1,PT: SPORT TV 3 
 http://fortv.cc:8080/91990097/91990097/167744
-#EXTINF:-1,PT: SPORT TV 4 FHD
+#EXTINF:-1,PT: SPORT TV 4 
 http://fortv.cc:8080/91990097/91990097/167745
-#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
+#EXTINF:-1,PT: ELEVEN SPORTS 3 
 http://fortv.cc:8080/91990097/91990097/167748
-#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
+#EXTINF:-1,PT: ELEVEN SPORTS 4 
 http://fortv.cc:8080/91990097/91990097/167749
-#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
+#EXTINF:-1,PT: ELEVEN SPORTS 5 
 http://fortv.cc:8080/91990097/91990097/167750
 #EXTINF:-1,CA: MTV
 http://fortv.cc:8080/91990097/91990097/57446
@@ -516,18 +494,8 @@ http://vipbxcass.top:8080/VIP013121753051754520/d8621da32cbc/132476
 http://vipbxcass.top:8080/VIP013121753051754520/d8621da32cbc/132488
 #EXTINF:-1 tvg-id="" tvg-name="XXX: ASIAN SEX DIARY ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: ASIAN SEX DIARY ADULT
 http://vipbxcass.top:8080/VIP013121753051754520/d8621da32cbc/132397
-#EXTINF:-1 tvg-id="" tvg-name="XXX: WILD GANGBANGS ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: WILD GANGBANGS ADULT
-http://vipbxcass.top:8080/VIP013121753051754520/d8621da32cbc/132399
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Miami TV" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="XXX",XXX: Miami TV
-http://aflaxtv.xyz:8080/rapidiptv/shhT6NQ6ZdFw5/1731
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Miami TV Colombia" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="XXX",XXX: Miami TV Colombia
-http://aflaxtv.xyz:8080/rapidiptv/shhT6NQ6ZdFw5/285514
 #EXTINF:-1 tvg-id="" tvg-name="XXX: nuart" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: nuart
 http://aflaxtv.xyz:8080/rapidiptv/shhT6NQ6ZdFw5/49169
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Passie XXX" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f8712b8aa05c4d22e29838d4eefe9e03.png" group-title="XXX",XXX: Passie XXX
-http://aflaxtv.xyz:8080/rapidiptv/shhT6NQ6ZdFw5/28298
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PINKO CLUB" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="XXX",XXX: PINKO CLUB
-http://aflaxtv.xyz:8080/rapidiptv/shhT6NQ6ZdFw5/3342
 #EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYBOY" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/d6dd1f934c75182cb6ac60b311ad8183.png" group-title="XXX",XXX: PLAYBOY
 http://aflaxtv.xyz:8080/rapidiptv/shhT6NQ6ZdFw5/14222
 #EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYBOY Brasil" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="XXX",XXX: PLAYBOY Brasil
@@ -548,50 +516,12 @@ http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/132399
 http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/132415
 #EXTINF:-1 tvg-id="" tvg-name="XXX: HER LIMIT ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: HER LIMIT ADULT
 http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/132417
-#EXTINF:-1 tvg-id="" tvg-name="XXX: JAYS POV 2 ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: JAYS POV 2 ADULT
-http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/132418
 #EXTINF:-1 tvg-id="" tvg-name="XXX: BLACKED" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: BLACKED
 http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/132475
 #EXTINF:-1 tvg-id="" tvg-name="XXX: ᴘʀᴇᴍɪᴜᴍ xxx Nuart TV (18+)" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: ᴘʀᴇᴍɪᴜᴍ xxx Nuart TV (18+)
 http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/132476
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ᴘʀᴇᴍɪᴜᴍ xxx Miami TV (18+)" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX | VIP 18+",XXX: ᴘʀᴇᴍɪᴜᴍ xxx Miami TV (18+)
-http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/132477
 #EXTINF:-1 tvg-id="" tvg-name="XXM: SEXART" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX More",XXM: SEXART
 http://aflaxtv.xyz:8080/rapidiptv/shhT6NQ6ZdFw5/302335
-#EXTINF:-1 tvg-id="" tvg-name="Babes TV HD" tvg-logo="" group-title="96. ADULT ",Babes TV HD
-http://tkosportz.live:25461/Charlieb1088/1088/71981
-#EXTINF:-1 tvg-id="" tvg-name="Nuart" tvg-logo="" group-title="96. ADULT ",Nuart
-http://tkosportz.live:25461/Charlieb1088/1088/72021
-#EXTINF:-1 tvg-id="" tvg-name="O-la-la" tvg-logo="" group-title="96. ADULT ",O-la-la
-http://tkosportz.live:25461/Charlieb1088/1088/72022
-#EXTINF:-1 tvg-id="" tvg-name="Penthouse Gold HD" tvg-logo="" group-title="96. ADULT ",Penthouse Gold HD
-http://tkosportz.live:25461/Charlieb1088/1088/72025
-#EXTINF:-1 tvg-id="" tvg-name="Penthouse Passion HD" tvg-logo="" group-title="96. ADULT ",Penthouse Passion HD
-http://tkosportz.live:25461/Charlieb1088/1088/72026
-#EXTINF:-1 tvg-id="" tvg-name="Penthouse Reality TV HD" tvg-logo="" group-title="96. ADULT ",Penthouse Reality TV HD
-http://tkosportz.live:25461/Charlieb1088/1088/72027
-#EXTINF:-1 tvg-id="" tvg-name="Pinko Club" tvg-logo="" group-title="96. ADULT ",Pinko Club
-http://tkosportz.live:25461/Charlieb1088/1088/72028
-#EXTINF:-1 tvg-id="" tvg-name="Playboy TV Europe HD" tvg-logo="" group-title="96. ADULT ",Playboy TV Europe HD
-http://tkosportz.live:25461/Charlieb1088/1088/72029
-#EXTINF:-1 tvg-id="" tvg-name="Playboy TV LA" tvg-logo="" group-title="96. ADULT ",Playboy TV LA
-http://tkosportz.live:25461/Charlieb1088/1088/72030
-#EXTINF:-1 tvg-id="" tvg-name="Playhouse HD" tvg-logo="" group-title="96. ADULT ",Playhouse HD
-http://tkosportz.live:25461/Charlieb1088/1088/72031
-#EXTINF:-1 tvg-id="" tvg-name="Private HD" tvg-logo="" group-title="96. ADULT ",Private HD
-http://tkosportz.live:25461/Charlieb1088/1088/72032
-#EXTINF:-1 tvg-id="" tvg-name="Pure Babes" tvg-logo="" group-title="96. ADULT ",Pure Babes
-http://tkosportz.live:25461/Charlieb1088/1088/72033
-#EXTINF:-1 tvg-id="" tvg-name="Vixen HD" tvg-logo="" group-title="96. ADULT ",Vixen HD
-http://tkosportz.live:25461/Charlieb1088/1088/72048
-#EXTINF:-1 tvg-id="" tvg-name="XXL" tvg-logo="" group-title="96. ADULT ",XXL
-http://tkosportz.live:25461/Charlieb1088/1088/72050
-#EXTINF:-1 tvg-id="" tvg-name="XY Max HD" tvg-logo="" group-title="96. ADULT ",XY Max HD
-http://tkosportz.live:25461/Charlieb1088/1088/72051
-#EXTINF:-1 tvg-id="" tvg-name="XY Mix HD" tvg-logo="" group-title="96. ADULT ",XY Mix HD
-http://tkosportz.live:25461/Charlieb1088/1088/72052
-#EXTINF:-1 tvg-id="" tvg-name="XY Plus HD" tvg-logo="" group-title="96. ADULT ",XY Plus HD
-http://tkosportz.live:25461/Charlieb1088/1088/72053
 
 #EXTINF:0 radio="true", Baiturrahman
 https://b.alhastream.com:5013/radio
