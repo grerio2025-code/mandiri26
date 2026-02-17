@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0 group-title="Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBpG6wXpKH-Y8DhFrIeMpGEyh4Hj73Ba3yFQ&usqp=CAU",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1894445364_b744100_sleng.m3u8
-#EXTINF:0 group-title="Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQITMOuw1_fxu9aL2jcWTyD_JOjdCeFbfrgUoBUXFy83XcDN64mjG4t7c5e&s=10",Transtv HD
+#EXTINF:0 group-title="Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQITMOuw1_fxu9aL2jcWTyD_JOjdCeFbfrgUoBUXFy83XcDN64mjG4t7c5e&s=10",Transtv
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1676901579_b744100_sleng.m3u8
 #EXTINF:0 group-title="Indonesia" tvg-logo="http://www.dens.tv/images/channel-logo/6.jpg", Metro TV
 http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
@@ -25,7 +25,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 #EXTINF:0 group-title="Indonesia" tvg-logo="http://www.dens.tv/images/channel-logo/13.jpg", NET.
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
-#EXTINF:-1 group-title="Indonesia" tvg-id="JawaPosTV.id@SD",Jawa Pos TV (720p)
+#EXTINF:-1 group-title="Indonesia" tvg-id="JawaPosTV.id@SD",Jawa Pos TV
 http://122.248.43.242:1935/JAWAPOSTVSBY/_definst_/myStream/playlist.m3u8
 #EXTINF:0 group-title="Indonesia" tvg-logo="http://www.dens.tv/images/channel-logo/22.jpg", RTV
 http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
@@ -35,11 +35,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h24/01.m3u8
 https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI-avc1_1500000=10003-mp4a_96000=20001.m3u8
 #EXTINF:0 group-title="Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsqD0y4zANeHXWfwhVgAAiQYpudCPqeE1Sho-JoRR5&s",TVRI Aceh
 https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh-avc1_1500000=10006-mp4a_96000=20001.m3u8
-#EXTINF:-1 tvg-id="CNNInternationalAsiaPacific.us" tvg-name="CNN INDONESIA  =>1" tvg-logo="https://i.ibb.co/zx3WHbV/ASC.png" group-title="Indonesia",CNN INDONESIA HD
+#EXTINF:-1 tvg-id="CNNInternationalAsiaPacific.us" tvg-name="CNN INDONESIA  =>1" tvg-logo="https://i.ibb.co/zx3WHbV/ASC.png" group-title="Indonesia",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w412411721_b384000_sleng.m3u8
-#EXTINF:0 group-title="Indonesia", CNBC INDONESIA
+#EXTINF:0 group-title="Indonesia", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
-#EXTINF:0 group-title="Indonesia", BERITA SATU
+#EXTINF:0 group-title="Indonesia", Berita Satu
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h128/index2.m3u8
@@ -63,31 +63,31 @@ http://31.148.48.15/Bridge_TV/index.m3u8
 http://31.148.48.15/Bridge_TV_HD/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGEHits.ru@SD",BRIDGE Hits
 http://31.148.48.15/Bridge_TV_Dance/index.m3u8
-#EXTINF:-1 tvg-id="FashionTVParisLOriginal.fr@SD",FashionTV Paris L'Original (1080p)
+#EXTINF:-1 tvg-id="FashionTVParisLOriginal.fr@SD",FashionTV Paris L'Original
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/traceurban.png" group-title="MUSIC",MUSIC| TRACE URBAN
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/traceurban.png" group-title="MUSIC",Trace Urban
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=85506&extension=ts
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/M6MUSIC.png" group-title="MUSIC",FR| M6 MUSIC FHD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/M6MUSIC.png" group-title="MUSIC",M6 MUSIC FHD
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=506496&extension=ts
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/NRJHITS.png" group-title="MUSIC",FR| NRJ HITS FHD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/NRJHITS.png" group-title="MUSIC",NRJ HITS FHD
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=506498&extension=ts
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/mcm.png" group-title="MUSIC",FR| MCM FHD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/mcm.png" group-title="MUSIC",MCM FHD
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=506580&extension=ts
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/MTV.png" group-title="MUSIC",FR| MTV FHD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/MTV.png" group-title="MUSIC",MTV FHD
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=506584&extension=ts
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/MTV_Hits_logo.png" group-title="MUSIC",FR| MTV HITS FHD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/MTV_Hits_logo.png" group-title="MUSIC",MTV HITS FHD
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=506497&extension=ts
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/MELODY.png" group-title="MUSIC",FR| MELODY FHD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/MELODY.png" group-title="MUSIC",MELODY FHD
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=506492&extension=ts
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/cstar.png" group-title="MUSIC",FR| CSTAR FHD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/cstar.png" group-title="MUSIC",CSTAR FHD
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=506621&extension=ts
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/TRACEURBAN.png" group-title="MUSIC",FR| TRACE URBAN FHD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/TRACEURBAN.png" group-title="MUSIC",TRACE URBAN
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=506495&extension=ts
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/TRACE_Latina_Logo.png" group-title="MUSIC",FR| TRACE LATINA FHD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/TRACE_Latina_Logo.png" group-title="MUSIC",TRACE LATINA
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=506494&extension=ts
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/TRACE-CARIBBEAN.png" group-title="MUSIC",FR| TRACE CARIBBEAN FHD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/TRACE-CARIBBEAN.png" group-title="MUSIC",TRACE CARIBBEAN
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=506493&extension=ts
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/JUST-FOR-LAUGHS-GAGS.png" group-title="MUSIC",FR| JUST FOR LAUGHS GAGS
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/france/JUST-FOR-LAUGHS-GAGS.png" group-title="MUSIC",JUST FOR LAUGHS GAGS
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1531569&extension=ts
 
 #EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/skysportsmainevent.png" group-title="4K UHD 3840P",4K| SKY SPORTS MAIN EVENTS UHD
@@ -344,21 +344,21 @@ http://zerotwo.access.ly:2096/U17938/4016527938/761337
 http://zerotwo.access.ly:2096/U17938/4016527938/761338
 #EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 1" tvg-logo="" group-title="UK",UK: BT SPORT 1
 http://zerotwo.access.ly:2096/U17938/4016527938/761339
-#EXTINF:-1 tvg-id="showcase.ca" tvg-name="SHOWCASE " tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Showcase15.png" group-title="USA",SHOWCASE  
+#EXTINF:-1 tvg-id="showcase.ca" tvg-name="SHOWCASE " tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Showcase15.png" group-title="USA",Showcase  
 http://tkosportz.live:25461/Charlieb1088/1088/46107
-#EXTINF:-1 tvg-id="Lifetime.us" tvg-name="USA: LIFETIME" tvg-logo="https://cordcutting.com/wp-content/uploads/2018/08/Lifetime-logo.png" group-title="USA",USA: LIFETIME
+#EXTINF:-1 tvg-id="Lifetime.us" tvg-name="LIFETIME" tvg-logo="https://cordcutting.com/wp-content/uploads/2018/08/Lifetime-logo.png" group-title="USA",Lifetime
 http://zerotwo.access.ly:2096/U17938/4016527938/814341
-#EXTINF:-1 tvg-id="LifetimeMoviesNetwork.us" tvg-name="USA: LIFETIME MOVIES" tvg-logo="https://logodix.com/logo/1814870.png" group-title="USA",USA: LIFETIME MOVIES
+#EXTINF:-1 tvg-id="LifetimeMoviesNetwork.us" tvg-name="LIFETIME MOVIES" tvg-logo="https://logodix.com/logo/1814870.png" group-title="USA",Lifetime Movies
 http://zerotwo.access.ly:2096/U17938/4016527938/814342
-#EXTINF:-1 tvg-id="LifetimeRealWomen.us" tvg-name="USA: LIFETIME REAL WOMEN" tvg-logo="https://www.cltel.com/wp-content/themes/plaudit-theme-child/assets/channels/Lifetime%20Real%20Women.png" group-title="USA",USA: LIFETIME REAL WOMEN
+#EXTINF:-1 tvg-id="LifetimeRealWomen.us" tvg-name="LIFETIME REAL WOMEN" tvg-logo="https://www.cltel.com/wp-content/themes/plaudit-theme-child/assets/channels/Lifetime%20Real%20Women.png" group-title="USA",LIFETIME REAL WOMEN
 http://zerotwo.access.ly:2096/U17938/4016527938/814343
-#EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="USA: SUNDANCE" tvg-logo="https://puddintap.click/ico/USA-Color/SUNDANCETV.png" group-title="USA",USA: SUNDANCE
+#EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="SUNDANCE" tvg-logo="https://puddintap.click/ico/USA-Color/SUNDANCETV.png" group-title="USA",Sundance
 http://zerotwo.access.ly:2096/U17938/4016527938/814383
-#EXTINF:-1 tvg-id="Syfy.us" tvg-name="USA: SYFY" tvg-logo="https://puddintap.click/ico/USA-Color/syfy.png" group-title="USA",USA: SYFY
+#EXTINF:-1 tvg-id="Syfy.us" tvg-name="SYFY" tvg-logo="https://puddintap.click/ico/USA-Color/syfy.png" group-title="USA",SYFY
 http://zerotwo.access.ly:2096/U17938/4016527938/814384
-#EXTINF:-1 tvg-id="Tastemade.us" tvg-name="USA: TASTEMADE TV" tvg-logo="" group-title="USA",USA: TASTEMADE TV
+#EXTINF:-1 tvg-id="Tastemade.us" tvg-name="TASTEMADE TV" tvg-logo="" group-title="USA",TASTEMADE TV
 http://zerotwo.access.ly:2096/U17938/4016527938/814385
-#EXTINF:-1 tvg-id="RecipeTV.us" tvg-name="USA: RECIPE TV" tvg-logo="https://recipe.tv/files/2018/09/logowithtag_1.png" group-title="USA",USA: RECIPE TV
+#EXTINF:-1 tvg-id="RecipeTV.us" tvg-name="RECIPE TV" tvg-logo="https://recipe.tv/files/2018/09/logowithtag_1.png" group-title="USA",RECIPE TV
 http://zerotwo.access.ly:2096/U17938/4016527938/814375
 #EXTINF:-1 tvg-id="mtvclassic.us" tvg-name="MTV Classic" tvg-logo="https://i.imgur.com/ieAldkW.png" group-title="USA",MTV Classic
 http://tkosportz.live:25461/Charlieb1088/1088/46110
@@ -416,13 +416,13 @@ http://tkosportz.live:25461/Charlieb1088/1088/10378
 http://tkosportz.live:25461/Charlieb1088/1088/13434
 #EXTINF:-1 tvg-id="hbo2.us" tvg-name="HBO HD 2" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/HBO2_logo.png" group-title="USA",HBO HD 2
 http://tkosportz.live:25461/Charlieb1088/1088/13435
-#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="HBO FAMILY" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/HBO_Family.png" group-title="USA",HBO FAMILY
+#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="HBO FAMILY" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/HBO_Family.png" group-title="USA",HBO Family
 http://tkosportz.live:25461/Charlieb1088/1088/13439
 #EXTINF:-1 tvg-id="hdnetmovies.us" tvg-name="HD MOVIE NET" tvg-logo="https://skeplayer.com/wp-content/uploads/2020/11/hdnet.png" group-title="USA",HD MOVIE NET
 http://tkosportz.live:25461/Charlieb1088/1088/13450
-#EXTINF:-1 tvg-id="cinemax.us" tvg-name="CINEMAX" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Cinemax_2011_28Yellow29.png" group-title="USA",CINEMAX
+#EXTINF:-1 tvg-id="cinemax.us" tvg-name="CINEMAX" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Cinemax_2011_28Yellow29.png" group-title="USA",Cinemax
 http://tkosportz.live:25461/Charlieb1088/1088/13987
-#EXTINF:-1 tvg-id="moremax.us" tvg-name="CINEMAX MOREMAX" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/More_MAX_2016.png" group-title="USA",CINEMAX MOREMAX
+#EXTINF:-1 tvg-id="moremax.us" tvg-name="CINEMAX MOREMAX" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/More_MAX_2016.png" group-title="USA",Cinemax Moremax
 http://tkosportz.live:25461/Charlieb1088/1088/13988
 #EXTINF:-1 tvg-id="thrillermax.us" tvg-name="CINEMAX THRILLER" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/ThrillerMax_2011.png" group-title="USA",CINEMAX THRILLER
 http://tkosportz.live:25461/Charlieb1088/1088/13989
@@ -468,7 +468,7 @@ http://tkosportz.live:25461/Charlieb1088/1088/14922
 http://tkosportz.live:25461/Charlieb1088/1088/14923
 #EXTINF:-1 tvg-id="starzencoresuspense.us" tvg-name="STARZ ENCORE SUSPENCE" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/06/Encore_Suspense_2013.png" group-title="USA",STARZ ENCORE SUSPENCE
 http://tkosportz.live:25461/Charlieb1088/1088/14924
-#EXTINF:-1 tvg-id="syfy.uk" tvg-name="SYFY HD" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Syfy_logo.png" group-title="USA",SYFY HD
+#EXTINF:-1 tvg-id="syfy.uk" tvg-name="SYFY HD" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Syfy_logo.png" group-title="USA",SYFY
 http://tkosportz.live:25461/Charlieb1088/1088/10445
 #EXTINF:-1 tvg-id="homeshoppingnetwork.us" tvg-name="HSN" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/hsn.png" group-title="USA",HSN
 http://tkosportz.live:25461/Charlieb1088/1088/22374
