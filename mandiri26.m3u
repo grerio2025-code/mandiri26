@@ -328,21 +328,21 @@ http://fortv.cc:8080/91990097/91990097/167750
 http://fortv.cc:8080/91990097/91990097/47324
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/BBC-EARTH.png" group-title="CANADA",CA| BBC EARTH HD
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=176867&extension=ts
-#EXTINF:-1 tvg-id="BBCEarth.ca" tvg-name="CA: BBC EARTH" tvg-logo="" group-title="CANADA",CA: BBC EARTH
+#EXTINF:-1 tvg-id="BBCEarth.ca" tvg-name="BBC Earth" tvg-logo="" group-title="CANADA",BBC Earth
 http://zerotwo.access.ly:2096/U17938/4016527938/761361
-#EXTINF:-1 tvg-id="SmithsonianChannel.ca" tvg-name="CA: SMITHSONIAN" tvg-logo="" group-title="CANADA",CA: SMITHSONIAN
+#EXTINF:-1 tvg-id="SmithsonianChannel.ca" tvg-name="SMITHSONIAN" tvg-logo="" group-title="CANADA", Smithsonian
 http://zerotwo.access.ly:2096/U17938/4016527938/761487
-#EXTINF:-1 tvg-id="UK: Sky H2 History" tvg-name="UK: H2" tvg-logo="" group-title="UK",UK: H2
+#EXTINF:-1 tvg-id="UK: Sky H2 History" tvg-name="UK: H2" tvg-logo="" group-title="UK",H2
 http://zerotwo.access.ly:2096/U17938/4016527938/761257
-#EXTINF:-1 tvg-id="CA: HGTV" tvg-name="CA: HGTV" tvg-logo="" group-title="CANADA",CA: HGTV
+#EXTINF:-1 tvg-id=" HGTV" tvg-name="HGTV" tvg-logo="" group-title="CANADA",HGTV
 http://zerotwo.access.ly:2096/U17938/4016527938/761456
-#EXTINF:-1 tvg-id="History.ca" tvg-name="CA: HISTORY" tvg-logo="" group-title="CANADA",CA: HISTORY
+#EXTINF:-1 tvg-id="History.ca" tvg-name=" HISTORY" tvg-logo="" group-title="CANADA",History
 http://zerotwo.access.ly:2096/U17938/4016527938/761457
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 3" tvg-logo="" group-title="UK",UK: BT SPORT 3
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 3" tvg-logo="" group-title="UK",BT Sport 3
 http://zerotwo.access.ly:2096/U17938/4016527938/761337
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 2" tvg-logo="" group-title="UK",UK: BT SPORT 2
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 2" tvg-logo="" group-title="UK",BT Sport 2
 http://zerotwo.access.ly:2096/U17938/4016527938/761338
-#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 1" tvg-logo="" group-title="UK",UK: BT SPORT 1
+#EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 1" tvg-logo="" group-title="UK",BT Sport 1
 http://zerotwo.access.ly:2096/U17938/4016527938/761339
 #EXTINF:-1 tvg-id="showcase.ca" tvg-name="SHOWCASE " tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Showcase15.png" group-title="USA",Showcase  
 http://tkosportz.live:25461/Charlieb1088/1088/46107
@@ -358,7 +358,7 @@ http://zerotwo.access.ly:2096/U17938/4016527938/814383
 http://zerotwo.access.ly:2096/U17938/4016527938/814384
 #EXTINF:-1 tvg-id="Tastemade.us" tvg-name="TASTEMADE TV" tvg-logo="" group-title="USA",TASTEMADE TV
 http://zerotwo.access.ly:2096/U17938/4016527938/814385
-#EXTINF:-1 tvg-id="RecipeTV.us" tvg-name="RECIPE TV" tvg-logo="https://recipe.tv/files/2018/09/logowithtag_1.png" group-title="USA",RECIPE TV
+#EXTINF:-1 tvg-id="RecipeTV.us" tvg-name="RECIPE TV" tvg-logo="https://recipe.tv/files/2018/09/logowithtag_1.png" group-title="USA",Recipe TV
 http://zerotwo.access.ly:2096/U17938/4016527938/814375
 #EXTINF:-1 tvg-id="mtvclassic.us" tvg-name="MTV Classic" tvg-logo="https://i.imgur.com/ieAldkW.png" group-title="USA",MTV Classic
 http://tkosportz.live:25461/Charlieb1088/1088/46110
@@ -366,27 +366,26 @@ http://tkosportz.live:25461/Charlieb1088/1088/46110
 http://tkosportz.live:25461/Charlieb1088/1088/48054
 #EXTINF:-1 tvg-id="vh1.us" tvg-name="VH1 " tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/VH1_2013.png" group-title="MUSIC",VH1 
 http://tkosportz.live:25461/Charlieb1088/1088/10457
-#EXTINF:-1 tvg-id="destinationamerica.us" tvg-name="DESTINATION AMERICA" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Destination_America_2015.png" group-title="USA",DESTINATION AMERICA
+#EXTINF:-1 tvg-id="destinationamerica.us" tvg-name="DESTINATION AMERICA" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Destination_America_2015.png" group-title="USA",Destinaion America
 http://tkosportz.live:25461/Charlieb1088/1088/10386
-#EXTINF:-1 tvg-id="discoveryfamily.us" tvg-name="DISCOVERY FAMILY" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/discoveryfamily.png" group-title="USA",DISCOVERY FAMILY
+#EXTINF:-1 tvg-id="discoveryfamily.us" tvg-name="DISCOVERY FAMILY" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/discoveryfamily.png" group-title="USA",Discovery Family
 http://tkosportz.live:25461/Charlieb1088/1088/10387
-#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="DISCOVERY" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/discov.png" group-title="USA",DISCOVERY
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="DISCOVERY" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/discov.png" group-title="USA",Discovery
 http://tkosportz.live:25461/Charlieb1088/1088/10388
-#EXTINF:-1 tvg-id="discoveryscience.us" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/science.png" group-title="USA",DISCOVERY SCIENCE
+#EXTINF:-1 tvg-id="discoveryscience.us" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/science.png" group-title="USA",Discovery Science
 http://tkosportz.live:25461/Charlieb1088/1088/10389
-#EXTINF:-1 tvg-id="eentertainment.us" tvg-name="E! ENTERTAINMENT" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/E21_1990.png" group-title="USA",E! ENTERTAINMENT
+#EXTINF:-1 tvg-id="eentertainment.us" tvg-name="E! ENTERTAINMENT" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/E21_1990.png" group-title="USA",E! Entertainment
 http://tkosportz.live:25461/Charlieb1088/1088/10391
-#EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="FOOD NETWORK" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/FoodNetLogo.png" group-title="USA",FOOD NETWORK
-http://tkosportz.live:25461/Charlieb1088/1088/10393
+#EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="FOOD NETWORK" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/FoodNetLogo.png" group-title="USA",Food Network
 #EXTINF:-1 tvg-id="comet.us" tvg-name="COMET" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/COMET_2020.png" group-title="USA",COMET
 http://tkosportz.live:25461/Charlieb1088/1088/10380
 #EXTINF:-1 tvg-id="cookingchannel.ca" tvg-name="Cooking Channel" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Cooking_Channel.png" group-title="USA",Cooking Channel
 http://tkosportz.live:25461/Charlieb1088/1088/10381
-#EXTINF:-1 tvg-id="boomerang.us" tvg-name="BOOMERANG" tvg-logo="https://skeplayer.com/wp-content/uploads/2020/11/boomerang.png" group-title="KIDS",BOOMERANG
+#EXTINF:-1 tvg-id="boomerang.us" tvg-name="BOOMERANG" tvg-logo="https://skeplayer.com/wp-content/uploads/2020/11/boomerang.png" group-title="KIDS",Boomerang
 http://tkosportz.live:25461/Charlieb1088/1088/617
-#EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="CARTOON NETWORK " tvg-logo="http://epg.justco.cc/guide/logos/ca/CartoonNetwork.ca.png" group-title="KIDS",CARTOON NETWORK 
+#EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="CARTOON NETWORK " tvg-logo="http://epg.justco.cc/guide/logos/ca/CartoonNetwork.ca.png" group-title="KIDS",Cartoon Network 
 http://tkosportz.live:25461/Charlieb1088/1088/625
-#EXTINF:-1 tvg-id="disneychannel.us" tvg-name="DISNEY CHANNEL" tvg-logo="https://skeplayer.com/wp-content/uploads/2020/11/disney.png" group-title="KIDS",DISNEY CHANNEL
+#EXTINF:-1 tvg-id="disneychannel.us" tvg-name="DISNEY CHANNEL" tvg-logo="https://skeplayer.com/wp-content/uploads/2020/11/disney.png" group-title="KIDS",Disney Channel
 http://tkosportz.live:25461/Charlieb1088/1088/622
 #EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="DISNEY JR" tvg-logo="https://skeplayer.com/wp-content/uploads/2020/11/disjr.png" group-title="KIDS",DISNEY JR
 http://tkosportz.live:25461/Charlieb1088/1088/623
@@ -402,13 +401,13 @@ http://tkosportz.live:25461/Charlieb1088/1088/10357
 http://tkosportz.live:25461/Charlieb1088/1088/10358
 #EXTINF:-1 tvg-id="amc.ca" tvg-name="AMC HD" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/AMC_28201929.png" group-title="USA",AMC HD
 http://tkosportz.live:25461/Charlieb1088/1088/10361
-#EXTINF:-1 tvg-id="animalplanet.ca" tvg-name="ANIMAL PLANET" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Animal_Planet_2018.png" group-title="USA",ANIMAL PLANET
+#EXTINF:-1 tvg-id="animalplanet.ca" tvg-name="ANIMAL PLANET" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Animal_Planet_2018.png" group-title="USA",Animal Planet
 http://tkosportz.live:25461/Charlieb1088/1088/10362
 #EXTINF:-1 tvg-id="bether.us" tvg-name="BET HER" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/BET_Her.png" group-title="USA",BET HER
 http://tkosportz.live:25461/Charlieb1088/1088/10366
 #EXTINF:-1 tvg-id="bbcamerica.us" tvg-name="BBC America" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/BBC_America_2008.png" group-title="USA",BBC America
 http://tkosportz.live:25461/Charlieb1088/1088/10372
-#EXTINF:-1 tvg-id="bravo.us" tvg-name="BRAVO HD" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Bravo_2017.png" group-title="USA",BRAVO HD
+#EXTINF:-1 tvg-id="bravo.us" tvg-name="BRAVO HD" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Bravo_2017.png" group-title="USA",Bravo HD
 http://tkosportz.live:25461/Charlieb1088/1088/10373
 #EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/CNN_28201429.png" group-title="USA",CNN
 http://tkosportz.live:25461/Charlieb1088/1088/10378
@@ -424,7 +423,7 @@ http://tkosportz.live:25461/Charlieb1088/1088/13450
 http://tkosportz.live:25461/Charlieb1088/1088/13987
 #EXTINF:-1 tvg-id="moremax.us" tvg-name="CINEMAX MOREMAX" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/More_MAX_2016.png" group-title="USA",Cinemax Moremax
 http://tkosportz.live:25461/Charlieb1088/1088/13988
-#EXTINF:-1 tvg-id="thrillermax.us" tvg-name="CINEMAX THRILLER" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/ThrillerMax_2011.png" group-title="USA",CINEMAX THRILLER
+#EXTINF:-1 tvg-id="thrillermax.us" tvg-name="CINEMAX THRILLER" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/ThrillerMax_2011.png" group-title="USA",Cinemax Thriller
 http://tkosportz.live:25461/Charlieb1088/1088/13989
 #EXTINF:-1 tvg-id="5starmax.us" tvg-name="CINEMAX 5-STAR" tvg-logo="https://skeplayer.com/wp-content/uploads/2020/11/5max.png" group-title="USA",CINEMAX 5-STAR
 http://tkosportz.live:25461/Charlieb1088/1088/13990
@@ -434,15 +433,15 @@ http://tkosportz.live:25461/Charlieb1088/1088/13991
 http://tkosportz.live:25461/Charlieb1088/1088/13992
 #EXTINF:-1 tvg-id="epix2.us" tvg-name="EPIX 2" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Epix2-new-logo.png" group-title="USA",EPIX 2
 http://tkosportz.live:25461/Charlieb1088/1088/14165
-#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="HBO COMEDY" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/HBO_Comedy_2000.png" group-title="USA",HBO COMEDY
+#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="HBO COMEDY" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/HBO_Comedy_2000.png" group-title="USA",HBO Comedy
 http://tkosportz.live:25461/Charlieb1088/1088/13438
-#EXTINF:-1 tvg-id="showtime.us" tvg-name="SHOWTIME" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Showtime_1997.png" group-title="USA",SHOWTIME
+#EXTINF:-1 tvg-id="showtime.us" tvg-name="SHOWTIME" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Showtime_1997.png" group-title="USA",Showtime
 http://tkosportz.live:25461/Charlieb1088/1088/14168
-#EXTINF:-1 tvg-id="showtime2.us" tvg-name="SHOWTIME 2" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Showtime_2_logo.png" group-title="USA",SHOWTIME 2
+#EXTINF:-1 tvg-id="showtime2.us" tvg-name="SHOWTIME 2" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Showtime_2_logo.png" group-title="USA",Showtime 2
 http://tkosportz.live:25461/Charlieb1088/1088/14169
-#EXTINF:-1 tvg-id="showtimefamilyzone.us" tvg-name="SHOWTIME FAMILY ZONE" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Showtime_Family_Zone.png" group-title="USA",SHOWTIME FAMILY ZONE
+#EXTINF:-1 tvg-id="showtimefamilyzone.us" tvg-name="SHOWTIME FAMILY ZONE" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Showtime_Family_Zone.png" group-title="USA",Showtime FAMILY ZONE
 http://tkosportz.live:25461/Charlieb1088/1088/14171
-#EXTINF:-1 tvg-id="showtimewest.us" tvg-name="SHOWTIME WEST " tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/showtime-west-logo.png" group-title="USA",SHOWTIME WEST 
+#EXTINF:-1 tvg-id="showtimewest.us" tvg-name="SHOWTIME WEST " tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/showtime-west-logo.png" group-title="USA",Showtime West 
 http://tkosportz.live:25461/Charlieb1088/1088/14174
 #EXTINF:-1 tvg-id="epixhits.us" tvg-name="EPIX HITS" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Epix-hits-new-logo-1.png" group-title="USA",EPIX HITS
 http://tkosportz.live:25461/Charlieb1088/1088/14167
@@ -476,7 +475,7 @@ http://tkosportz.live:25461/Charlieb1088/1088/22374
 http://tkosportz.live:25461/Charlieb1088/1088/22375
 #EXTINF:-1 tvg-id="qvc2.us" tvg-name="QVC 2" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/03/qvc2.png" group-title="USA",QVC 2
 http://tkosportz.live:25461/Charlieb1088/1088/22376
-#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="HBO SIGNATURE" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/HBO_Signature_2000.png" group-title="USA",HBO SIGNATURE
+#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="HBO SIGNATURE" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/HBO_Signature_2000.png" group-title="USA",HBO SIgnature
 http://tkosportz.live:25461/Charlieb1088/1088/13436
 #EXTINF:-1 tvg-id="movieplex.us" tvg-name="MoviePlex" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Movieplex-logo.png" group-title="USA",MoviePlex
 http://tkosportz.live:25461/Charlieb1088/1088/13984
@@ -508,66 +507,66 @@ http://tkosportz.live:25461/Charlieb1088/1088/40759
 http://tkosportz.live:25461/Charlieb1088/1088/43857
 
 
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ᴘʀᴇᴍɪᴜᴍ xxx Nuart TV (18+)" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX",XXX: ᴘʀᴇᴍɪᴜᴍ xxx Nuart TV (18+)
+#EXTINF:-1 tvg-id="" tvg-name="Nuart TV (18+)" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX",Nuart TV
 http://vipbxcass.top:8080/VIP013121753051754520/d8621da32cbc/132476
-#EXTINF:-1 tvg-id="" tvg-name="XXX: Playboy TV LIVE" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX",XXX: Playboy TV LIVE
+#EXTINF:-1 tvg-id="" tvg-name="Playboy TV LIVE" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX",Playboy TV LIVE
 http://vipbxcass.top:8080/VIP013121753051754520/d8621da32cbc/132488
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ASIAN SEX DIARY ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX",XXX: ASIAN SEX DIARY ADULT
+#EXTINF:-1 tvg-id="" tvg-name="ASIAN SEX DIARY ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX",ASIAN SEX DIARY ADULT
 http://vipbxcass.top:8080/VIP013121753051754520/d8621da32cbc/132397
-#EXTINF:-1 tvg-id="" tvg-name="XXX: nuart" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: nuart
+#EXTINF:-1 tvg-id="" tvg-name="nuart" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",nuart
 http://aflaxtv.xyz:8080/rapidiptv/shhT6NQ6ZdFw5/49169
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYBOY" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/d6dd1f934c75182cb6ac60b311ad8183.png" group-title="XXX",XXX: PLAYBOY
+#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/d6dd1f934c75182cb6ac60b311ad8183.png" group-title="XXX",PLAYBOY
 http://aflaxtv.xyz:8080/rapidiptv/shhT6NQ6ZdFw5/14222
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYBOY Brasil" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="XXX",XXX: PLAYBOY Brasil
+#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY Brasil" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="XXX",PLAYBOY Brasil
 http://aflaxtv.xyz:8080/rapidiptv/shhT6NQ6ZdFw5/300141
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYBOY Latino" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="XXX",XXX: PLAYBOY Latino
+#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY Latino" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="XXX",PLAYBOY Latino
 http://aflaxtv.xyz:8080/rapidiptv/shhT6NQ6ZdFw5/290309
-#EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYBOY USA" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="XXX",XXX: PLAYBOY USA
+#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY USA" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="XXX",PLAYBOY USA
 http://aflaxtv.xyz:8080/rapidiptv/shhT6NQ6ZdFw5/290342
-#EXTINF:-1 tvg-id="" tvg-name="XXX: VIXEN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/5412f754d84f76d71e0af50dd73b23b1.png" group-title="XXX",XXX: VIXEN
+#EXTINF:-1 tvg-id="" tvg-name="VIXEN" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/5412f754d84f76d71e0af50dd73b23b1.png" group-title="XXX",VIXEN
 http://aflaxtv.xyz:8080/rapidiptv/shhT6NQ6ZdFw5/290296
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ALL GROUP SEX ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX",XXX: ALL GROUP SEX ADULT
+#EXTINF:-1 tvg-id="" tvg-name="ALL GROUP SEX ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX",ALL GROUP SEX ADULT
 http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/132404
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BRATTY SIS ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX",XXX: BRATTY SIS ADULT
+#EXTINF:-1 tvg-id="" tvg-name="BRATTY SIS ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX",BRATTY SIS ADULT
 http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/132406
-#EXTINF:-1 tvg-id="" tvg-name="XXX: WILD GANGBANGS ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX",XXX: WILD GANGBANGS ADULT
+#EXTINF:-1 tvg-id="" tvg-name="WILD GANGBANGS ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX",WILD GANGBANGS ADULT
 http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/132399
-#EXTINF:-1 tvg-id="" tvg-name="XXX: FIT18 ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX",XXX: FIT18 ADULT
+#EXTINF:-1 tvg-id="" tvg-name="FIT18 ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX",FIT18 ADULT
 http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/132415
-#EXTINF:-1 tvg-id="" tvg-name="XXX: HER LIMIT ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX",XXX: HER LIMIT ADULT
+#EXTINF:-1 tvg-id="" tvg-name="HER LIMIT ADULT" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX",HER LIMIT ADULT
 http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/132417
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BLACKED" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX",XXX: BLACKED
+#EXTINF:-1 tvg-id="" tvg-name="BLACKED" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX",BLACKED
 http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/132475
-#EXTINF:-1 tvg-id="" tvg-name="XXX: ᴘʀᴇᴍɪᴜᴍ xxx Nuart TV (18+)" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX",XXX: ᴘʀᴇᴍɪᴜᴍ xxx Nuart TV (18+)
+#EXTINF:-1 tvg-id="" tvg-name="Nuart TV (18+)" tvg-logo="https://docdog.top/logo/countries/xxx/porn18.png" group-title="XXX",Nuart TV (18+)
 http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/132476
-#EXTINF:-1 tvg-id="" tvg-name="XXX: BOUND GANG BANGS" tvg-logo="" group-title="XXX",XXX: BOUND GANG BANGS
+#EXTINF:-1 tvg-id="" tvg-name="BOUND GANG BANGS" tvg-logo="" group-title="XXX",BOUND GANG BANGS
 http://zerotwo.access.ly:2096/U17938/4016527938/821760
-#EXTINF:-1 tvg-id="" tvg-name="XXX: CRAZY ASIAN GF" tvg-logo="" group-title="XXX",XXX: CRAZY ASIAN GF
+#EXTINF:-1 tvg-id="" tvg-name="CRAZY ASIAN GF" tvg-logo="" group-title="XXX",CRAZY ASIAN GF
 http://zerotwo.access.ly:2096/U17938/4016527938/821771
-#EXTINF:-1 tvg-id="" tvg-name="XXX: CZECH AMATEURS" tvg-logo="" group-title="XXX",XXX: CZECH AMATEURS
+#EXTINF:-1 tvg-id="" tvg-name="CZECH AMATEURS" tvg-logo="" group-title="XXX",CZECH AMATEURS
 http://zerotwo.access.ly:2096/U17938/4016527938/821774
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EXPLOITED COLLEGE GIRLS 2" tvg-logo="" group-title="XXX",XXX: EXPLOITED COLLEGE GIRLS 2
+#EXTINF:-1 tvg-id="" tvg-name="EXPLOITED COLLEGE GIRLS 2" tvg-logo="" group-title="XXX",EXPLOITED COLLEGE GIRLS 2
 http://zerotwo.access.ly:2096/U17938/4016527938/821790
-#EXTINF:-1 tvg-id="" tvg-name="XXX: EXXXTRA SMALL" tvg-logo="" group-title="XXX",XXX: EXXXTRA SMALL
+#EXTINF:-1 tvg-id="" tvg-name="EXXXTRA SMALL" tvg-logo="" group-title="XXX",EXXXTRA SMALL
 http://zerotwo.access.ly:2096/U17938/4016527938/821791
-#EXTINF:-1 tvg-id="" tvg-name="XXX: GANG BANG CREAMPIE" tvg-logo="" group-title="XXX",XXX: GANG BANG CREAMPIE
+#EXTINF:-1 tvg-id="" tvg-name="GANG BANG CREAMPIE" tvg-logo="" group-title="XXX",GANG BANG CREAMPIE
 http://zerotwo.access.ly:2096/U17938/4016527938/821811
-#EXTINF:-1 tvg-id="" tvg-name="XXX: JAPAN HDV" tvg-logo="" group-title="XXX",XXX: JAPAN HDV
+#EXTINF:-1 tvg-id="" tvg-name="JAPAN HDV" tvg-logo="" group-title="XXX",JAPAN HDV
 http://zerotwo.access.ly:2096/U17938/4016527938/821831
-#EXTINF:-1 tvg-id="" tvg-name="XXX: JAPAN HDV 2" tvg-logo="" group-title="XXX",XXX: JAPAN HDV 2
+#EXTINF:-1 tvg-id="" tvg-name="JAPAN HDV 2" tvg-logo="" group-title="XXX",JAPAN HDV 2
 http://zerotwo.access.ly:2096/U17938/4016527938/821832
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SHOPLYFTER" tvg-logo="" group-title="XXX",XXX: SHOPLYFTER
+#EXTINF:-1 tvg-id="" tvg-name="SHOPLYFTER" tvg-logo="" group-title="XXX",SHOPLYFTER
 http://zerotwo.access.ly:2096/U17938/4016527938/821885
-#EXTINF:-1 tvg-id="" tvg-name="XXX: SHOPLYFTER 2" tvg-logo="" group-title="XXX",XXX: SHOPLYFTER 2
+#EXTINF:-1 tvg-id="" tvg-name="SHOPLYFTER 2" tvg-logo="" group-title="XXX",SHOPLYFTER 2
 http://zerotwo.access.ly:2096/U17938/4016527938/821886
-#EXTINF:-1 tvg-id="" tvg-name="XXX: TEENY BLACK" tvg-logo="" group-title="XXX",XXX: TEENY BLACK
+#EXTINF:-1 tvg-id="" tvg-name="TEENY BLACK" tvg-logo="" group-title="XXX",TEENY BLACK
 http://zerotwo.access.ly:2096/U17938/4016527938/821900
-#EXTINF:-1 tvg-id="" tvg-name="XXX: TEENY LOVERS" tvg-logo="" group-title="XXX",XXX: TEENY LOVERS
+#EXTINF:-1 tvg-id="" tvg-name="TEENY LOVERS" tvg-logo="" group-title="XXX",TEENY LOVERS
 http://zerotwo.access.ly:2096/U17938/4016527938/821901
-#EXTINF:-1 tvg-id="" tvg-name="XXX: THAI GIRLS WILD" tvg-logo="" group-title="XXX",XXX: THAI GIRLS WILD
+#EXTINF:-1 tvg-id="" tvg-name="THAI GIRLS WILD" tvg-logo="" group-title="XXX",THAI GIRLS WILD
 http://zerotwo.access.ly:2096/U17938/4016527938/821902
 
-#EXTINF:-1 tvg-id="" tvg-name="XXM: SEXART" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXM: SEXART
+#EXTINF:-1 tvg-id="" tvg-name="XXM: SEXART" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",SEXART
 http://aflaxtv.xyz:8080/rapidiptv/shhT6NQ6ZdFw5/302335
 
 #EXTINF:0 radio="true", Baiturrahman
