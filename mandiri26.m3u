@@ -163,62 +163,62 @@ http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1491209&
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ODISEA.png" group-title="4K UHD 3840P",4K| ODISEA UHD
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1471383&extension=ts
 
-#EXTINF:0,Odisea
+#EXTINF:0 group-title="EUROPA",Odisea
 http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/135.ts
-#EXTINF:0,Dark
+#EXTINF:0 group-title="EUROPA",DE: Dark
 http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/140.ts
-#EXTINF:0,Filmbox Action
+#EXTINF:0 group-title="EUROPA",PL: Filmbox Action
 http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/3958.ts
 
-#EXTINF:0,FR: CINE+ FRISSON
+#EXTINF:0 group-title="EUROPA",FR: CINE+ FRISSON
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=507434&extension=ts&play_token=d1xCEMXNV0
-#EXTINF:0,Ziggo 2
+#EXTINF:0 group-title="EUROPA",Ziggo 2
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=812175&extension=ts&play_token=GLAYevYrnd
-#EXTINF:0,FR: Club
+#EXTINF:0 group-title="EUROPA",FR: Club
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=1920570&extension=ts&play_token=Cq1FcAAurF
-#EXTINF:0,Cine Action
+#EXTINF:0 group-title="EUROPA",Cine Action
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=507424&extension=ts&play_token=DmbKcY4Utm
-#EXTINF:0,NL: Film Action
+#EXTINF:0 group-title="EUROPA",NL: Film Action
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=1282835&extension=ts&play_token=leGtNZC2A4
-#EXTINF:0,FB Action
+#EXTINF:0 group-title="EUROPA",FB Action
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=1395475&extension=ts&play_token=mqU8zW1iSp
-#EXTINF:0,Filmbox Action 2
+#EXTINF:0 group-title="EUROPA",Filmbox Action 2
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=1282831&extension=ts&play_token=wGeVxPtWAv
-#EXTINF:0,Polsat Play
+#EXTINF:0 group-title="EUROPA",Polsat Play
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=1530203&extension=ts&play_token=RLoHICAJ6Q
-#EXTINF:0,Puls
+#EXTINF:0 group-title="EUROPA",Puls
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=882099&extension=ts&play_token=6Ki9jEDwFb
-#EXTINF:0,Puls2
+#EXTINF:0 group-title="EUROPA",Puls2
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=1530195&extension=ts&play_token=FVjjr8RDy0
-#EXTINF:0,PolPl
+#EXTINF:0 group-title="EUROPA",PolPl
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=1530202&extension=ts&play_token=ONYxk9KFyk
-#EXTINF:0,Puls
+#EXTINF:0 group-title="EUROPA",Puls
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=880339&extension=ts&play_token=yS40On4XI5
-#EXTINF:0,Puls4
+#EXTINF:0 group-title="EUROPA",Puls4
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=880335&extension=ts&play_token=y9YnSeRcN7
-#EXTINF:0,Ch6
+#EXTINF:0 group-title="EUROPA",Ch6
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=1530229&extension=ts&play_token=VzcvNuea95
-#EXTINF:0,6
+#EXTINF:0 group-title="EUROPA",6
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=880371&extension=ts&play_token=DGcUrx3rvF
-#EXTINF:0,Cielo
+#EXTINF:0 group-title="EUROPA",Cielo
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=691585&extension=ts&play_token=ecDZFp6Dgi
-#EXTINF:0,Rouge
+#EXTINF:0 group-title="EUROPA",FR: Rouge
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=1705705&extension=ts&play_token=KR3wosZgOH
-#EXTINF:0,Carac3
+#EXTINF:0 group-title="EUROPA",FR: Carac3
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=1705707&extension=ts&play_token=bQeiFMkNCg
-#EXTINF:0,OCS
+#EXTINF:0 group-title="EUROPA",FR: OCS
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=1581641&extension=ts&play_token=f7ymrQ8LEJ
-#EXTINF:0,OCS Go
+#EXTINF:0 group-title="EUROPA",FR: OCS Go
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=920274&extension=ts&play_token=P8zYXkEwUv
-#EXTINF:0,Cine Star Act
+#EXTINF:0 group-title="EUROPA",Cine Star Act
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=110891&extension=ts&play_token=xXxZ4YHdw8
-#EXTINF:0,Cine Star
+#EXTINF:0 group-title="EUROPA",Cine Star
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=110888&extension=ts&play_token=yWWMZfFQuU
-#EXTINF:0,Cine Star2
+#EXTINF:0 group-title="EUROPA",Cine Star2
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=1565921&extension=ts&play_token=fCZrDfJZ6K
-#EXTINF:0,Odisea 4k
+#EXTINF:0 group-title="EUROPA",Odisea 4k
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=1547335&extension=ts&play_token=nGV7IV8MEB
-#EXTINF:0,PIX HD
+#EXTINF:0 group-title="EUROPA",PIX HD
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=1116481&extension=ts&play_token=TDiZjYTbOB
 
 #EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/bein/beinsports1.png" group-title="SPORT",AR: BEIN SPORTS 1
@@ -309,32 +309,32 @@ http://smarttv.suportline.xyz/live00/ArenaSportHD5.m3u8?u=ekoraca&p=1c88308d4348
 http://smarttv.suportline.xyz/live32/ArenaSport6.m3u8?u=ekoraca&p=1c88308d43489aacf8197e13514c3558001f7a57544de0b6c78273cdce989ccb&token=yKtn8Ljbjj4ItbDhrmtchg&channel=ArenaSport6&e=1999999999&d=smarttv&dName=smarttvApp
 #EXTINF:0 tvg-id="Arena Sport 6 RS" tvg-logo="http://suportline.xyz/images/channel/20210907224225.png" group-title="SPORT",Arena Sport 6 SR
 http://smarttv.suportline.xyz/live32/ArenaSport6SR.m3u8?u=ekoraca&p=1c88308d43489aacf8197e13514c3558001f7a57544de0b6c78273cdce989ccb&token=wBhsCF2sSMWHCBCho6VTOA&channel=ArenaSport6SR&e=1999999999&d=smarttv&dName=smarttvApp
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 HD" tvg-logo="https://up6.cc/2024/11/173179141973691.png" group-title="SPORTS➣beIN  (UHD)",beIN SPORTS 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 HD" tvg-logo="https://up6.cc/2024/11/173179141973691.png" group-title="SPORT",beIN SPORTS 1 HD
 http://otv-app.fit:80//live/0987654/0987654/508209.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 HD" tvg-logo="https://up6.cc/2024/11/173179141973691.png" group-title="SPORTS➣beIN  (UHD)",beIN SPORTS 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 HD" tvg-logo="https://up6.cc/2024/11/173179141973691.png" group-title="SPORT",beIN SPORTS 2 HD
 http://otv-app.fit:80//live/0987654/0987654/508210.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 HD" tvg-logo="https://up6.cc/2024/11/173179141973691.png" group-title="SPORTS➣beIN  (UHD)",beIN SPORTS 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 HD" tvg-logo="https://up6.cc/2024/11/173179141973691.png" group-title="SPORT",beIN SPORTS 3 HD
 http://otv-app.fit:80//live/0987654/0987654/508211.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 HD" tvg-logo="https://up6.cc/2024/11/173179141973691.png" group-title="SPORTS➣beIN  (UHD)",beIN SPORTS 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 HD" tvg-logo="https://up6.cc/2024/11/173179141973691.png" group-title="SPORT",beIN SPORTS 4 HD
 http://otv-app.fit:80//live/0987654/0987654/508212.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 HD" tvg-logo="https://up6.cc/2024/11/173179141973691.png" group-title="SPORTS➣beIN  (UHD)",beIN SPORTS 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 HD" tvg-logo="https://up6.cc/2024/11/173179141973691.png" group-title="SPORT",beIN SPORTS 5 HD
 http://otv-app.fit:80//live/0987654/0987654/508213.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6 HD" tvg-logo="https://up6.cc/2024/11/173179141973691.png" group-title="SPORTS➣beIN  (UHD)",beIN SPORTS 6 HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6 HD" tvg-logo="https://up6.cc/2024/11/173179141973691.png" group-title="SPORT",beIN SPORTS 6 HD
 http://otv-app.fit:80//live/0987654/0987654/508214.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7 HD" tvg-logo="https://up6.cc/2024/11/173179141973691.png" group-title="SPORTS➣beIN  (UHD)",beIN SPORTS 7 HD
-#EXTINF:-1,PT: SPORT TV 1 
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7 HD" tvg-logo="https://up6.cc/2024/11/173179141973691.png" group-title="SPORT",beIN SPORTS 7 HD
+#EXTINF:-1 group-title="SPORT",PT: SPORT TV 1 
 http://fortv.cc:8080/91990097/91990097/167742
-#EXTINF:-1,PT: SPORT TV 2 
+#EXTINF:-1 group-title="SPORT",PT: SPORT TV 2 
 http://fortv.cc:8080/91990097/91990097/167743
-#EXTINF:-1,PT: SPORT TV 3 
+#EXTINF:-1 group-title="SPORT",PT: SPORT TV 3 
 http://fortv.cc:8080/91990097/91990097/167744
-#EXTINF:-1,PT: SPORT TV 4 
+#EXTINF:-1 group-title="SPORT",PT: SPORT TV 4 
 http://fortv.cc:8080/91990097/91990097/167745
-#EXTINF:-1,PT: ELEVEN SPORTS 3 
+#EXTINF:-1 group-title="SPORT",PT: ELEVEN SPORTS 3 
 http://fortv.cc:8080/91990097/91990097/167748
-#EXTINF:-1,PT: ELEVEN SPORTS 4 
+#EXTINF:-1 group-title="SPORT",PT: ELEVEN SPORTS 4 
 http://fortv.cc:8080/91990097/91990097/167749
-#EXTINF:-1,PT: ELEVEN SPORTS 5 
+#EXTINF:-1 group-title="SPORT",PT: ELEVEN SPORTS 5 
 http://fortv.cc:8080/91990097/91990097/167750
 #EXTINF:-1 group-title="CANADA",CA Love Nature HD 
 http://fortv.cc:8080/91990097/91990097/47324
