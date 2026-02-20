@@ -57,6 +57,16 @@ http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8
 https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-id="NHKWorldJapan.jp@SD",NHK World-Japan 
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+#EXTINF:-1 tvg-id="990" tvg-name="Pink Hits 1" tvg-logo="/noicon.png" group-title="MUZICKI KANALI" ,Pink Hits 1
+http://vodafone4.com:8001/zuhadnet/T0JXiSaWy6/990
+#EXTINF:-1 tvg-id="989" tvg-name="Pink Hits 2" tvg-logo="/noicon.png" group-title="MUZICKI KANALI" ,Pink Hits 2
+http://vodafone4.com:8001/zuhadnet/T0JXiSaWy6/989
+#EXTINF:-1 tvg-id="983" tvg-name="Pink Music" tvg-logo="/noicon.png" group-title="MUZICKI KANALI" ,Pink Music
+http://vodafone4.com:8001/zuhadnet/T0JXiSaWy6/983
+#EXTINF:-1 tvg-id="982" tvg-name="Pink Music 2" tvg-logo="/noicon.png" group-title="MUZICKI KANALI" ,Pink Music 2
+http://vodafone4.com:8001/zuhadnet/T0JXiSaWy6/982
+#EXTINF:-1 tvg-id="1129" tvg-name="BALKANIKA TV HD" tvg-logo="/noicon.png" group-title="MUZICKI KANALI" ,BALKANIKA TV HD
+http://vodafone4.com:8001/zuhadnet/T0JXiSaWy6/1129
 #EXTINF:-1 tvg-id="BRIDGE.ru@SD",BRIDGE
 http://31.148.48.15/Bridge_TV/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGEDeluxe.ru@SD",BRIDGE Deluxe
@@ -575,6 +585,12 @@ http://zerotwo.access.ly:2096/U17938/4016527938/821900
 http://zerotwo.access.ly:2096/U17938/4016527938/821901
 #EXTINF:-1 tvg-id="" tvg-name="THAI GIRLS WILD" tvg-logo="" group-title="XXX",THAI GIRLS WILD
 http://zerotwo.access.ly:2096/U17938/4016527938/821902
+#EXTINF:-1 tvg-id="" tvg-name="BIG BROTHER KOSOVA VIP 1" tvg-logo="" group-title="ALBANIA" ,BIG BROTHER KOSOVA VIP 1
+http://vodafone4.com:8001/zuhadnet/T0JXiSaWy6/29701
+#EXTINF:-1 tvg-id="" tvg-name="BIG BROTHER KOSOVA VIP 2" tvg-logo="" group-title="ALBANIA" ,BIG BROTHER KOSOVA VIP 2
+http://vodafone4.com:8001/zuhadnet/T0JXiSaWy6/29702
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN EROTIC" tvg-logo="" group-title="XXX FOR ADULT 18+" ,BALKAN EROTIC
+http://vodafone4.com:8001/zuhadnet/T0JXiSaWy6/28103
 
 #EXTINF:-1 tvg-id="" tvg-name="XXM: SEXART" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",SEXART
 http://aflaxtv.xyz:8080/rapidiptv/shhT6NQ6ZdFw5/302335
