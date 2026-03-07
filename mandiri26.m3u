@@ -229,6 +229,29 @@ http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=1547335&
 #EXTINF:0 group-title="EUROPA",IN: Pix HD
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=1116481&extension=ts&play_token=TDiZjYTbOB
 
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917260.png" group-title="WORLD LIVE SPORTS",RO| DIGI SPORT 1 HD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:04:04:80&stream=1917260&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917259.png" group-title="WORLD LIVE SPORTS",RO| DIGI SPORT 2 HD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:04:04:80&stream=1917259&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917258.png" group-title="WORLD LIVE SPORTS",RO| DIGI SPORT 3 HD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:04:04:80&stream=1917258&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917257.png" group-title="WORLD LIVE SPORTS",RO| DIGI SPORT 4 HD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:04:04:80&stream=1917257&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917256.png" group-title="WORLD LIVE SPORTS",RO| EUROSPORT 1 HD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:04:04:80&stream=1917256&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917255.png" group-title="WORLD LIVE SPORTS",RO| EUROSPORT 2 HD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:04:04:80&stream=1917255&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917254.png" group-title="WORLD LIVE SPORTS",RO| PRIMA SPORT 1 HD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:04:04:80&stream=1917254&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917253.png" group-title="WORLD LIVE SPORTS",RO| PRIMA SPORT 2 HD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:04:04:80&stream=1917253&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917252.png" group-title="WORLD LIVE SPORTS",RO| PRIMA SPORT 3 HD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:04:04:80&stream=1917252&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917251.png" group-title="WORLD LIVE SPORTS",RO| PRIMA SPORT 4 HD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:04:04:80&stream=1917251&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917250.png" group-title="WORLD LIVE SPORTS",RO| PRIMA SPORT 5 HD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:04:04:80&stream=1917250&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/bein/beinsports1.png" group-title="SPORT",AR: BEIN SPORTS 1
 http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/841
 #EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/bein/beinsports2.png" group-title="SPORT",AR: BEIN SPORTS 2
