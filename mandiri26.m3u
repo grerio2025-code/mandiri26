@@ -229,6 +229,19 @@ http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=1547335&
 #EXTINF:0 group-title="EUROPA",IN: Pix HD
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=1116481&extension=ts&play_token=TDiZjYTbOB
 
+EXTINF:-1 tvg-id="NL.000094.019321" tvg-name="NL: Ziggo Sport 1 ¹⁰⁸⁰ᵖ " tvg-logo="https://raw.githubusercontent.com/Stevie-v/srp.220x132.transparent-white-ziggo/a6a6a0950a462a2a2c86388065d4c102294d9659/picons/1_0_19_4CCD_81A_600_FFFF0000_0_0_0.png" group-title="NL SPORTKANALEN",NL: Ziggo Sport 1 ¹⁰⁸⁰ᵖ 
+http://live.iptvtotaal.com:8000/ronaldvan3333/eUaRuHrHgv/16307
+#EXTINF:-1 tvg-id="NL.000095.019371" tvg-name="NL: Ziggo Sport 2 ¹⁰⁸⁰ᵖ" tvg-logo="https://raw.githubusercontent.com/Stevie-v/srp.220x132.transparent-white-ziggo/a6a6a0950a462a2a2c86388065d4c102294d9659/picons/1_0_19_4BAB_817_600_FFFF0000_0_0_0.png" group-title="NL SPORTKANALEN",NL: Ziggo Sport 2 ¹⁰⁸⁰ᵖ
+http://live.iptvtotaal.com:8000/ronaldvan3333/eUaRuHrHgv/16335
+#EXTINF:-1 tvg-id="NL.000096.019382" tvg-name="NL: Ziggo Sport 3  ¹⁰⁸⁰ᵖ" tvg-logo="https://raw.githubusercontent.com/Stevie-v/srp.220x132.transparent-white-ziggo/a6a6a0950a462a2a2c86388065d4c102294d9659/picons/1_0_19_4BB6_831_600_FFFF0000_0_0_0.png" group-title="NL SPORTKANALEN",NL: Ziggo Sport 3  ¹⁰⁸⁰ᵖ
+http://live.iptvtotaal.com:8000/ronaldvan3333/eUaRuHrHgv/16336
+#EXTINF:-1 tvg-id="NL.000097.019370" tvg-name="NL: Ziggo Sport 4 ¹⁰⁸⁰ᵖ " tvg-logo="https://raw.githubusercontent.com/Stevie-v/srp.220x132.transparent-white-ziggo/a6a6a0950a462a2a2c86388065d4c102294d9659/picons/1_0_19_4BAA_817_600_FFFF0000_0_0_0.png" group-title="NL SPORTKANALEN",NL: Ziggo Sport 4 ¹⁰⁸⁰ᵖ 
+http://live.iptvtotaal.com:8000/ronaldvan3333/eUaRuHrHgv/16333
+#EXTINF:-1 tvg-id="ZiggoSport5.nl" tvg-name="NL: Ziggo Sport 5 ¹⁰⁸⁰ᵖ" tvg-logo="https://raw.githubusercontent.com/Stevie-v/srp.220x132.transparent-white-ziggo/a801d5dc57de145a2753e4a8a6ad6a5bd7603116/picons/1_0_19_4B37_810_600_FFFF0000_0_0_0.png" group-title="NL SPORTKANALEN",NL: Ziggo Sport 5 ¹⁰⁸⁰ᵖ
+http://live.iptvtotaal.com:8000/ronaldvan3333/eUaRuHrHgv/16276
+#EXTINF:-1 tvg-id="ZiggoSport6.nl" tvg-name="NL: Ziggo Sport 6 ¹⁰⁸⁰ᵖ" tvg-logo="https://raw.githubusercontent.com/Stevie-v/srp.220x132.transparent-white-ziggo/a801d5dc57de145a2753e4a8a6ad6a5bd7603116/picons/1_0_19_4B38_810_600_FFFF0000_0_0_0.png" group-title="NL SPORTKANALEN",NL: Ziggo Sport 6 ¹⁰⁸⁰ᵖ
+http://live.iptvtotaal.com:8000/ronaldvan3333/eUaRuHrHgv/16277
+
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917260.png" group-title="WORLD LIVE SPORTS",RO| DIGI SPORT 1 HD
 http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:04:04:80&stream=1917260&extension=ts
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917259.png" group-title="WORLD LIVE SPORTS",RO| DIGI SPORT 2 HD
