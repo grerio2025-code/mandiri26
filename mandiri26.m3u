@@ -57,14 +57,80 @@ http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8
 https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-id="NHKWorldJapan.jp@SD",NHK World-Japan 
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
-#EXTINF:-1 tvg-id="990" tvg-name="Pink Hits 1" tvg-logo="/noicon.png" group-title="MUZICKI KANALI" ,Pink Hits 1
-http://vodafone4.com:8001/zuhadnet/T0JXiSaWy6/990
-#EXTINF:-1 tvg-id="989" tvg-name="Pink Hits 2" tvg-logo="/noicon.png" group-title="MUZICKI KANALI" ,Pink Hits 2
-http://vodafone4.com:8001/zuhadnet/T0JXiSaWy6/989
-#EXTINF:-1 tvg-id="983" tvg-name="Pink Music" tvg-logo="/noicon.png" group-title="MUZICKI KANALI" ,Pink Music
-http://vodafone4.com:8001/zuhadnet/T0JXiSaWy6/983
-#EXTINF:-1 tvg-id="982" tvg-name="Pink Music 2" tvg-logo="/noicon.png" group-title="MUZICKI KANALI" ,Pink Music 2
-http://vodafone4.com:8001/zuhadnet/T0JXiSaWy6/982
+
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880216.png" group-title="PL| MUZYCZNE",PL| ESKA TV
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880216&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880215.png" group-title="PL| MUZYCZNE",PL| ESKA TV EXTRA
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880215&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880217.png" group-title="PL| MUZYCZNE",PL| ESKA ROCK TV
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880217&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880220.png" group-title="PL| MUZYCZNE",PL| 4FUN.TV
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880220&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880222.png" group-title="PL| MUZYCZNE",PL| 4FUN DANCE
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880222&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880221.png" group-title="PL| MUZYCZNE",PL| 4FUN GOLD HITS
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880221&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880204.png" group-title="PL| MUZYCZNE",PL| STARS.TV
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880204&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880207.png" group-title="PL| MUZYCZNE",PL| NUTA TV
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880207&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880199.png" group-title="PL| MUZYCZNE",PL| MUSIC BOX POLSKA
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880199&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1121760.png" group-title="PL| MUZYCZNE",PL| MIXTAPE HD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=1121760&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1121759.png" group-title="PL| MUZYCZNE",PL| 360 TUNEBOX HD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=1121759&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880213.png" group-title="PL| MUZYCZNE",PL| KINO POLSKA MUZYKA
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880213&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880400.png" group-title="PL| MUZYCZNE",PL| POLSAT MUSIC FHD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880400&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880260.png" group-title="PL| MUZYCZNE",PL| POLSAT MUSIC HD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880260&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880409.png" group-title="PL| MUZYCZNE",PL| MTV LIVE FHD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880409&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880269.png" group-title="PL| MUZYCZNE",PL| MTV LIVE HD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880269&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880408.png" group-title="PL| MUZYCZNE",PL| MTV POLSKA FHD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880408&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880268.png" group-title="PL| MUZYCZNE",PL| MTV POLSKA HD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880268&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880200.png" group-title="PL| MUZYCZNE",PL| MTV 00S
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880200&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880208.png" group-title="PL| MUZYCZNE",PL| MTV 80S HD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880208&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880198.png" group-title="PL| MUZYCZNE",PL| VOX MUSIC TV
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880198&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880205.png" group-title="PL| MUZYCZNE",PL| POWER TV
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880205&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1121755.png" group-title="PL| MUZYCZNE",PL| DISCO POLO MUSIC HD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=1121755&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880223.png" group-title="PL| MUZYCZNE",PL| DISCO POLO MUSIC
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880223&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880383.png" group-title="PL| MUZYCZNE",PL| POLO TV FHD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880383&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880243.png" group-title="PL| MUZYCZNE",PL| POLO TV HD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880243&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1121754.png" group-title="PL| MUZYCZNE",PL| JAZZ HD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=1121754&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1121752.png" group-title="PL| MUZYCZNE",PL| MEZZO HD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=1121752&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1121753.png" group-title="PL| MUZYCZNE",PL| MEZZO LIVE HD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=1121753&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1530261.png" group-title="PL| POLAND VIP",PL-VIP| FILMBOX ARTHOUSE RAW
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=1530261&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1530263.png" group-title="PL| POLAND VIP",PL-VIP| FILMBOX EXTRA RAW
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=1530263&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880483.png" group-title="PL| FILMOWE",PL| FILMBOX PREMIUM FHD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880483&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880344.png" group-title="PL| FILMOWE",PL| FILMBOX EXTRA HD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880344&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880484.png" group-title="PL| FILMOWE",PL| FILMBOX EXTRA FHD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880484&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880232.png" group-title="PL| FILMOWE",PL| FILMBOX ARTHOUSE
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880232&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880233.png" group-title="PL| FILMOWE",PL| FILMBOX ACTION
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880233&extension=ts
+
 #EXTINF:-1 tvg-id="1129" tvg-name="BALKANIKA TV HD" tvg-logo="/noicon.png" group-title="MUZICKI KANALI" ,BALKANIKA TV HD
 http://vodafone4.com:8001/zuhadnet/T0JXiSaWy6/1129
 #EXTINF:-1 tvg-id="BRIDGE.ru@SD",BRIDGE
@@ -265,52 +331,74 @@ http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:04:04:80&stream=1917251&ex
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917250.png" group-title="WORLD LIVE SPORTS",RO| PRIMA SPORT 5 HD
 http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:04:04:80&stream=1917250&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/bein/beinsports1.png" group-title="SPORT",AR: BEIN SPORTS 1
-http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/841
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/bein/beinsports2.png" group-title="SPORT",AR: BEIN SPORTS 2
-http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/842
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 3" tvg-logo="https://docdog.top/logo/countries/bein/beinsports3.png" group-title="SPORT",AR: BEIN SPORTS 3
-http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/843
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 4" tvg-logo="https://docdog.top/logo/countries/bein/beinsports4.png" group-title="SPORT",AR: BEIN SPORTS 4
-http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/844
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 5" tvg-logo="https://docdog.top/logo/countries/bein/beinsports5.png" group-title="SPORT",AR: BEIN SPORTS 5
-http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/845
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 6" tvg-logo="https://docdog.top/logo/countries/bein/beinsports6.png" group-title="SPORT",AR: BEIN SPORTS 6
-http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/846
-#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 1" tvg-logo="https://docdog.top/logo/countries/romania/digisport1.png" group-title="SPORT",RO: DIGI SPORT 1
-http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/3174
-#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 2" tvg-logo="https://docdog.top/logo/countries/romania/digisport2.png" group-title="SPORT",RO: DIGI SPORT 2
-http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/3175
-#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 3" tvg-logo="https://docdog.top/logo/countries/romania/digisport3.png" group-title="SPORT",RO: DIGI SPORT 3
-http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/3176
-#EXTINF:-1 tvg-id="" tvg-name="RO: DIGI SPORT 4" tvg-logo="https://docdog.top/logo/countries/romania/digisport4.png" group-title="SPORT",RO: DIGI SPORT 4
-http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/3177
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT" tvg-logo="" group-title="SPORT",NL: ZIGGO SPORT
-http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/128986
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT 2" tvg-logo="" group-title="SPORT",NL: ZIGGO SPORT 2
-http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/128987
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT 3" tvg-logo="" group-title="SPORT",NL: ZIGGO SPORT 3
-http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/128988
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT 4" tvg-logo="" group-title="SPORT",NL: ZIGGO SPORT 4
-http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/128994
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT 5" tvg-logo="" group-title="SPORT",NL: ZIGGO SPORT 5
-http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/128995
-#EXTINF:-1 tvg-id="" tvg-name="NL: ZIGGO SPORT 6" tvg-logo="" group-title="SPORT",NL: ZIGGO SPORT 6
-http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/128996
-#EXTINF:-1 tvg-id="beIN SPORTS 1" tvg-name="FR: BEIN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png" group-title="SPORT",FR: BEIN SPORTS 1
-http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/373
-#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 1 HD" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_1.png" group-title="SPORT",FR: BEIN SPORTS 1 HD
-http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/128979
-#EXTINF:-1 tvg-id="beIN SPORTS 2" tvg-name="FR: BEIN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_2.png" group-title="SPORT",FR: BEIN SPORTS 2
-http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/374
-#EXTINF:-1 tvg-id="beIN SPORTS 3" tvg-name="FR: BEIN SPORTS 3" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORTS_3.png" group-title="SPORT",FR: BEIN SPORTS 3
-http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/375
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 4" tvg-name="FR: BEIN SPORT MAX 4" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_4.png" group-title="SPORT",FR: BEIN SPORT MAX 4
-http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/376
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 5" tvg-name="FR: BEIN SPORT MAX 5" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_5.png" group-title="SPORT",FR: BEIN SPORT MAX 5
-http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/377
-#EXTINF:-1 tvg-id="BEIN SPORTS MAX 6" tvg-name="FR: BEIN SPORT MAX 6" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/BEIN_SPORT_MAX_6.png" group-title="SPORT",FR: BEIN SPORT MAX 6
-http://vipbxcass.top:8080/VIP0168175968003861/6gsfgs2zaf5d/378
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1530157.png" group-title="PL| POLAND VIP",PL-VIP| ELEVEN SPORTS 1 RAW
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=1530157&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1530158.png" group-title="PL| POLAND VIP",PL-VIP| ELEVEN SPORTS 2 RAW
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=1530158&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1530159.png" group-title="PL| POLAND VIP",PL-VIP| ELEVEN SPORTS 3 RAW
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=1530159&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1530206.png" group-title="PL| POLAND VIP",PL-VIP| POLSAT SPORT 1 RAW
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=1530206&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1530207.png" group-title="PL| POLAND VIP",PL-VIP| POLSAT SPORT 2 RAW
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=1530207&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1530208.png" group-title="PL| POLAND VIP",PL-VIP| POLSAT SPORT 3 RAW
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=1530208&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1836208.png" group-title="DE| MAGENTA COLLECTION SPORT ᴿᴬᵂ ᴳᴼᴸᴰ",MG| SPORT 1 - MYTEAMTV ᴿᴬᵂ
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=1836208&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1836207.png" group-title="DE| MAGENTA COLLECTION SPORT ᴿᴬᵂ ᴳᴼᴸᴰ",MG| SPORT 2 - MYTEAMTV ᴿᴬᵂ
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=1836207&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1836206.png" group-title="DE| MAGENTA COLLECTION SPORT ᴿᴬᵂ ᴳᴼᴸᴰ",MG| SPORT 3 - MYTEAMTV ᴿᴬᵂ
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=1836206&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1836205.png" group-title="DE| MAGENTA COLLECTION SPORT ᴿᴬᵂ ᴳᴼᴸᴰ",MG| SPORT 4 - MYTEAMTV ᴿᴬᵂ
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=1836205&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1836204.png" group-title="DE| MAGENTA COLLECTION SPORT ᴿᴬᵂ ᴳᴼᴸᴰ",MG| SPORT 5 - MYTEAMTV ᴿᴬᵂ
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=1836204&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1836203.png" group-title="DE| MAGENTA COLLECTION SPORT ᴿᴬᵂ ᴳᴼᴸᴰ",MG| SPORT 6 - MYTEAMTV ᴿᴬᵂ
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=1836203&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/CANALPLUSSPORT.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT FHD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880461&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/CANALPLUSSPORT.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT HD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880321&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/CANALPLUSSPORT2.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 2 FHD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880460&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/CANALPLUSSPORT2.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 2 HD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880320&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/CANALPLUSSPORT3.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 3 FHD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880459&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/CANALPLUSSPORT3.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 3 HD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880319&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/CANALPLUSSPORT4.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 4 FHD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880458&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/CANALPLUSSPORT4.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 4 HD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880318&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/CANALPLUSSPORT5.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 5 FHD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880406&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/CANALPLUSSPORT5.png" group-title="PL| SPORTOWE",PL| CANAL+ SPORT 5 HD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880266&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889491.png" group-title="DE| GERMANY HEVC",DE| SKY SPORT 1 HEVC
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=889491&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889489.png" group-title="DE| GERMANY HEVC",DE| SKY SPORT 2 HEVC
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=889489&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889488.png" group-title="DE| GERMANY HEVC",DE| SKY SPORT 3 HEVC
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=889488&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889486.png" group-title="DE| GERMANY HEVC",DE| SKY SPORT 4 HEVC
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=889486&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889485.png" group-title="DE| GERMANY HEVC",DE| SKY SPORT 5 HEVC
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=889485&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/889483.png" group-title="DE| GERMANY HEVC",DE| SKY SPORT 6 HEVC
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=889483&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1131946.png" group-title="CH| SWITZERLAND",SW| BLUE SPORT 1
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=1131946&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1131945.png" group-title="CH| SWITZERLAND",SW| BLUE SPORT 2
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=1131945&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1680844.png" group-title="CH| SWITZERLAND",SW| BLUE SPORT 3 FHD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=1680844&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1680845.png" group-title="CH| SWITZERLAND",SW| BLUE SPORT 4 FHD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=1680845&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1680846.png" group-title="CH| SWITZERLAND",SW| BLUE SPORT 5 FHD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=1680846&extension=ts
+
+
 #EXTINF:0 tvg-id="Arena Sport 1 Premium" tvg-logo="http://suportline.xyz/images/channel/20211025203145.png" group-title="SPORT",Arena Premium 1
 http://smarttv.suportline.xyz/live00/ArenaPremium1.m3u8?u=ekoraca&p=1c88308d43489aacf8197e13514c3558001f7a57544de0b6c78273cdce989ccb&token=Bc1NWrxWOisUucx2kX8_Jg&channel=ArenaPremium1&e=1999999999&d=smarttv&dName=smarttvApp
 #EXTINF:0 tvg-id="Discovery Science" tvg-logo="http://suportline.xyz/images/channel/20240520133312.png" group-title="SPORT",Arena Premium 1 BH
@@ -353,19 +441,58 @@ http://smarttv.suportline.xyz/live00/ArenaSportHD5.m3u8?u=ekoraca&p=1c88308d4348
 http://smarttv.suportline.xyz/live32/ArenaSport6.m3u8?u=ekoraca&p=1c88308d43489aacf8197e13514c3558001f7a57544de0b6c78273cdce989ccb&token=yKtn8Ljbjj4ItbDhrmtchg&channel=ArenaSport6&e=1999999999&d=smarttv&dName=smarttvApp
 #EXTINF:0 tvg-id="Arena Sport 6 RS" tvg-logo="http://suportline.xyz/images/channel/20210907224225.png" group-title="SPORT",Arena Sport 6 SR
 http://smarttv.suportline.xyz/live32/ArenaSport6SR.m3u8?u=ekoraca&p=1c88308d43489aacf8197e13514c3558001f7a57544de0b6c78273cdce989ccb&token=wBhsCF2sSMWHCBCho6VTOA&channel=ArenaSport6SR&e=1999999999&d=smarttv&dName=smarttvApp
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 HD" tvg-logo="https://up6.cc/2024/11/173179141973691.png" group-title="SPORT",beIN SPORTS 1 HD
-http://otv-app.fit:80//live/0987654/0987654/508209.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 HD" tvg-logo="https://up6.cc/2024/11/173179141973691.png" group-title="SPORT",beIN SPORTS 2 HD
-http://otv-app.fit:80//live/0987654/0987654/508210.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 HD" tvg-logo="https://up6.cc/2024/11/173179141973691.png" group-title="SPORT",beIN SPORTS 3 HD
-http://otv-app.fit:80//live/0987654/0987654/508211.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 HD" tvg-logo="https://up6.cc/2024/11/173179141973691.png" group-title="SPORT",beIN SPORTS 4 HD
-http://otv-app.fit:80//live/0987654/0987654/508212.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 HD" tvg-logo="https://up6.cc/2024/11/173179141973691.png" group-title="SPORT",beIN SPORTS 5 HD
-http://otv-app.fit:80//live/0987654/0987654/508213.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6 HD" tvg-logo="https://up6.cc/2024/11/173179141973691.png" group-title="SPORT",beIN SPORTS 6 HD
-http://otv-app.fit:80//live/0987654/0987654/508214.ts
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7 HD" tvg-logo="https://up6.cc/2024/11/173179141973691.png" group-title="SPORT",beIN SPORTS 7 HD
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1916100.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| CANAL+ SPORT 2 ᴿᴬᵂ
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=1916100&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1916099.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| CANAL+ SPORT 3 ᴿᴬᵂ
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=1916099&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1916098.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| CANAL+ SPORT 4 ᴿᴬᵂ
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=1916098&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1916097.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| CANAL+ SPORT 5 ᴿᴬᵂ
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=1916097&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1916096.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| CANAL SPORT ᴿᴬᵂ
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=1916096&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1916095.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| ELEVEN SPORTS 1 ᴿᴬᵂ
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=1916095&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1916094.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| ELEVEN SPORTS 2 ᴿᴬᵂ
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=1916094&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1916093.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| ELEVEN SPORTS 3 ᴿᴬᵂ
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=1916093&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1916092.png" group-title="PL| CANAL+ ONLINE SPORT ᴿᴬᵂ",PLAY+| ELEVEN SPORTS 4 ᴿᴬᵂ
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=1916092&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORT1.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT 1 FHD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880471&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORT1.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT 1 HD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880331&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORT2.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT 2 FHD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880470&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORT2.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT 2 HD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880330&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORT3.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT 3 FHD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880468&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORT3.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT 3 HD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880328&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTPREMIUM1.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 1 FHD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880467&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTPREMIUM1.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 1 HD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880327&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTPREMIUM2.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 2 FHD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880466&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTPREMIUM2.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 2 HD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880326&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTPREMIUM3.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 3 FHD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880465&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTPREMIUM3.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 3 HD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880325&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTPREMIUM4.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 4 FHD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880464&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTPREMIUM4.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 4 HD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880324&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTPREMIUM5.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 5 FHD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880463&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLANDNEW/POLSATSPORTPREMIUM5.png" group-title="PL| SPORTOWE",PL| POLSAT SPORT PREMIUM 5 HD
+http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880323&extension=ts
+
 #EXTINF:-1 group-title="SPORT",PT: SPORT TV 1 
 http://fortv.cc:8080/91990097/91990097/167742
 #EXTINF:-1 group-title="SPORT",PT: SPORT TV 2 
