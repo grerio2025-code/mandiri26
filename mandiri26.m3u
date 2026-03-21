@@ -331,6 +331,115 @@ http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:04:04:80&stream=1917251&ex
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917250.png" group-title="WORLD LIVE SPORTS",RO| PRIMA SPORT 5 HD
 http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:04:04:80&stream=1917250&extension=ts
 
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV + HD" group-title="PT| DESPORTO",PT| SPORT TV + HD
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=107437&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV+ HEVC" group-title="PT| DESPORTO",PT| SPORT TV+ HEVC
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=368058&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 1 HD" group-title="PT| DESPORTO",PT| SPORT TV 1 HD
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=107436&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 1 HEVC" group-title="PT| DESPORTO",PT| SPORT TV 1 HEVC
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=118447&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 1 SD" group-title="PT| DESPORTO",PT| SPORT TV 1 SD
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=148671&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 2 HD" group-title="PT| DESPORTO",PT| SPORT TV 2 HD
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=107435&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 2 HEVC" group-title="PT| DESPORTO",PT| SPORT TV 2 HEVC
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=118446&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 2 SD" group-title="PT| DESPORTO",PT| SPORT TV 2 SD
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=148670&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 3 HD" group-title="PT| DESPORTO",PT| SPORT TV 3 HD
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=107434&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 3 HEVC" group-title="PT| DESPORTO",PT| SPORT TV 3 HEVC
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=118445&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 3 SD" group-title="PT| DESPORTO",PT| SPORT TV 3 SD
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=148669&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 4 HD" group-title="PT| DESPORTO",PT| SPORT TV 4 HD
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=107433&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 4 SD" group-title="PT| DESPORTO",PT| SPORT TV 4 SD
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=148668&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 5 HD" group-title="PT| DESPORTO",PT| SPORT TV 5 HD
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=148667&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 5 FHD" group-title="PT| DESPORTO",PT| SPORT TV 5 FHD
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=1809290&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 6 FHD" group-title="PT| DESPORTO",PT| SPORT TV 6 FHD
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=712739&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 7 FHD" group-title="PT| DESPORTO",PT| SPORT TV 7 FHD
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=1613387&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 1 HD" group-title="PT| DESPORTO",PT| DAZN 1 HD
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=107495&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 1 HEVC" group-title="PT| DESPORTO",PT| DAZN 1 HEVC
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=118459&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 2 HD" group-title="PT| DESPORTO",PT| DAZN 2 HD
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=107494&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 2 HEVC" group-title="PT| DESPORTO",PT| DAZN 2 HEVC
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=118458&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 3" group-title="PT| DESPORTO",PT| DAZN 3
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=107493&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 3 HD" group-title="PT| DESPORTO",PT| DAZN 3 HD
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=122484&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 4" group-title="PT| DESPORTO",PT| DAZN 4
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=107492&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 4 HD" group-title="PT| DESPORTO",PT| DAZN 4 HD
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=122485&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 5" group-title="PT| DESPORTO",PT| DAZN 5
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=107491&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 5 HD" group-title="PT| DESPORTO",PT| DAZN 5 HD
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=122486&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SPT| TNT SPORTS 1 HD" group-title="SPORTS",SPT| TNT SPORTS 1 HD
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=1316788&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SPT| TNT SPORTS 1 HD \u25c9" group-title="SPORTS",SPT| TNT SPORTS 1 HD \u25c9
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=1316789&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SPT| TNT SPORTS 2 HD" group-title="SPORTS",SPT| TNT SPORTS 2 HD
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=1316790&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SPT| TNT SPORTS 3 HD" group-title="SPORTS",SPT| TNT SPORTS 3 HD
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=1316791&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SPT| TNT SPORTS 4 HD" group-title="SPORTS",SPT| TNT SPORTS 4 HD
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=1316792&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="##### UK NOW SPORTS #####" group-title="UK| WORLD SPORTS",##### UK NOW SPORTS #####
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=1032490&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| NOW HK NOW SPORTS 1" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 1
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=1032479&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| NOW HK NOW SPORTS 2" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 2
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=1032478&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| NOW HK NOW SPORTS 3" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 3
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=1032477&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| NOW HK NOW SPORTS 4" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 4
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=1032476&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| NOW HK NOW SPORTS 4K 616" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 4K 616
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=1032489&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| NOW HK NOW SPORTS 4K 617" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 4K 617
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=1032488&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| NOW HK NOW SPORTS 5" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 5
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=1032475&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| NOW HK NOW SPORTS 6" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 6
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=1032474&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| NOW HK NOW SPORTS 7" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 7
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=1032473&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| NOW HK PREMIER SPORTS 1" group-title="UK| WORLD SPORTS",UK| NOW HK PREMIER SPORTS 1
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=1032487&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| NOW HK PREMIER SPORTS 2" group-title="UK| WORLD SPORTS",UK| NOW HK PREMIER SPORTS 2
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=1032486&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| NOW HK PREMIER SPORTS 3" group-title="UK| WORLD SPORTS",UK| NOW HK PREMIER SPORTS 3
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=1032485&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| NOW HK PREMIER SPORTS 4" group-title="UK| WORLD SPORTS",UK| NOW HK PREMIER SPORTS 4
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=1032484&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| NOW HK PREMIER SPORTS 5" group-title="UK| WORLD SPORTS",UK| NOW HK PREMIER SPORTS 5
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=1032483&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="UK| NOW HK PREMIER SPORTS 6" group-title="UK| WORLD SPORTS",UK| NOW HK PREMIER SPORTS 6
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=1032482&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="CND| FILM 1 ACTION HD" group-title=" 𝓐₂🆉🅴🅴 ",CND| FILM 1 ACTION HD
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=1347288&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="CND| FILM 1 PREMIERE HD" group-title=" 𝓐₂🆉🅴🅴 ",CND| FILM 1 PREMIERE HD
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=1347285&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="CND| FILMBOX HD" group-title=" 𝓐₂🆉🅴🅴 ",CND| FILMBOX HD
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=1851247&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ES| FILM & ARTS FHD" group-title="ES| TIVIFY",ES| FILM & ARTS FHD
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=1796545&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ES| FILM & CO FHD" group-title="ES| TIVIFY",ES| FILM & CO FHD
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=1796485&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="CND| FRISSONS TV HD" group-title="CANADA FRENCH",CND| FRISSONS TV HD
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=776071&extension=ts
+
 #EXTINF:-1 tvg-logo="http://103.176.90.92/images/1530157.png" group-title="PL| POLAND VIP",PL-VIP| ELEVEN SPORTS 1 RAW
 http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=1530157&extension=ts
 #EXTINF:-1 tvg-logo="http://103.176.90.92/images/1530158.png" group-title="PL| POLAND VIP",PL-VIP| ELEVEN SPORTS 2 RAW
