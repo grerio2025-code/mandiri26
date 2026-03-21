@@ -130,6 +130,23 @@ http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880484&ext
 http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880232&extension=ts
 #EXTINF:-1 tvg-logo="http://103.176.90.92/images/880233.png" group-title="PL| FILMOWE",PL| FILMBOX ACTION
 http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880233&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name=" 𝓐₂🆉🅴🅴  FASHION TV HD" group-title=" 𝓐₂🆉🅴🅴   FASHION TV HD
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=105228&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name=" 𝓐₂🆉🅴🅴  FASHION TV FHD HEVC" group-title=" 𝓐₂🆉🅴🅴   FASHION TV FHD HEVC
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=105229&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="IT| RAI MOVIE 4K" group-title="IT| GENERALE",IT| RAI MOVIE 4K
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=692590&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="IT| RAI MOVIE HD" group-title="IT| GENERALE",IT| RAI MOVIE HD
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=692589&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="IT| RAI PREMIUM 4K" group-title="IT| GENERALE",IT| RAI PREMIUM 4K
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=692587&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="IT| RAI PREMIUM HD" group-title="IT| GENERALE",IT| RAI PREMIUM HD
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=692586&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="IT| RAI SCUOLA HD" group-title="IT| GENERALE",IT| RAI SCUOLA HD
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=692584&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IT| RAI STORIA HD" group-title="IT| GENERALE",IT| RAI STORIA HD
+http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=692582&extension=ts
 
 #EXTINF:-1 tvg-id="1129" tvg-name="BALKANIKA TV HD" tvg-logo="/noicon.png" group-title="MUZICKI KANALI" ,BALKANIKA TV HD
 http://vodafone4.com:8001/zuhadnet/T0JXiSaWy6/1129
