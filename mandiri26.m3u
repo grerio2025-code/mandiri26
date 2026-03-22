@@ -3,7 +3,7 @@
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1894445364_b744100_sleng.m3u8
 #EXTINF:0 group-title="Indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQITMOuw1_fxu9aL2jcWTyD_JOjdCeFbfrgUoBUXFy83XcDN64mjG4t7c5e&s=10",Transtv
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1676901579_b744100_sleng.m3u8
-#EXTINF:0 group-title="Indonesia" tvg-logo="http://www.dens.tv/images/channel-logo/6.jpg", Metro TV
+#EXTINF:0 group-title="Indonesia" tvg-logo="http://www.dens.tv/images/channel-logo/6.jpg",Metro TV
 http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
 #EXTINF:0 group-title="Indonesia",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
@@ -13,23 +13,23 @@ https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 #EXTINF:0 group-title="Indonesia",INews
 https://inews-cutv.rctiplus.id/inews-sdi.m3u8
-#EXTINF:0 group-title="Indonesia" tvg-logo="http://www.dens.tv/images/channel-logo/107.jpg", Dens Play
+#EXTINF:0 group-title="Indonesia" tvg-logo="http://www.dens.tv/images/channel-logo/107.jpg",Dens Play
 http://op-group1-swiftservehd-1.dens.tv/h/h246/02.m3u8
-#EXTINF:0 group-title="Indonesia" tvg-logo="http://www.dens.tv/images/channel-logo/42.jpg", Dens LifeStyle
+#EXTINF:0 group-title="Indonesia" tvg-logo="http://www.dens.tv/images/channel-logo/42.jpg",Dens LifeStyle
 http://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
-#EXTINF:0 group-title="Indonesia" tvg-logo="http://www.dens.tv/images/channel-logo/37.jpg", TV5 Monde Style
+#EXTINF:0 group-title="Indonesia" tvg-logo="http://www.dens.tv/images/channel-logo/37.jpg",TV5 Monde Style
 http://op-group1-swiftservehd-1.dens.tv/h/h121/01.m3u8
 #EXTINF:0 group-title="Indonesia" tvg-logo="http://www.dens.tv/images/channel-logo/7.jpg",TV One
 http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
-#EXTINF:0 group-title="Indonesia" tvg-logo="http://www.dens.tv/images/channel-logo/14.jpg", Kompas TV
+#EXTINF:0 group-title="Indonesia" tvg-logo="http://www.dens.tv/images/channel-logo/14.jpg",Kompas TV
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
-#EXTINF:0 group-title="Indonesia" tvg-logo="http://www.dens.tv/images/channel-logo/13.jpg", NET.
+#EXTINF:0 group-title="Indonesia" tvg-logo="http://www.dens.tv/images/channel-logo/13.jpg",NET.
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-id="JawaPosTV.id@SD",Jawa Pos TV
 http://122.248.43.242:1935/JAWAPOSTVSBY/_definst_/myStream/playlist.m3u8
-#EXTINF:0 group-title="Indonesia" tvg-logo="http://www.dens.tv/images/channel-logo/22.jpg", RTV
+#EXTINF:0 group-title="Indonesia" tvg-logo="http://www.dens.tv/images/channel-logo/22.jpg",RTV
 http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
-#EXTINF:-1 group-title="Indonesia" tvg-logo="http://www.dens.tv/images/channel-logo/122.jpg" group-title="Indonesia", MAGNA Tv
+#EXTINF:-1 group-title="Indonesia" tvg-logo="http://www.dens.tv/images/channel-logo/122.jpg" group-title="Indonesia",MAGNA Tv
 http://op-group1-swiftservehd-1.dens.tv/h/h24/01.m3u8
 #EXTINF:0 group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TVRI_JAKARTA_2023.svg/1200px-TVRI_JAKARTA_2023.svg.png",TVRI Jakarta
 https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI-avc1_1500000=10003-mp4a_96000=20001.m3u8
@@ -37,17 +37,17 @@ https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI-avc1_1500000=10003-mp4a_960
 https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh-avc1_1500000=10006-mp4a_96000=20001.m3u8
 #EXTINF:-1 tvg-id="CNNInternationalAsiaPacific.us" tvg-name="CNN INDONESIA  =>1" tvg-logo="https://i.ibb.co/zx3WHbV/ASC.png" group-title="Indonesia",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w412411721_b384000_sleng.m3u8
-#EXTINF:0 group-title="Indonesia", CNBC Indonesia
+#EXTINF:0 group-title="Indonesia",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
-#EXTINF:0 group-title="Indonesia", Berita Satu
+#EXTINF:0 group-title="Indonesia", erita Satu
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h128/index2.m3u8
-#EXTINF:0 group-title="Indonesia", SCTV
+#EXTINF:0 group-title="Indonesia",SCTV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-#EXTINF:0 group-title="Indonesia", INDOSIAR
+#EXTINF:0 group-title="Indonesia",INDOSIAR
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
@@ -132,7 +132,7 @@ http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880232&ext
 http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880233&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name=" 𝓐₂🆉🅴🅴  FASHION TV HD",FASHION TV HD
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=105228&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name=" 𝓐₂🆉🅴🅴  FASHION TV FHD HEVC","FASHION TV FHD HEVC
+#EXTINF:-1 tvg-id="" tvg-name=" 𝓐₂🆉🅴🅴  FASHION TV FHD HEVC",FASHION TV FHD HEVC
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=105229&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| RAI MOVIE 4K" group-title="IT| GENERALE",IT| RAI MOVIE 4K
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=692590&extension=ts
@@ -144,12 +144,8 @@ http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=692587&extension=ts
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=692586&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="IT| RAI SCUOLA HD" group-title="IT| GENERALE",IT| RAI SCUOLA HD
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=692584&extension=ts
-
 #EXTINF:-1 tvg-id="" tvg-name="IT| RAI STORIA HD" group-title="IT| GENERALE",IT| RAI STORIA HD
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=692582&extension=ts
-
-#EXTINF:-1 tvg-id="1129" tvg-name="BALKANIKA TV HD" tvg-logo="/noicon.png" group-title="MUZICKI KANALI" ,BALKANIKA TV HD
-http://vodafone4.com:8001/zuhadnet/T0JXiSaWy6/1129
 #EXTINF:-1 tvg-id="BRIDGE.ru@SD",BRIDGE
 http://31.148.48.15/Bridge_TV/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGEDeluxe.ru@SD",BRIDGE Deluxe
