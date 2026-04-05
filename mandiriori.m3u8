@@ -8,14 +8,32 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1894445364_b744100_sl
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1676901579_b744100_sleng.m3u8
 #EXTINF:0 group-title="Indonesia" tvg-logo="http://www.dens.tv/images/channel-logo/6.jpg",Metro TV
 http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
-#EXTINF:0 group-title="Indonesia",RCTI
-https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
-#EXTINF:0 group-title="Indonesia",MNCTV
-https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
-#EXTINF:0 group-title="Indonesia",GTV
-https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
-#EXTINF:0 group-title="Indonesia",INews
-https://inews-cutv.rctiplus.id/inews-sdi.m3u8
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="news" tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo_hitam.png?w=650",CNBC Indonesia
+http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
+#EXTINF:-1 group-title="news",BACKUP CNBC Indonesia
+http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:-1 group-title="news;lokal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1200px-CNN_International_logo.svg.png",CNN INDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
+#EXTINF:-1 tvg-id="GTV.id@SD" tvg-logo="https://i.imgur.com/jjuKnYs.png" group-title="General",GTV (720p)
+https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
+#EXTINF:-1 tvg-id="Indosiar.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/960px-Indosiar_2015.svg.png" group-title="General" user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" referrer="https://www.dens.tv/",Indosiar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
+#EXTINF:-1 tvg-id="iNews.id@SD" tvg-logo="https://i.imgur.com/M2R3lfg.png" group-title="News",iNews (720p)
+https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
+#EXTINF:-1 tvg-id="MNCTV.id@SD" tvg-logo="https://i.imgur.com/SK8pjQy.png" group-title="General",MNCTV (720p)
+https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
+#EXTINF:-1 tvg-id="RCTI.id@HD" tvg-logo="https://i.imgur.com/iLFx8ia.png" group-title="General",RCTI HD (720p)
+https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
+#EXTINF:-1 tvg-id="RCTI.id@SD" tvg-logo="https://i.imgur.com/iLFx8ia.png" group-title="General",RCTI
+http://103.66.62.83:8000/play/a00v/index.m3u8
+#EXTINF:-1 tvg-id="RRINet.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RRI_NET_2023.svg/960px-RRI_NET_2023.svg.png" group-title="",RRI Net (1080p)
+https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8
+#EXTINF:-1 tvg-id="SCTV.id@SD" tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="General" user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" referrer="https://www.dens.tv/",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 #EXTINF:0 group-title="Indonesia" tvg-logo="http://www.dens.tv/images/channel-logo/107.jpg",Dens Play
 http://op-group1-swiftservehd-1.dens.tv/h/h246/02.m3u8
 #EXTINF:0 group-title="Indonesia" tvg-logo="http://www.dens.tv/images/channel-logo/42.jpg",Dens LifeStyle
