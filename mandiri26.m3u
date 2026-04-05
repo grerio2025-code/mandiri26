@@ -13,6 +13,13 @@ https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 #EXTINF:0 group-title="Indonesia",INews
 https://inews-cutv.rctiplus.id/inews-sdi.m3u8
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="news" tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo_hitam.png?w=650",CNBC Indonesia
+http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
+#EXTINF:-1 group-title="news",BACKUP CNBC Indonesia
+http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:-1 group-title="news;lokal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/1200px-CNN_International_logo.svg.png",CNN INDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
+
 #EXTINF:0 group-title="Indonesia" tvg-logo="http://www.dens.tv/images/channel-logo/107.jpg",Dens Play
 http://op-group1-swiftservehd-1.dens.tv/h/h246/02.m3u8
 #EXTINF:0 group-title="Indonesia" tvg-logo="http://www.dens.tv/images/channel-logo/42.jpg",Dens LifeStyle
