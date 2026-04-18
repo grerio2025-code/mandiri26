@@ -369,6 +369,16 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:01:6B:5A&stream=798798&e
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:01:6B:5A&stream=798799&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png" group-title="┃AR┃ BEIN SPORTS HEVC",┃AR┃ BEIN SPORTS 6 HEVC
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:01:6B:5A&stream=798800&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/ARENA-SPORT-PREMIUM-1.png" group-title="┃RS┃ ARENA SPORT",┃RS┃ ARENA SPORT PREMIUM 4 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:5C:28:90&stream=559019&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/ARENA-SPORT-PREMIUM-1.png" group-title="┃RS┃ ARENA SPORT",┃RS┃ ARENA SPORT PREMIUM 1 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:5C:28:90&stream=559016&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/ARENA-SPORT-PREMIUM-1.png" group-title="┃RS┃ ARENA SPORT",┃RS┃ ARENA SPORT PREMIUM 5 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:5C:28:90&stream=559020&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/ARENA-SPORT-PREMIUM-1.png" group-title="┃RS┃ ARENA SPORT",┃RS┃ ARENA SPORT PREMIUM 2 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:5C:28:90&stream=559017&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SRBIJA/arenasport3.png" group-title="┃RS┃ ARENA SPORT",┃RS┃ ARENA SPORT PREMIUM 3 HD
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:5C:28:90&stream=559018&extension=ts
 
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917260.png" group-title="WORLD LIVE SPORTS",RO| DIGI SPORT 1 HD
 http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:04:04:80&stream=1917260&extension=ts
