@@ -357,6 +357,18 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:01:6B:5A&stream=894979&e
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:01:6B:5A&stream=894980&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ TNT SPORTS 5 HD [UK]
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:01:6B:5A&stream=894981&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" group-title="┃AR┃ BEIN SPORTS HEVC",┃AR┃ BEIN SPORTS 1 HEVC
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:01:6B:5A&stream=798795&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 2.png" group-title="┃AR┃ BEIN SPORTS HEVC",┃AR┃ BEIN SPORTS 2 HEVC
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:01:6B:5A&stream=798796&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 3.png" group-title="┃AR┃ BEIN SPORTS HEVC",┃AR┃ BEIN SPORTS 3 HEVC
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:01:6B:5A&stream=798797&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 4.png" group-title="┃AR┃ BEIN SPORTS HEVC",┃AR┃ BEIN SPORTS 4 HEVC
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:01:6B:5A&stream=798798&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 5.png" group-title="┃AR┃ BEIN SPORTS HEVC",┃AR┃ BEIN SPORTS 5 HEVC
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:01:6B:5A&stream=798799&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 6.png" group-title="┃AR┃ BEIN SPORTS HEVC",┃AR┃ BEIN SPORTS 6 HEVC
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:01:6B:5A&stream=798800&extension=ts
 
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/1917260.png" group-title="WORLD LIVE SPORTS",RO| DIGI SPORT 1 HD
 http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:04:04:80&stream=1917260&extension=ts
