@@ -293,6 +293,48 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:5C:28:90&stream=936884&e
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:5C:28:90&stream=936885&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CINE+ Club.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CINE+ Club HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:5C:28:90&stream=936886&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL NEDERLAND HD TERUGKIJKEN/CANAL+ ACTION.png" group-title="┃NL┃ NEDERLAND HD | TERUGKIJKEN ⏺",┃NL┃ CANAL+ ACTION HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:03:A9:27&stream=701737&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NL NEDERLAND HD TERUGKIJKEN/CANAL+ ACTION 2.png" group-title="┃NL┃ NEDERLAND HD | TERUGKIJKEN ⏺",┃NL┃ CANAL+ ACTION 2 HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:03:A9:27&stream=863007&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/FILMPREMIEREHD.png" group-title="┃NL┃ NEDERLAND HD | TERUGKIJKEN ⏺",┃NL┃ FILM1 PREMIERE HD ⏺ʳᵉᶜ
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:03:A9:27&stream=1328&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/FILMACTIONHD.png" group-title="┃NL┃ NEDERLAND HD | TERUGKIJKEN ⏺",┃NL┃ FILM1 ACTION HD ⏺ʳᵉᶜ
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:03:A9:27&stream=1327&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/CANADA/CA FR/CINEMA/FRISSONS TV.png" group-title="┃CA FR┃ CINEMA",┃CA FR┃ FRISSONS TV
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:03:A9:27&stream=900706&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AFRICA/CANAL+ AFRICA/BEIN SPORTS 1.png" group-title="┃AFR┃ CANAL+ AFRICA",┃AF┃ BEIN SPORTS 1
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:03:A9:27&stream=958741&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AFRICA/CANAL+ AFRICA/BEIN SPORTS 2.png" group-title="┃AFR┃ CANAL+ AFRICA",┃AF┃ BEIN SPORTS 2
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:03:A9:27&stream=958742&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AFRICA/CANAL+ AFRICA/BEIN SPORTS 3.png" group-title="┃AFR┃ CANAL+ AFRICA",┃AF┃ BEIN SPORTS 3
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:03:A9:27&stream=958743&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AFRICA/CANAL+ AFRICA/CINE+ PREMIER.png" group-title="┃AFR┃ CANAL+ AFRICA",┃AF┃ CINE+ PREMIER HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:03:A9:27&stream=958756&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AFRICA/CANAL+ AFRICA/CINE+ FRISSON.png" group-title="┃AFR┃ CANAL+ AFRICA",┃AF┃ CINE+ FRISSON HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:03:A9:27&stream=958755&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AFRICA/CANAL+ AFRICA/CINE+ CLUB.png" group-title="┃AFR┃ CANAL+ AFRICA",┃AF┃ CINE+ CLUB HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:03:A9:27&stream=958752&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AFRICA/CANAL+ AFRICA/ACTION.png" group-title="┃AFR┃ CANAL+ AFRICA",┃AF┃ ACTION
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:03:A9:27&stream=958709&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/FILMACTIONHD.png" group-title="┃NL┃ NEDERLAND HD | TERUGKIJKEN ⏺",┃NL┃ FILM1 ACTION HD ⏺ʳᵉᶜ
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:03:A9:27&stream=1327&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/FILMFAMILYHD.png" group-title="┃NL┃ NEDERLAND HD | TERUGKIJKEN ⏺",┃NL┃ FILM1 FAMILY HD ⏺ʳᵉᶜ
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:03:A9:27&stream=1326&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/FILMDRAMAHD.png" group-title="┃NL┃ NEDERLAND HD | TERUGKIJKEN ⏺",┃NL┃ FILM1 DRAMA HD ⏺ʳᵉᶜ
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:03:A9:27&stream=1325&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/FILMBOXHD.png" group-title="┃NL┃ NEDERLAND HD | TERUGKIJKEN ⏺",┃NL┃ FILMBOX HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:03:A9:27&stream=712858&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE FILME/FILMBOX PREMIUM.png" group-title="┃RO┃ CANALE FILME",┃RO┃ FILMBOX PREMIUM
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:03:A9:27&stream=1444126&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Filmbox_extra_pl.png" group-title="┃PL┃ FILMOWE",┃PL┃ FILMBOX EXTRA
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:03:A9:27&stream=227436&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/FilmBoxPremium-logo.png" group-title="┃PL┃ FILMOWE",┃PL┃ FILMBOX PREMIUM HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:03:A9:27&stream=227435&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Filmbox-action.png" group-title="┃PL┃ FILMOWE",┃PL┃ FILMBOX ACTION
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:03:A9:27&stream=227434&extension=ts
+
+
 
 #EXTINF:0 group-title="EUROPA",FR: CINE+ FRISSON
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=507434&extension=ts&play_token=d1xCEMXNV0
