@@ -74,6 +74,10 @@ http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8
 https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
 #EXTINF:-1 group-title="Indonesia" tvg-id="NHKWorldJapan.jp@SD",NHK World-Japan 
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:SBS_Viceland_logo_2016.png" group-title="AU",AU| SBS Viceland
+http://line.iptvgoat.com:80/play/live.php?mac=A0:BB:3E:55:D7:FF&stream=156874&extension=ts&play_token=QpeoomcbMI
+#EXTINF:-1 tvg-logo="https://www.sbs.com.au/aboutus/wp-content/uploads/2023/04/345x194_tile_wm_black.jpg" group-title="AU",AU| SBS World Movies
+http://line.iptvgoat.com:80/play/live.php?mac=A0:BB:3E:55:D7:FF&stream=156873&extension=ts&play_token=nuT93yQnHA
 
 #EXTINF:-1 tvg-logo="http://103.176.90.92/images/880216.png" group-title="PL| MUZYCZNE",PL| ESKA TV
 http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=880216&extension=ts
