@@ -341,8 +341,6 @@ http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:03:A9:27&stream=227434&extens
 
 #EXTINF:0 group-title="EUROPA",FR: CINE+ FRISSON
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=507434&extension=ts&play_token=d1xCEMXNV0
-#EXTINF:0 group-title="EUROPA",Ziggo 2
-http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=812175&extension=ts&play_token=GLAYevYrnd
 #EXTINF:0 group-title="EUROPA",FR: Tele 5
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=1920570&extension=ts&play_token=Cq1FcAAurF
 #EXTINF:0 group-title="EUROPA",Cine Action
@@ -389,17 +387,17 @@ http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=1547335&
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:8A:10:DE&stream=1116481&extension=ts&play_token=TDiZjYTbOB
 
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ ZIGGO SPORT 1 HD [NL]
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:01:6B:5A&stream=894968&extension=ts
+http://defalttv25.cc/play/live.php?mac=00:1A:79:bf:d2:a7&stream=1282765&extension=ts&play_token=9SZBdVX5nY
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ ZIGGO SPORT 2 HD [NL]
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:01:6B:5A&stream=894969&extension=ts
+http://defalttv25.cc/play/live.php?mac=00:1A:79:bf:d2:a7&stream=1282763&extension=ts&play_token=fUQXCAbrmL
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ ZIGGO SPORT 3 HD [NL]
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:01:6B:5A&stream=894970&extension=ts
+http://defalttv25.cc/play/live.php?mac=00:1A:79:bf:d2:a7&stream=1282761&extension=ts&play_token=GseAAKYiKt
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ ZIGGO SPORT 4 HD [NL]
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:01:6B:5A&stream=894971&extension=ts
+http://defalttv25.cc/play/live.php?mac=00:1A:79:bf:d2:a7&stream=1282760&extension=ts&play_token=CGoifIu209
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ ZIGGO SPORT 5 HD [NL]
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:01:6B:5A&stream=894972&extension=ts
+http://defalttv25.cc/play/live.php?mac=00:1A:79:bf:d2:a7&stream=1282762&extension=ts&play_token=PbhKyPpraS
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ ZIGGO SPORT 6 HD [NL]
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:01:6B:5A&stream=894973&extension=ts
+http://defalttv25.cc/play/live.php?mac=00:1A:79:bf:d2:a7&stream=1282759&extension=ts&play_token=IahLOQ9Nk9
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ DAZN 1 HD [DE]
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:01:6B:5A&stream=894974&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ChampionsLeague.png" group-title="┃UCL┃ CHAMPIONS LEAGUE",┃UCL┃ DAZN 2 HD [DE]
@@ -467,33 +465,19 @@ http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=368058&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 1 HD" group-title="PT| DESPORTO",PT| SPORT TV 1 HD
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=107436&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 1 HEVC" group-title="PT| DESPORTO",PT| SPORT TV 1 HEVC
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=118447&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 1 SD" group-title="PT| DESPORTO",PT| SPORT TV 1 SD
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=148671&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 2 HD" group-title="PT| DESPORTO",PT| SPORT TV 2 HD
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=107435&extension=ts
+http://defalttv25.cc/play/live.php?mac=00:1A:79:bf:d2:a7&stream=118447&extension=ts&play_token=pe8ogRuBO6
 #EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 2 HEVC" group-title="PT| DESPORTO",PT| SPORT TV 2 HEVC
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=118446&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 2 SD" group-title="PT| DESPORTO",PT| SPORT TV 2 SD
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=148670&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 3 HD" group-title="PT| DESPORTO",PT| SPORT TV 3 HD
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=107434&extension=ts
+http://defalttv25.cc/play/live.php?mac=00:1A:79:bf:d2:a7&stream=118446&extension=ts&play_token=ByENuwWzq6
 #EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 3 HEVC" group-title="PT| DESPORTO",PT| SPORT TV 3 HEVC
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=118445&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 3 SD" group-title="PT| DESPORTO",PT| SPORT TV 3 SD
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=148669&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 4 HD" group-title="PT| DESPORTO",PT| SPORT TV 4 HD
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=107433&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 4 SD" group-title="PT| DESPORTO",PT| SPORT TV 4 SD
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=148668&extension=ts
+http://defalttv25.cc/play/live.php?mac=00:1A:79:bf:d2:a7&stream=118445&extension=ts&play_token=yToaKi3z4w
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 4 SD" group-title="PT| DESPORTO",PT| SPORT TV 4 
+http://defalttv25.cc/play/live.php?mac=00:1A:79:bf:d2:a7&stream=107433&extension=ts&play_token=fOeECO8Tpp
 #EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 5 HD" group-title="PT| DESPORTO",PT| SPORT TV 5 HD
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=148667&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 5 FHD" group-title="PT| DESPORTO",PT| SPORT TV 5 FHD
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=1809290&extension=ts
+http://defalttv25.cc/play/live.php?mac=00:1A:79:bf:d2:a7&stream=107495&extension=ts&play_token=sa430gm6by
 #EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 6 FHD" group-title="PT| DESPORTO",PT| SPORT TV 6 FHD
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=712739&extension=ts
+http://defalttv25.cc/play/live.php?mac=00:1A:79:bf:d2:a7&stream=107494&extension=ts&play_token=TvGHgIHq4G
 #EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 7 FHD" group-title="PT| DESPORTO",PT| SPORT TV 7 FHD
-http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=1613387&extension=ts
+http://defalttv25.cc/play/live.php?mac=00:1A:79:bf:d2:a7&stream=107493&extension=ts&play_token=A87lP3YIfV
 #EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 1 HD" group-title="PT| DESPORTO",PT| DAZN 1 HD
 http://5tv.pro:80/play/live.php?mac=00:1A:79:CF:50:E4&stream=107495&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 1 HEVC" group-title="PT| DESPORTO",PT| DAZN 1 HEVC
