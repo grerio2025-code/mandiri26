@@ -279,15 +279,10 @@ http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1491209&
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ODISEA.png" group-title="4K UHD 3840P",4K| ODISEA UHD
 http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:28:A9:3C&stream=1471383&extension=ts
 
-#EXTINF:0 group-title="EUROPA",Odisea
-http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/135.ts
 #EXTINF:0 group-title="EUROPA",DE: Dark
-http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/140.ts
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:03:A9:27&stream=895877&extension=ts
 #EXTINF:0 group-title="EUROPA",FR: Frisson
 http://line.iptvgoat.com:80/play/live.php?mac=A0:BB:3E:55:D7:FF&stream=507434&extension=ts&play_token=y7ykA1jYDd#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SWEDEN/VIASAT_FILM_ACTION.png" group-title="┃SE┃ SWEDEN",┃SE┃ VIASAT FILM ACTION FHD
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:5C:28:90&stream=3270&extension=ts
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/DARK.png" group-title="┃ES┃ CINE",┃ES┃ DARK FHD
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:5C:28:90&stream=895877&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/CINE+ Frisson.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CINE+ Frisson HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:5C:28:90&stream=936889&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/┃FR┃ MY CANAL+/ACTION.png" group-title="┃FR┃ MY CANAL+",┃FR┃ ACTION HD
