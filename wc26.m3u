@@ -114,4 +114,67 @@ http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:03:A9:27&stream=959362&extens
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SPORT TV/SPORT TV 7.png" group-title="┃PT┃ SPORT TV",┃PT┃ SPORT TV 7 HD
 http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:03:A9:27&stream=959363&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SPORT TV/SPORT TV 7.png" group-title="┃PT┃ SPORT TV",┃PT┃ SPORT TV 7
+#EXTINF:0 tvg-rec="0",Setanta Sports 1 HD KZ
+#EXTGRP:Спорт
+http://d571d0e8.tvclub.xyz/iptv/5N96QY8RQD8SLW/16026/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports 2 HD KZ
+#EXTGRP:Спорт
 http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:03:A9:27&stream=959364&extension=ts
+#EXTINF:0 tvg-rec="3",Setanta Sports 1 HD
+#EXTGRP:Спорт
+http://d571d0e8.tvclub.xyz/iptv/5N96QY8RQD8SLW/271/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Baltic 1 HD orig
+#EXTGRP:Спорт
+http://d571d0e8.tvclub.xyz/iptv/5N96QY8RQD8SLW/5069/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Sports 2 HD
+#EXTGRP:Спорт
+http://d571d0e8.tvclub.xyz/iptv/5N96QY8RQD8SLW/270/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Qazaqstan HD
+#EXTGRP:Спорт
+http://d571d0e8.tvclub.xyz/iptv/5N96QY8RQD8SLW/2399/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Sports FHD UA
+#EXTGRP:Спорт
+http://d571d0e8.tvclub.xyz/iptv/5N96QY8RQD8SLW/272/index.m3u8
+#EXTINF:0 tvg-rec="3",Setanta Sports+ FHD UA
+#EXTGRP:Спорт
+http://d571d0e8.tvclub.xyz/iptv/5N96QY8RQD8SLW/5068/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju+ Sport HD
+#EXTGRP:Спорт
+http://d571d0e8.tvclub.xyz/iptv/5N96QY8RQD8SLW/2007/index.m3u8
+#EXTINF:0 tvg-rec="3",Viju+ Sport HD orig
+#EXTGRP:Спорт
+http://d571d0e8.tvclub.xyz/iptv/5N96QY8RQD8SLW/5065/index.m3u8
+#EXTINF:0 tvg-rec="3",ViaPlay Football SE
+#EXTGRP:Спорт
+http://d571d0e8.tvclub.xyz/iptv/5N96QY8RQD8SLW/5078/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports 1 HD orig
+#EXTGRP:Спорт
+http://d571d0e8.tvclub.xyz/iptv/5N96QY8RQD8SLW/6541/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports 2 HD orig
+#EXTGRP:Спорт
+http://d571d0e8.tvclub.xyz/iptv/5N96QY8RQD8SLW/6542/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports 1
+#EXTGRP:Спорт
+http://d571d0e8.tvclub.xyz/iptv/5N96QY8RQD8SLW/6543/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports 2
+#EXTGRP:Спорт
+http://d571d0e8.tvclub.xyz/iptv/5N96QY8RQD8SLW/6544/index.m3u8
+#EXTINF:0 tvg-rec="3",Окко Футбол HD
+#EXTGRP:Спорт
+http://d571d0e8.tvclub.xyz/iptv/5N96QY8RQD8SLW/6554/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч! Футбол 1 HD 50
+#EXTGRP:Спорт
+http://d571d0e8.tvclub.xyz/iptv/5N96QY8RQD8SLW/10015/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч! Футбол 3 HD 50
+#EXTGRP:Спорт
+http://d571d0e8.tvclub.xyz/iptv/5N96QY8RQD8SLW/10016/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч ТВ HD 50
+#EXTGRP:Спорт
+http://d571d0e8.tvclub.xyz/iptv/5N96QY8RQD8SLW/10020/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч! Премьер HD 50
+#EXTGRP:Спорт
+http://d571d0e8.tvclub.xyz/iptv/5N96QY8RQD8SLW/10021/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч! Футбол 2 HD 50
+#EXTGRP:Спорт
+http://d571d0e8.tvclub.xyz/iptv/5N96QY8RQD8SLW/10027/index.m3u8
+
