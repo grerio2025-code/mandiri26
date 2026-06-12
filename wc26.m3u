@@ -1,15 +1,17 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:SBS_Viceland_logo_2016.png" group-title="WC2026",ID| TVRI
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:SBS_Viceland_logo_2016.png" group-title="AU",AU| SBS Viceland
 http://line.iptvgoat.com:80/play/live.php?mac=A0:BB:3E:55:D7:FF&stream=156874&extension=ts&play_token=QpeoomcbMI
 #EXTINF:-1 tvg-logo="http://103.176.90.92/images/1131946.png" group-title="WC2026",VRT 1
 http://4y-ott.online:80/play/live.php?mac=00:1A:79:A4:89:EC&stream=1389542&extension=ts&play_token=NQXiUdAk2U&sn2=
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1131945.png" group-title="WC2026",BG-BNT1
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1131945.png" group-title="WC2026",BG| BNT1
 http://4y-ott.online:80/play/live.php?mac=00:1A:79:A4:89:EC&stream=1389531&extension=ts&play_token=3vmMs5FhXA&sn2=
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1680844.png" group-title="WC2026",AFG-ATN
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1680844.png" group-title="WC2026",AFG| ATN
 http://4y-ott.online:80/play/live.php?mac=00:1A:79:A4:89:EC&stream=1389552&extension=ts&play_token=PCdYNfpAKX&sn2=
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1680845.png" group-title="WC2026",ARG-TYC
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1680845.png" group-title="WC2026",ARG| TYC
 http://4y-ott.online:80/play/live.php?mac=00:1A:79:A4:89:EC&stream=1389547&extension=ts&play_token=7Serk61OG9&sn2=
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1680846.png" group-title="WC2026",RAI 1
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1680846.png" group-title="WC2026",ITA| RAI 1
 http://4y-ott.online:80/play/live.php?mac=00:1A:79:A4:89:EC&stream=1389505&extension=ts&play_token=46F9tgQdeY&sn2=
 #EXTINF:-1 tvg-logo="http://103.176.90.92/images/1680846.png" group-title="WC2026",LUX-RTL
 http://4y-ott.online:80/play/live.php?mac=00:1A:79:A4:89:EC&stream=1389504&extension=ts&play_token=XR0YvPRKnS&sn2=
@@ -19,23 +21,23 @@ http://4y-ott.online:80/play/live.php?mac=00:1A:79:A4:89:EC&stream=1389503&exten
 http://4y-ott.online:80/play/live.php?mac=00:1A:79:A4:89:EC&stream=1389500&extension=ts&play_token=aR7jK2jJYg&sn2=
 #EXTINF:-1 tvg-logo="http://103.176.90.92/images/1680846.png" group-title="WC2026",NOR-NRK 2
 http://4y-ott.online:80/play/live.php?mac=00:1A:79:A4:89:EC&stream=1389499&extension=ts&play_token=BkK5DpudOk&sn2=
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1680846.png" group-title="WC2026",TVNZ
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1680846.png" group-title="WC2026",NZ| TVNZ
 http://4y-ott.online:80/play/live.php?mac=00:1A:79:A4:89:EC&stream=1389501&extension=ts&play_token=NUCbyIRAM1&sn2=
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1680846.png" group-title="WC2026",itv1
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1680846.png" group-title="WC2026",UK| itv1
 http://4y-ott.online:80/play/live.php?mac=00:1A:79:A4:89:EC&stream=1389483&extension=ts&play_token=2vmwP2HKIa&sn2=
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1680846.png" group-title="WC2026",Fox Sport 1
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1680846.png" group-title="WC2026",US| Fox Sport 1
 http://4y-ott.online:80/play/live.php?mac=00:1A:79:A4:89:EC&stream=1389481&extension=ts&play_token=EEd4nReA3o&sn2=
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1680846.png" group-title="WC2026",Fox Sport 2
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1680846.png" group-title="WC2026",US| Fox Sport 2
 http://4y-ott.online:80/play/live.php?mac=00:1A:79:A4:89:EC&stream=1389480&extension=ts&play_token=48P7u20kWK&sn2=
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1680846.png" group-title="WC2026",Arena Premium
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1680846.png" group-title="WC2026",SRB| Arena Premium
 http://4y-ott.online:80/play/live.php?mac=00:1A:79:A4:89:EC&stream=1389540&extension=ts&play_token=uC7MUb4mRY&sn2=
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1836208.png" group-title="WC2026",TSN 2
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1836208.png" group-title="WC2026",US| TSN 2
 http://http://4y-ott.online:80/play/live.php?mac=00:1A:79:A4:89:EC&stream=487806&extension=ts&play_token=su0z9VTkpB&sn2=
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1836207.png" group-title="WC2026",TSN 1
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1836207.png" group-title="WC2026",US| TSN 1
 http://4y-ott.online:80/play/live.php?mac=00:1A:79:A4:89:EC&stream=487807&extension=ts&play_token=fugPFg7q7e&sn2=
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1836206.png" group-title="WC2026",SBS viceland
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1836206.png" group-title="WC2026",AU| SBS viceland
 http://4y-ott.online:80/play/live.php?mac=00:1A:79:A4:89:EC&stream=1389546&extension=ts&play_token=FGe657ZJIQ&sn2=
-#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1836205.png" group-title="WC2026",Arena Sport 1
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1836205.png" group-title="WC2026",SRB| Arena Sport 1
 http://4y-ott.online:80/play/live.php?mac=00:1A:79:A4:89:EC&stream=1389537&extension=ts&play_token=Lq5RGN0xrM&sn2=
 #EXTINF:-1 tvg-logo="http://103.176.90.92/images/1530157.png" group-title="PL| POLAND VIP",PL-VIP| ELEVEN SPORTS 1 RAW
 http://mag.gofast-tv.me:80/play/live.php?mac=A0:BB:3E:15:54:79&stream=1530157&extension=ts
