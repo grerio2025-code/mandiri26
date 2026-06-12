@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:SBS_Viceland_logo_2016.png" group-title="AU",AU| SBS Viceland
 http://line.iptvgoat.com:80/play/live.php?mac=A0:BB:3E:55:D7:FF&stream=156874&extension=ts&play_token=QpeoomcbMI
-#EXTINF:-1 tvg-logo="https://www.sbs.com.au/aboutus/wp-content/uploads/2023/04/345x194_tile_wm_black.jpg" group-title="AU",AU| SBS World Movies
-http://line.iptvgoat.com:80/play/live.php?mac=A0:BB:3E:55:D7:FF&stream=156873&extension=ts&play_token=nuT93yQnHA
 #EXTINF:-1 tvg-logo="http://103.176.90.92/images/1131946.png" group-title="WC2026",VRT 1
 http://4y-ott.online:80/play/live.php?mac=00:1A:79:A4:89:EC&stream=1389542&extension=ts&play_token=NQXiUdAk2U&sn2=
 #EXTINF:-1 tvg-logo="http://103.176.90.92/images/1131945.png" group-title="WC2026",BG-BNT1
