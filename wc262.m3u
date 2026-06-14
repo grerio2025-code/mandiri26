@@ -124,6 +124,16 @@ http://zxonetv01.xyz:8080/play/live.php?mac=00:1A:79:CE:1E:1E&stream=920914&exte
 http://zxonetv01.xyz:8080/play/live.php?mac=00:1A:79:CE:1E:1E&stream=920922&extension=ts&play_token=Mbb2hcLp9k
 #EXTINF:-1 group-title="WC2026",MTV4
 http://zxonetv01.xyz:8080/play/live.php?mac=00:1A:79:CE:1E:1E&stream=920920&extension=ts&play_token=PqM6ry0ztr
+#EXTINF:-1 group-title="WC2026",DAZN1
+http://zxonetv01.xyz:8080/play/live.php?mac=00:1A:79:CE:1E:1E&stream=919133&extension=ts&play_token=LkHwtdodrP
+#EXTINF:-1 group-title="WC2026",DAZN2
+http://zxonetv01.xyz:8080/play/live.php?mac=00:1A:79:CE:1E:1E&stream=919131&extension=ts&play_token=NAMPTHAjHF
+#EXTINF:-1 group-title="WC2026",La UNE
+http://zxonetv01.xyz:8080/play/live.php?mac=00:1A:79:CE:1E:1E&stream=919129&extension=ts&play_token=PNuAuJWOgH
+#EXTINF:-1 group-title="WC2026",Canvas
+http://zxonetv01.xyz:8080/play/live.php?mac=00:1A:79:CE:1E:1E&stream=919127&extension=ts&play_token=DgMuIDzozH
+#EXTINF:-1 group-title="WC2026",Teledeporte
+http://zxonetv01.xyz:8080/play/live.php?mac=00:1A:79:CE:1E:1E&stream=919105&extension=ts&play_token=zSFb4zP7i5
 
 #EXTINF:-1 group-title="WC2026",World Cup
 http://vpn.onair8k.xyz/live/b035e4288b/1739ee84b351/2095857.m3u8
