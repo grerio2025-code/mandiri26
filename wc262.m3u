@@ -102,6 +102,29 @@ http://gmpxmvrx.qvpng.com/live/0303394731/7092786427/1177964.m3u8
 #EXTINF:-1 group-title="WC2026",itv 2
 http://gmpxmvrx.qvpng.com/live/0303394731/7092786427/1177963.m3u8
 
+#EXTINF:-1 group-title="WC2026",SuperSp1
+http://zxonetv01.xyz:8080/play/live.php?mac=00:1A:79:CE:1E:1E&stream=920868&extension=ts&play_token=S6O8OOJjM5
+#EXTINF:-1 group-title="WC2026",SuperSp1
+http://zxonetv01.xyz:8080/play/live.php?mac=00:1A:79:CE:1E:1E&stream=920866&extension=ts&play_token=6oowS9Z8gG
+#EXTINF:-1 group-title="WC2026",RTK1
+http://zxonetv01.xyz:8080/play/live.php?mac=00:1A:79:CE:1E:1E&stream=920862&extension=ts&play_token=OyforiEkdx
+#EXTINF:-1 group-title="WC2026",RTK2
+http://zxonetv01.xyz:8080/play/live.php?mac=00:1A:79:CE:1E:1E&stream=920860&extension=ts&play_token=xXHc2qvitF
+#EXTINF:-1 group-title="WC2026",RTK3
+http://zxonetv01.xyz:8080/play/live.php?mac=00:1A:79:CE:1E:1E&stream=920858&extension=ts&play_token=zYvBtQwd7N
+#EXTINF:-1 group-title="WC2026",RTVSlo 1
+http://zxonetv01.xyz:8080/play/live.php?mac=00:1A:79:CE:1E:1E&stream=920856&extension=ts&play_token=A6TmyKD8le
+#EXTINF:-1 group-title="WC2026",RTVSlo 2
+http://zxonetv01.xyz:8080/play/live.php?mac=00:1A:79:CE:1E:1E&stream=920854&extension=ts&play_token=yxRwMHbjgn
+#EXTINF:-1 group-title="WC2026",YLE 1
+http://zxonetv01.xyz:8080/play/live.php?mac=00:1A:79:CE:1E:1E&stream=920916&extension=ts&play_token=qj5Zhe1Fwo
+#EXTINF:-1 group-title="WC2026",YLE 2
+http://zxonetv01.xyz:8080/play/live.php?mac=00:1A:79:CE:1E:1E&stream=920914&extension=ts&play_token=cBfYbXbt85
+#EXTINF:-1 group-title="WC2026",SVT 2
+http://zxonetv01.xyz:8080/play/live.php?mac=00:1A:79:CE:1E:1E&stream=920922&extension=ts&play_token=Mbb2hcLp9k
+#EXTINF:-1 group-title="WC2026",MTV4
+http://zxonetv01.xyz:8080/play/live.php?mac=00:1A:79:CE:1E:1E&stream=920920&extension=ts&play_token=PqM6ry0ztr
+
 #EXTINF:-1 group-title="WC2026",World Cup
 http://vpn.onair8k.xyz/live/b035e4288b/1739ee84b351/2095857.m3u8
 #EXTINF:-1 group-title="WC2026",Coupe du Monde de la FIFA
