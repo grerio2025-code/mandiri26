@@ -1,6 +1,74 @@
 #EXTM3U
 #EXTINF:-1,hope
 http://smarterspro.vip:80/play/movie.php?mac=00:1A:79:BF:31:53&stream=1414432.mp4&play_token=Ox2k8wXbW1&type=movie&sn2=
+#EXTINF:-1,DF1
+http://osna01.xyz:8080/play/live.php?mac=00:1A:79:0E:39:0A&stream=814925&extension=ts&play_token=IsXjxcevIG
+#EXTINF:-1,OCS
+http://tv.expressiptv.xyz:80/play/live.php?mac=00:1A:79:B6:33:98&stream=507436&extension=ts&play_token=dKFqizfxuV
+#EXTINF:-1,ACTION
+http://tv.expressiptv.xyz:80/play/live.php?mac=00:1A:79:B6:33:98&stream=507424&extension=ts&play_token=otRmLAbsv3
+#EXTINF:-1,FRISSON
+http://tv.expressiptv.xyz:80/play/live.php?mac=00:1A:79:B6:33:98&stream=507434&extension=ts&play_token=1SSTrRh3lZ
+#EXTINF:-1,FILM ACTION
+http://tv.expressiptv.xyz:80/play/live.php?mac=00:1A:79:B6:33:98&stream=1282835&extension=ts&play_token=4xIxFad55K
+#EXTINF:-1,NL FILMBOX
+http://tv.expressiptv.xyz:80/play/live.php?mac=00:1A:79:B6:33:98&stream=1282835&extension=ts&play_token=4xIxFad55K
+#EXTINF:-1,DARK
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:BC:02:D1&stream=895878&extension=ts&play_token=NF7eDSOU7K
+#EXTINF:-1,FILMBOX
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:BC:02:D1&stream=1728837&extension=ts&play_token=0Wn0M7OwmA
+#EXTINF:-1,FILMBOX FHD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:BC:02:D1&stream=1728836&extension=ts&play_token=jO1BNRHYm3
+#EXTINF:-1,SBS World Movies Perth
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:BC:02:D1&stream=944769&extension=ts&play_token=kvrmQGwFxI
+#EXTINF:-1,SBS World Movies AU
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:BC:02:D1&stream=944768&extension=ts&play_token=vrXu9zsiEf
+#EXTINF:-1,SBS Viceland
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:BC:02:D1&stream=944765&extension=ts&play_token=j0HLhkj852
+#EXTINF:-1,Cine M+
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:BC:02:D1&stream=895850&extension=ts&play_token=Hy0a3uJ4oh
+#EXTINF:-1,Cine M+ Acction
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:BC:02:D1&stream=895837&extension=ts&play_token=EXoKE6esix
+#EXTINF:-1,Arte
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:BC:02:D1&stream=936803&extension=ts&play_token=TopzQBd93P
+#EXTINF:-1,SKy Cinema Uno
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:BC:02:D1&stream=1167166&extension=ts&play_token=05S9rl0osW
+#EXTINF:-1,SKy Cinema Due
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:BC:02:D1&stream=177637&extension=ts&play_token=QsmEcnvFVQ
+#EXTINF:-1,NL Film Action 
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:BC:02:D1&stream=237482&extension=ts&play_token=wEsaAKwRex
+#EXTINF:-1,Polsat Film
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:BC:02:D1&stream=1728849&extension=ts&play_token=lG2v3rN6Oz
+#EXTINF:-1,Filmbox Action
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:BC:02:D1&stream=1728836&extension=ts&play_token=IO0L4egYO2
+#EXTINF:-1,Filmbox Extra
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:BC:02:D1&stream=1728832&extension=ts&play_token=DrOP1CVFAm
+#EXTINF:-1,Canal+ 360
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:BC:02:D1&stream=1728816&extension=ts&play_token=WumRPaqYEE
+#EXTINF:-1,Canal+ Film
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:BC:02:D1&stream=1728814&extension=ts&play_token=wPoTfGp6uy
+#EXTINF:-1,Canal+ Premium
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:BC:02:D1&stream=1728810&extension=ts&play_token=n30QxCWHk9
+#EXTINF:-1,Sky Cinema Action
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:BC:02:D1&stream=1169190&extension=ts&play_token=dYkY81Ifuq
+#EXTINF:-1,Cine Western
+http://drctv.xyz:80/play/live.php?mac=00:1A:79:19:42:83&stream=1908963&extension=ts&play_token=2fbN0iB8oj
+#EXTINF:-1,Frisson FHD
+http://drctv.xyz:80/play/live.php?mac=00:1A:79:19:42:83&stream=506606&extension=ts&play_token=dnSYFr9hBs
+#EXTINF:-1,Cine Club
+http://vpn.line-activation.xyz:80/play/live.php?mac=00:1A:79:1E:04:38&stream=1972585&extension=ts&play_token=k44GKnn6sm
+#EXTINF:-1,Action Max
+http://vpn.line-activation.xyz:80/play/live.php?mac=00:1A:79:1E:04:38&stream=1972582&extension=ts&play_token=LoasMywHkl
+#EXTINF:-1,Orange Premium
+http://vpn.line-activation.xyz:80/play/live.php?mac=00:1A:79:1E:04:38&stream=1972573&extension=ts&play_token=q97QL5S0Lu
+#EXTINF:-1,Teen Mixed 
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:BC:02:D1&stream=686434&extension=ts&play_token=VIB6dDtuY1
+#EXTINF:-1,Massage Room
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:BC:02:D1&stream=675215&extension=ts&play_token=HrIFhbNUoF
+#EXTINF:-1,Playboy
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:BC:02:D1&stream=675188&extension=ts&play_token=C9p0tWwKtn
+#EXTINF:-1,SMex
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:BC:02:D1&stream=675177&extension=ts&play_token=zIZdDJWHSr
 #EXTINF:-1,FR
 http://4kpro2.com:80/play/live.php?mac=00:1A:79:BD:4D:42&stream=47475&extension=ts&play_token=amWjO3GoKB
 #EXTINF:-1,CANAL+
