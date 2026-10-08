@@ -1,289 +1,160 @@
 #EXTM3U
-#EXTINF:-1,CA: TSN 1
-http://vipmdvmxqha.top:8080/davidcomprobox/10203040/5508
-#EXTINF:-1,CA: TSN 2
-http://vipmdvmxqha.top:8080/davidcomprobox/10203040/5509
-#EXTINF:-1,CA: TSN 3
-http://vipmdvmxqha.top:8080/davidcomprobox/10203040/5510
-#EXTINF:-1,CA: TSN 4
-http://vipmdvmxqha.top:8080/davidcomprobox/10203040/5511
-#EXTINF:-1,CA: TSN 5
-http://vipmdvmxqha.top:8080/davidcomprobox/10203040/5512
-#EXTINF:-1,AU: SBS VICELAND
-http://vipmdvmxqha.top:8080/davidcomprobox/10203040/25042
-#EXTINF:-1,AU: SBS WORLD MOVIES
-http://vipmdvmxqha.top:8080/davidcomprobox/10203040/25043
-#EXTINF:-1,FR: BEIN SPORTS 1
-http://vipmdvmxqha.top:8080/davidcomprobox/10203040/373
-#EXTINF:-1,FR: BEIN SPORTS 1 HD
-http://vipmdvmxqha.top:8080/davidcomprobox/10203040/128979
-#EXTINF:-1,FR: BEIN SPORTS 2
-http://vipmdvmxqha.top:8080/davidcomprobox/10203040/374
-#EXTINF:-1,FR: BEIN SPORTS 3
-http://vipmdvmxqha.top:8080/davidcomprobox/10203040/375
-#EXTINF:-1,FR: BEIN SPORT MAX 4
-http://vipmdvmxqha.top:8080/davidcomprobox/10203040/376
-#EXTINF:-1,FR: BEIN SPORT MAX 5
-http://vipmdvmxqha.top:8080/davidcomprobox/10203040/377
-#EXTINF:-1,FR: BEIN SPORT MAX 6
-http://vipmdvmxqha.top:8080/davidcomprobox/10203040/378
-#EXTINF:-1,FR: BEIN SPORT MAX 7
-http://vipmdvmxqha.top:8080/davidcomprobox/10203040/379
-#EXTINF:-1,FR: BEIN SPORT MAX 8
-http://vipmdvmxqha.top:8080/davidcomprobox/10203040/380
-#EXTINF:-1,FR: BEIN SPORT MAX 9
-http://vipmdvmxqha.top:8080/davidcomprobox/10203040/381
-#EXTINF:-1,FR: BEIN SPORT MAX 10
-http://vipmdvmxqha.top:8080/davidcomprobox/10203040/382
-#EXTINF:-1,PT: SPORT TV +
-http://vipmdvmxqha.top:8080/davidcomprobox/10203040/99483
-#EXTINF:-1,PT: SPORT TV 1
-http://vipmdvmxqha.top:8080/davidcomprobox/10203040/99484
-#EXTINF:-1,PT: SPORT TV 2
-http://vipmdvmxqha.top:8080/davidcomprobox/10203040/99485
-#EXTINF:-1,PT: SPORT TV 3
-http://vipmdvmxqha.top:8080/davidcomprobox/10203040/99486
-#EXTINF:-1,PT: SPORT TV 4
-http://vipmdvmxqha.top:8080/davidcomprobox/10203040/99487
-#EXTINF:-1,PT: SPORT TV 5
-http://vipmdvmxqha.top:8080/davidcomprobox/10203040/99488
-#EXTINF:-1,PT: SPORT TV 6
-http://vipmdvmxqha.top:8080/davidcomprobox/10203040/99489
-#EXTINF:-1,PT: RTP 1
-http://vipmdvmxqha.top:8080/davidcomprobox/10203040/99500
-#EXTINF:-1,PT: RTP 2
-http://vipmdvmxqha.top:8080/davidcomprobox/10203040/99501
-#EXTINF:-1,PT: RTP 3
-http://vipmdvmxqha.top:8080/davidcomprobox/10203040/99502
-#EXTINF:-1,UK: VIP BBC ONE
-http://vipmdvmxqha.top:8080/davidcomprobox/10203040/1859
-#EXTINF:-1,UK: VIP BBC TWO
-http://vipmdvmxqha.top:8080/davidcomprobox/10203040/1860
-#EXTINF:-1,UK: VIP BBC THREE
-http://vipmdvmxqha.top:8080/davidcomprobox/10203040/1861
-#EXTINF:-1,UK: ITV 1 HD
-http://vipmdvmxqha.top:8080/davidcomprobox/10203040/146962
-#EXTINF:-1,UK: ITV 3
-http://vipmdvmxqha.top:8080/davidcomprobox/10203040/146963
-#EXTINF:-1,USA: FOX SPORTS
-http://vipmdvmxqha.top:8080/davidcomprobox/10203040/155481
-#EXTINF:-1,USA: FOX SPORTS 2
-http://vipmdvmxqha.top:8080/davidcomprobox/10203040/155482
-#EXTINF:-1,IT: RAI 1 FHD
-http://vipmdvmxqha.top:8080/davidcomprobox/10203040/135848
-#EXTINF:-1,IT: RAI 2 FHD
-http://vipmdvmxqha.top:8080/davidcomprobox/10203040/135851
-#EXTINF:-1,IT: RAI 3 FHD
-http://vipmdvmxqha.top:8080/davidcomprobox/10203040/135854
+#EXTINF:-1,TVLux
+http://iptvrss.com:80/play/live.php?mac=00:1A:79:AD:E1:08&stream=721855&extension=ts&play_token=sZpqbVeX8T
+#EXTINF:-1,SW Pulse
+http://iptvrss.com:80/play/live.php?mac=00:1A:79:AD:E1:08&stream=259426&extension=ts&play_token=QH4E4dpdMB
+#EXTINF:-1,SW1
+http://iptvrss.com:80/play/live.php?mac=00:1A:79:AD:E1:08&stream=259428&extension=ts&play_token=CQ2wIWx8Rm
+#EXTINF:-1,Tele5
+http://iptvrss.com:80/play/live.php?mac=00:1A:79:AD:E1:08&stream=699814&extension=ts&play_token=Vh29iGFmqx
+#EXTINF:-1,NL Sixx
+http://iptvrss.com:80/play/live.php?mac=00:1A:79:AD:E1:08&stream=699813&extension=ts&play_token=Qt6tQxPPuG
+#EXTINF:-1,ftv
+http://iptvrss.com:80/play/live.php?mac=00:1A:79:AD:E1:08&stream=891389&extension=ts&play_token=OR0VqJcKgv
+#EXTINF:-1,xite
+http://iptvrss.com:80/play/live.php?mac=00:1A:79:AD:E1:08&stream=259507&extension=ts&play_token=NOymxObeJJ
+#EXTINF:-1,ziggo1
+http://103.176.90.180:80/play/live.php?mac=00:1A:79:C3:C2:CF&stream=891271&extension=ts&play_token=DLjNCTSFUQ&sn2=
+#EXTINF:-1,ziggo2
+http://103.176.90.180:80/play/live.php?mac=00:1A:79:C3:C2:CF&stream=891269&extension=ts&play_token=LaLwT0glQo&sn2=
+#EXTINF:-1,ziggo3
+http://103.176.90.180:80/play/live.php?mac=00:1A:79:C3:C2:CF&stream=891268&extension=ts&play_token=s6z266KP1y&sn2=
+#EXTINF:-1,ziggo4
+http://103.176.90.180:80/play/live.php?mac=00:1A:79:C3:C2:CF&stream=6.90.180:80/play/live.php?mac=00:1A:79:C3:C2:CF&extension=ts&play_token=NFFYevwa3T&sn2=
+#EXTINF:-1,ziggo5
+http://103.176.90.180:80/play/live.php?mac=00:1A:79:C3:C2:CF&stream=891266&extension=ts&play_token=2DvXay71NC&sn2=
+#EXTINF:-1,eleven1
+http://103.176.90.180:80/play/live.php?mac=00:1A:79:C3:C2:CF&stream=6.90.180:80/play/live.php?mac=00:1A:79:C3:C2:CF&extension=ts&play_token=dVsjzfASGw&sn2=
+#EXTINF:-1,eleven2
+http://103.176.90.180:80/play/live.php?mac=00:1A:79:C3:C2:CF&stream=814326&extension=ts&play_token=PQQofMLJFF&sn2=
+#EXTINF:-1,eleven3
+http://103.176.90.180:80/play/live.php?mac=00:1A:79:C3:C2:CF&stream=814325&extension=ts&play_token=xdNBDAHgya&sn2=
+#EXTINF:-1,eleven4
+http://103.176.90.180:80/play/live.php?mac=00:1A:79:C3:C2:CF&stream=814324&extension=ts&play_token=H1caxZcZCH&sn2=
+#EXTINF:-1,Polsat Prem1
+http://103.176.90.180:80/play/live.php?mac=00:1A:79:C3:C2:CF&stream=814323&extension=ts&play_token=d5pTD0Wb8A&sn2=
+#EXTINF:-1,Polsat Prem2
+http://103.176.90.180:80/play/live.php?mac=00:1A:79:C3:C2:CF&stream=814322&extension=ts&play_token=6wU8PVeTWu&sn2=
+#EXTINF:-1,Polsat Prem3
+http://103.176.90.180:80/play/live.php?mac=00:1A:79:C3:C2:CF&stream=814321&extension=ts&play_token=oDdk4vAY05&sn2=
+#EXTINF:-1,Sport tv1
+http://103.176.90.180:80/play/live.php?mac=00:1A:79:C3:C2:CF&stream=812987&extension=ts&play_token=gyWOKkimef&sn2=
+#EXTINF:-1,Sport tv2
+http://103.176.90.180:80/play/live.php?mac=00:1A:79:C3:C2:CF&stream=812988&extension=ts&play_token=5pnpNUlfUm&sn2=
+#EXTINF:-1,Sport tv3
+http://103.176.90.180:80/play/live.php?mac=00:1A:79:C3:C2:CF&stream=812989&extension=ts&play_token=v6vhqXcIR6&sn2=
+#EXTINF:-1,Sport tv4
+http://103.176.90.180:80/play/live.php?mac=00:1A:79:C3:C2:CF&stream=812990&extension=ts&play_token=bsV4BSSdrK&sn2=
+#EXTINF:-1,Sport tv5
+http://103.176.90.180:80/play/live.php?mac=00:1A:79:C3:C2:CF&stream=812991&extension=ts&play_token=TV5KQ9DTdh&sn2=
+#EXTINF:-1,DAZN1
+http://103.176.90.180:80/play/live.php?mac=00:1A:79:C3:C2:CF&stream=812992&extension=ts&play_token=Ws1vQou6Y0&sn2=
+#EXTINF:-1,DAZN2
+http://103.176.90.180:80/play/live.php?mac=00:1A:79:C3:C2:CF&stream=812993&extension=ts&play_token=uVTOZfwSVC&sn2=
+#EXTINF:-1,DAZN3
+http://103.176.90.180:80/play/live.php?mac=00:1A:79:C3:C2:CF&stream=812994&extension=ts&play_token=ZFYPut5cFr&sn2=
+#EXTINF:-1,Film Action
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:53:C7:30&stream=237482&extension=ts&play_token=SGt6bxHCOs
+#EXTINF:-1,DAZN Seria1
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:53:C7:30&stream=1158714&extension=ts&play_token=gFOZZ1Njpc
+#EXTINF:-1,DAZN Seria1
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:53:C7:30&stream=1158715&extension=ts&play_token=WDdIzk0wMH
+#EXTINF:-1,Sky Cineme Uno
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:53:C7:30&stream=1167166&extension=ts&play_token=eUz4gUkmLU
+#EXTINF:-1,SKY SPORT 1 FHD
+http://mag.marsweb.co:80/play/live.php?mac=00:1A:79:AA:9F:B2&stream=2024778&extension=ts&play_token=tquCE5mCL7
+#EXTINF:-1,SKY SPORT 2 FHD
+http://mag.marsweb.co:80/play/live.php?mac=00:1A:79:AA:9F:B2&stream=2024777&extension=ts&play_token=EvkhDUpEcf
+#EXTINF:-1,SKY SPORT 3 FHD
+http://mag.marsweb.co:80/play/live.php?mac=00:1A:79:AA:9F:B2&stream=2024776&extension=ts&play_token=zwue0LDh9B
+#EXTINF:-1,SKY SPORT 4 FHD
+http://mag.marsweb.co:80/play/live.php?mac=00:1A:79:AA:9F:B2&stream=2024775&extension=ts&play_token=KEJFu2WU01
+#EXTINF:-1,TNT1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:7A:F7:1C&stream=1290377&extension=ts&play_token=20gW34BIub&sn2=
+#EXTINF:-1,TNT2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:7A:F7:1C&stream=1290376&extension=ts&play_token=YgR4lucsOE&sn2=
+#EXTINF:-1,TNT3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:7A:F7:1C&stream=1290375&extension=ts&play_token=GfL73a3dYq&sn2=
+#EXTINF:-1,TNT4
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:7A:F7:1C&stream=1290374&extension=ts&play_token=O6WC9KT7NP&sn2=
+#EXTINF:-1,SPORTDIGITAL FUSSBALL ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:7E:BD:3B&stream=1174061&extension=ts&play_token=bAmoBAetAz&sn2=
+#EXTINF:-1,Bein1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:7E:BD:3B&stream=425570&extension=ts&play_token=d8BYNnAYWu&sn2=
+#EXTINF:-1,Bein2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:7E:BD:3B&stream=425571&extension=ts&play_token=4ZH7uERDkp&sn2=
+#EXTINF:-1,Bein3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:7E:BD:3B&stream=425572&extension=ts&play_token=6wtkodGb5e&sn2=
+#EXTINF:-1,Frisson
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:7E:BD:3B&stream=207160&extension=ts&play_token=3zAGG5lgFT&sn2=
+#EXTINF:-1,Club
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:7E:BD:3B&stream=207159&extension=ts&play_token=N5246fj2pT&sn2=
+#EXTINF:-1,Action
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:7E:BD:3B&stream=207169&extension=ts&play_token=0ENoAAQw8j&sn2=
+#EXTINF:-1,ZDF
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:7E:BD:3B&stream=480061&extension=ts&play_token=7mRgXYmF60&sn2=
+#EXTINF:-1,RTL Passion
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:7E:BD:3B&stream=479890&extension=ts&play_token=W1MISY603m&sn2=
+#EXTINF:-1,Filmbox
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:7E:BD:3B&stream=1992130&extension=ts&play_token=DrfaBtmzGO&sn2=
+#EXTINF:-1,Ziggo1
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:7E:BD:3B&stream=2011263&extension=ts&play_token=7aQkwR4puG&sn2=
+#EXTINF:-1,Ziggo2
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:7E:BD:3B&stream=2011262&extension=ts&play_token=OsguBElM7v&sn2=
+#EXTINF:-1,Ziggo3
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:7E:BD:3B&stream=2011261&extension=ts&play_token=0XvcntE7zt&sn2=
+#EXTINF:-1,Ziggo4
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:7E:BD:3B&stream=2011260&extension=ts&play_token=XJCL5Z5y20&sn2=
+#EXTINF:-1,Ziggo5
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:7E:BD:3B&stream=2011259&extension=ts&play_token=gR7p8p3B1Y&sn2=
 
-#EXTINF:-1,ES: DAZN MUNDIAL FHD
-http://vipmdvmxqha.top:8080/VIP0175170262473041/91702624730057/158460
-#EXTINF:-1,ES: DAZN MUNDIAL HD
-http://vipmdvmxqha.top:8080/VIP0175170262473041/91702624730057/158461
-#EXTINF:-1,ES: DAZN MUNDIAL SD
-http://vipmdvmxqha.top:8080/VIP0175170262473041/91702624730057/158462
-#EXTINF:-1,ES: MUNDIAL 2026 PPV 1
-http://vipmdvmxqha.top:8080/VIP0175170262473041/91702624730057/158463
-#EXTINF:-1,ES: MUNDIAL 2026 PPV 2
-http://vipmdvmxqha.top:8080/VIP0175170262473041/91702624730057/158464
-#EXTINF:-1,ES: MUNDIAL 2026 PPV 3
-http://vipmdvmxqha.top:8080/VIP0175170262473041/91702624730057/158465
-#EXTINF:-1,ES: MUNDIAL 2026 PPV 4
-http://vipmdvmxqha.top:8080/VIP0175170262473041/91702624730057/158466
-#EXTINF:-1,ES: MUNDIAL 2026 PPV 5
-http://vipmdvmxqha.top:8080/VIP0175170262473041/91702624730057/158467
-#EXTINF:-1,ES: MUNDIAL 2026 PPV 6
-http://vipmdvmxqha.top:8080/VIP0175170262473041/91702624730057/158468
-#EXTINF:-1,ES: MUNDIAL 2026 PPV 7
-http://vipmdvmxqha.top:8080/VIP0175170262473041/91702624730057/158469
-#EXTINF:-1,ES: MUNDIAL 2026 PPV 8
-http://vipmdvmxqha.top:8080/VIP0175170262473041/91702624730057/158470
-#EXTINF:-1,ES: DAZN MUNDIAL FHD
-http://vipmdvmxqha.top:8080/VIP0175170262473041/91702624730057/158471
-#EXTINF:-1,ES: DAZN MUNDIAL HD
-http://vipmdvmxqha.top:8080/VIP0175170262473041/91702624730057/158472
-#EXTINF:-1,ES: DAZN MUNDIAL SD
-http://vipmdvmxqha.top:8080/VIP0175170262473041/91702624730057/158473
-#EXTINF:-1,ES: DAZN MUNDIAL 2 FHD
-http://vipmdvmxqha.top:8080/VIP0175170262473041/91702624730057/158474
-#EXTINF:-1,ES: DAZN MUNDIAL 2 HD
-http://vipmdvmxqha.top:8080/VIP0175170262473041/91702624730057/158475
-#EXTINF:-1,ES: DAZN MUNDIAL 2 SD
-http://vipmdvmxqha.top:8080/VIP0175170262473041/91702624730057/158476
-#EXTINF:-1,ES: DAZN MUNDIAL 3 FHD
-http://vipmdvmxqha.top:8080/VIP0175170262473041/91702624730057/158477
-#EXTINF:-1,ES: DAZN MUNDIAL 3 HD
-http://vipmdvmxqha.top:8080/VIP0175170262473041/91702624730057/158478
-#EXTINF:-1,ES: DAZN MUNDIAL 3 SD
-http://vipmdvmxqha.top:8080/VIP0175170262473041/91702624730057/158479
-#EXTINF:-1,ES: DAZN MUNDIAL 4 FHD
-http://vipmdvmxqha.top:8080/VIP0175170262473041/91702624730057/158480
-#EXTINF:-1,ES: DAZN MUNDIAL 4 HD
-http://vipmdvmxqha.top:8080/VIP0175170262473041/91702624730057/158481
-#EXTINF:-1,ES: DAZN MUNDIAL 4 SD
-http://vipmdvmxqha.top:8080/VIP0175170262473041/91702624730057/158482
-#EXTINF:-1,ES: DAZN MUNDIAL FHD
-http://vipmdvmxqha.top:8080/VIP0175170262473041/91702624730057/158483
-#EXTINF:-1,ES: DAZN MUNDIAL HD
-http://vipmdvmxqha.top:8080/VIP0175170262473041/91702624730057/158484
-#EXTINF:-1,ES: DAZN MUNDIAL SD
-http://vipmdvmxqha.top:8080/VIP0175170262473041/91702624730057/158485
-#EXTINF:-1,ES: DAZN MUNDIAL 2 FHD
-http://vipmdvmxqha.top:8080/VIP0175170262473041/91702624730057/158486
-#EXTINF:-1,ES: DAZN MUNDIAL 2 HD
-http://vipmdvmxqha.top:8080/VIP0175170262473041/91702624730057/158487
-#EXTINF:-1,ES: DAZN MUNDIAL 2 SD
-http://vipmdvmxqha.top:8080/VIP0175170262473041/91702624730057/158488
-#EXTINF:-1,ES: DAZN MUNDIAL 3 FHD
-http://vipmdvmxqha.top:8080/VIP0175170262473041/91702624730057/158489
-#EXTINF:-1,ES: DAZN MUNDIAL 3 HD
-http://vipmdvmxqha.top:8080/VIP0175170262473041/91702624730057/158490
-#EXTINF:-1,ES: DAZN MUNDIAL 3 SD
-http://vipmdvmxqha.top:8080/VIP0175170262473041/91702624730057/158491
-#EXTINF:-1,ES: DAZN MUNDIAL 4 FHD
-http://vipmdvmxqha.top:8080/VIP0175170262473041/91702624730057/158492
-#EXTINF:-1,ES: DAZN MUNDIAL 4 HD
-http://vipmdvmxqha.top:8080/VIP0175170262473041/91702624730057/158493
-#EXTINF:-1,ES: DAZN MUNDIAL 4 SD
-http://vipmdvmxqha.top:8080/VIP0175170262473041/91702624730057/158494
-#EXTINF:-1 tvg-id="" tvg-name="====== WORLD CUP 2026 ======" tvg-logo="http://vodkom.com/worldcup/worldcup26.jpg" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",====== WORLD CUP 2026 ======
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392057.ts
-#EXTINF:-1 tvg-id="" tvg-name="====== MATCHES | RESULTS ======" tvg-logo="http://vodkom.com/worldcup/worldcup26.jpg" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",====== MATCHES | RESULTS ======
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392058.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 4K HDR" tvg-logo="http://vodkom.com/worldcup/beinsport4k.webp" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",BEIN SPORT 4K HDR
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392060.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN MAX 1 4k (SA)" tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_1_MAX.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| BEIN MAX 1 4k (SA)
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392143.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN MAX 1 4K (NX)" tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_1_MAX.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| BEIN MAX 1 4K (NX)
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392144.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN MAX 1 FHD (SS)" tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_1_MAX.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| BEIN MAX 1 FHD (SS)
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392146.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN MAX 1 FHD (NX)" tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_1_MAX.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| BEIN MAX 1 FHD (NX)
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392147.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN MAX 1 FHD (MSH)" tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_1_MAX.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| BEIN MAX 1 FHD (MSH)
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392148.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN MAX 1 HD (SA)" tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_1_MAX.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| BEIN MAX 1 HD (SA)
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392065.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN MAX 1 HD (SS)" tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_1_MAX.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| BEIN MAX 1 HD (SS)
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392152.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN MAX 1 HD (NX)" tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_1_MAX.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| BEIN MAX 1 HD (NX)
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392153.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN MAX 1 HD (MSH)" tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_1_MAX.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| BEIN MAX 1 HD (MSH)
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392154.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN MAX 1 SD (SA)" tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_1_MAX.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| BEIN MAX 1 SD (SA)
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392069.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN MAX 1 SD (MSH)" tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_1_MAX.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| BEIN MAX 1 SD (MSH)
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392158.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN MAX 1 SD (NX)" tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_1_MAX.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| BEIN MAX 1 SD (NX)
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392159.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN MAX 2 4k (SA)" tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_2_MAX.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| BEIN MAX 2 4k (SA)
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392062.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN MAX 2 4K (NX)" tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_2_MAX.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| BEIN MAX 2 4K (NX)
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392145.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN MAX 2 FHD (SS)" tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_2_MAX.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| BEIN MAX 2 FHD (SS)
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392149.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN MAX 2 FHD (NX)" tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_2_MAX.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| BEIN MAX 2 FHD (NX)
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392150.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN MAX 2 FHD (MSH)" tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_2_MAX.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| BEIN MAX 2 FHD (MSH)
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392151.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN MAX 2 HD (SS)" tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_2_MAX.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| BEIN MAX 2 HD (SS)
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392155.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN MAX 2 HD (NX)" tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_2_MAX.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| BEIN MAX 2 HD (NX)
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392156.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN MAX 2 HD (MSH)" tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_2_MAX.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| BEIN MAX 2 HD (MSH)
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392157.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN MAX 2 HD (SA)" tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_2_MAX.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| BEIN MAX 2 HD (SA)
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392066.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN MAX 2 SD (SA)" tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_2_MAX.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| BEIN MAX 2 SD (SA)
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392070.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN MAX 2 SD (MSH)" tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_2_MAX.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| BEIN MAX 2 SD (MSH)
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392160.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN MAX 2 SD (NX)" tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_2_MAX.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| BEIN MAX 2 SD (NX)
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392161.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN MAX 3 4k (SA)" tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_3_MAX.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| BEIN MAX 3 4k (SA)
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392063.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN MAX 4 4k (SA)" tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_4_MAX.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| BEIN MAX 4 4k (SA)
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392064.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN MAX 3 HD (SA)" tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_3_MAX.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| BEIN MAX 3 HD (SA)
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392067.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN MAX 4 HD (SA)" tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_4_MAX.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| BEIN MAX 4 HD (SA)
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392068.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN MAX 3 SD (SA)" tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_3_MAX.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| BEIN MAX 3 SD (SA)
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392071.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN MAX 4 SD (SA)" tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_4_MAX.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| BEIN MAX 4 SD (SA)
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392072.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN SPORTS 1 HD FR" tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_1_MAX_FRENCH.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| BEIN SPORTS 1 HD FR
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392073.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN SPORTS 2 HD FR" tvg-logo="http://vodkom.com/worldcup/BEIN_SPORTS_2_MAX_FRENCH.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| BEIN SPORTS 2 HD FR
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392074.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN SPORTS 3 HD FR" tvg-logo="http://vodkom.com/worldcup/CDM.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| BEIN SPORTS 3 HD FR
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392075.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN SPORTS MAX 1 FR" tvg-logo="http://vodkom.com/worldcup/CDM.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| BEIN SPORTS MAX 1 FR
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392102.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| BEIN SPORTS MAX 2 FR" tvg-logo="http://vodkom.com/worldcup/CDM.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| BEIN SPORTS MAX 2 FR
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392103.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| DAZN MUNDIAL FHD ES" tvg-logo="http://vodkom.com/worldcup/CDM.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| DAZN MUNDIAL FHD ES
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392076.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| DAZN MUNDIAL HD ES" tvg-logo="http://vodkom.com/worldcup/CDM.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| DAZN MUNDIAL HD ES
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392077.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| DAZN MUNDIAL 2 FHD ES" tvg-logo="http://vodkom.com/worldcup/CDM.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| DAZN MUNDIAL 2 FHD ES
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392078.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| DAZN MUNDIAL 2 HD ES" tvg-logo="http://vodkom.com/worldcup/CDM.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| DAZN MUNDIAL 2 HD ES
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392079.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| DAZN MUNDIAL 3 FHD ES" tvg-logo="http://vodkom.com/worldcup/CDM.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| DAZN MUNDIAL 3 FHD ES
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392080.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| DAZN MUNDIAL 3 HD ES" tvg-logo="http://vodkom.com/worldcup/CDM.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| DAZN MUNDIAL 3 HD ES
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392081.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| DAZN MUNDIAL 4 FHD ES" tvg-logo="http://vodkom.com/worldcup/CDM.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| DAZN MUNDIAL 4 FHD ES
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392082.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| DAZN MUNDIAL 4 HD ES" tvg-logo="http://vodkom.com/worldcup/CDM.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| DAZN MUNDIAL 4 HD ES
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392083.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| ZDF HD DE" tvg-logo="http://vodkom.com/worldcup/CDM.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| ZDF HD DE
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392084.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| ARD-ALPHA HD DE" tvg-logo="http://vodkom.com/worldcup/CDM.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| ARD-ALPHA HD DE
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392085.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| SERVUS TV HD AT" tvg-logo="http://vodkom.com/worldcup/CDM.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| SERVUS TV HD AT
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392086.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| ITV 1 HD UK" tvg-logo="http://vodkom.com/worldcup/CDM.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| ITV 1 HD UK
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392087.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| SPORT TV HD PT" tvg-logo="http://vodkom.com/worldcup/CDM.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| SPORT TV HD PT
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392088.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| SPORT TV 1 HD PT" tvg-logo="http://vodkom.com/worldcup/CDM.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| SPORT TV 1 HD PT
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392089.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| SPORT TV 2 HD PT" tvg-logo="http://vodkom.com/worldcup/CDM.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| SPORT TV 2 HD PT
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392090.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| SPORT TV 3 HD PT" tvg-logo="http://vodkom.com/worldcup/CDM.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| SPORT TV 3 HD PT
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392091.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| SPORT TV 4 HD PT" tvg-logo="http://vodkom.com/worldcup/CDM.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| SPORT TV 4 HD PT
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392092.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| RAI1 HD IT" tvg-logo="http://vodkom.com/worldcup/CDM.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| RAI1 HD IT
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392093.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| RAI2 HD IT" tvg-logo="http://vodkom.com/worldcup/CDM.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| RAI2 HD IT
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392094.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| TABII SPORTS HD TR" tvg-logo="http://vodkom.com/worldcup/CDM.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| TABII SPORTS HD TR
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392095.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| TRT 1 HD TR" tvg-logo="http://vodkom.com/worldcup/CDM.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| TRT 1 HD TR
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392096.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| KLAN TV HD ALB" tvg-logo="http://vodkom.com/worldcup/CDM.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| KLAN TV HD ALB
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392097.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| RTK 1 HD ALB" tvg-logo="http://vodkom.com/worldcup/CDM.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| RTK 1 HD ALB
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392098.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| TVP 1 HD PL" tvg-logo="http://vodkom.com/worldcup/CDM.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| TVP 1 HD PL
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392099.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| TVP 2 HD PL" tvg-logo="http://vodkom.com/worldcup/CDM.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| TVP 2 HD PL
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392100.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| TVP SPORT HD PL" tvg-logo="http://vodkom.com/worldcup/CDM.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| TVP SPORT HD PL
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392101.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| FOX SPORTS 1 HD USA" tvg-logo="http://vodkom.com/worldcup/CDM.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| FOX SPORTS 1 HD USA
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392104.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| FOX SPORTS 2 HD USA" tvg-logo="http://vodkom.com/worldcup/CDM.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| FOX SPORTS 2 HD USA
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392105.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| AL AOULA INTER HD TNT" tvg-logo="http://vodkom.com/worldcup/CDM.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| AL AOULA INTER HD TNT
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392111.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| AL AOULA INTER FHD" tvg-logo="http://vodkom.com/worldcup/CDM.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| AL AOULA INTER FHD
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392112.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| ARRYADIA FHD" tvg-logo="http://vodkom.com/worldcup/CDM.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| ARRYADIA FHD
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392113.ts
-#EXTINF:-1 tvg-id="" tvg-name="|WC| ARRYADIA HD" tvg-logo="http://vodkom.com/worldcup/CDM.png" tvg-country="Unknown" group-title="WORLD CUP 2026" tvg-flag="",|WC| ARRYADIA HD
-http://ottsansat.org:88/live/VYidIKEC0pdOJJE/SfAOILOrATOjCBj/2392114.ts
+http://60036-dutch.dn-4kott.com:80/play/live.php?mac=00:1A:79:C0:6E:BA&stream=293497&extension=ts&play_token=i8cgzMS4rn&sn2=
+http://60036-dutch.dn-4kott.com:80/play/live.php?mac=00:1A:79:C0:6E:BA&stream=293498&extension=ts&play_token=F4I1AoKFbh&sn2=
+http://60036-dutch.dn-4kott.com:80/play/live.php?mac=00:1A:79:C0:6E:BA&stream=dutch.dn-4kott.com:80/play/live.php?mac=00:1A:79:C0:6E:BA&extension=ts&play_token=HQ40cg6K1T&sn2=
+http://60036-dutch.dn-4kott.com:80/play/live.php?mac=00:1A:79:C0:6E:BA&stream=543485&extension=ts&play_token=JscQZW8AAc&sn2=
+http://60036-dutch.dn-4kott.com:80/play/live.php?mac=00:1A:79:C0:6E:BA&stream=543481&extension=ts&play_token=pEGV0n3SLb&sn2=
+http://60036-dutch.dn-4kott.com:80/play/live.php?mac=00:1A:79:C0:6E:BA&stream=543502&extension=ts&play_token=xMYOoWfFLY&sn2=
+http://60036-dutch.dn-4kott.com:80/play/live.php?mac=00:1A:79:C0:6E:BA&stream=543489&extension=ts&play_token=Us9HTYDFmR&sn2=
+http://60036-dutch.dn-4kott.com:80/play/live.php?mac=00:1A:79:C0:6E:BA&stream=812987&extension=ts&play_token=upSed8a7e6&sn2=
+http://60036-dutch.dn-4kott.com:80/play/live.php?mac=00:1A:79:C0:6E:BA&stream=812988&extension=ts&play_token=DJSpK7Gsf0&sn2=
+http://60036-dutch.dn-4kott.com:80/play/live.php?mac=00:1A:79:C0:6E:BA&stream=812989&extension=ts&play_token=HaNP1rINlP&sn2=
+http://60036-dutch.dn-4kott.com:80/play/live.php?mac=00:1A:79:C0:6E:BA&stream=812990&extension=ts&play_token=CzpABkpS8U&sn2=
+http://60036-dutch.dn-4kott.com:80/play/live.php?mac=00:1A:79:C0:6E:BA&stream=814327&extension=ts&play_token=uS4EZL56E9&sn2=
+http://60036-dutch.dn-4kott.com:80/play/live.php?mac=00:1A:79:C0:6E:BA&stream=814326&extension=ts&play_token=MgsmSoOyGQ&sn2=
+http://60036-dutch.dn-4kott.com:80/play/live.php?mac=00:1A:79:C0:6E:BA&stream=814325&extension=ts&play_token=1jGFtlW2y7&sn2=
+http://60036-dutch.dn-4kott.com:80/play/live.php?mac=00:1A:79:C0:6E:BA&stream=814323&extension=ts&play_token=nL72f7kfmJ&sn2=
+http://60036-dutch.dn-4kott.com:80/play/live.php?mac=00:1A:79:C0:6E:BA&stream=814322&extension=ts&play_token=fBhb2nRzS3&sn2=
+http://60036-dutch.dn-4kott.com:80/play/live.php?mac=00:1A:79:C0:6E:BA&stream=814321&extension=ts&play_token=qxFlO3bIV9&sn2=
+http://60036-dutch.dn-4kott.com:80/play/live.php?mac=00:1A:79:C0:6E:BA&stream=689779&extension=ts&play_token=t17mp9MAXY&sn2=
+http://60036-dutch.dn-4kott.com:80/play/live.php?mac=00:1A:79:C0:6E:BA&stream=891271&extension=ts&play_token=6NcT3J8stm&sn2=
+http://60036-dutch.dn-4kott.com:80/play/live.php?mac=00:1A:79:C0:6E:BA&stream=891270&extension=ts&play_token=eOXN4hQDLp&sn2=
+http://60036-dutch.dn-4kott.com:80/play/live.php?mac=00:1A:79:C0:6E:BA&stream=891269&extension=ts&play_token=51CnX6ZIiA&sn2=
+http://60036-dutch.dn-4kott.com:80/play/live.php?mac=00:1A:79:C0:6E:BA&stream=891268&extension=ts&play_token=2XPi3QiqjP&sn2=
+http://60036-dutch.dn-4kott.com:80/play/live.php?mac=00:1A:79:C0:6E:BA&stream=891267&extension=ts&play_token=K55T4520NX&sn2=
+http://60036-dutch.dn-4kott.com:80/play/live.php?mac=00:1A:79:C0:6E:BA&stream=dutch.dn-4kott.com:80/play/live.php?mac=00:1A:79:C0:6E:BA&extension=ts&play_token=UBaxbDpqEF&sn2=
+http://60036-dutch.dn-4kott.com:80/play/live.php?mac=00:1A:79:C0:6E:BA&stream=945576&extension=ts&play_token=mNGh6oPD7t&sn2=
+http://60036-dutch.dn-4kott.com:80/play/live.php?mac=00:1A:79:C0:6E:BA&stream=505545&extension=ts&play_token=mvq5Ol92FO&sn2=
+http://60036-dutch.dn-4kott.com:80/play/live.php?mac=00:1A:79:C0:6E:BA&stream=505546&extension=ts&play_token=SvkvYPU9fd&sn2=
+http://60036-dutch.dn-4kott.com:80/play/live.php?mac=00:1A:79:C0:6E:BA&stream=699430&extension=ts&play_token=dxbmXwpUQx&sn2=
 
+----------------MATLOCK----------------
+http://23088-lodge.cdn-o2.me:80/play/movie.php?mac=00:1A:79:C4:7E:EC&stream=1153791.mp4&play_token=P9oSReHIkx&type=series&sn2=
+http://23088-lodge.cdn-o2.me:80/play/movie.php?mac=00:1A:79:C4:7E:EC&stream=1165185.mkv&play_token=wEgGOuxj9h&type=series&sn2=
+http://23088-lodge.cdn-o2.me:80/play/movie.php?mac=00:1A:79:C4:7E:EC&stream=1165186.mkv&play_token=56atpRfhRq&type=series&sn2=
+http://23088-lodge.cdn-o2.me:80/play/movie.php?mac=00:1A:79:C4:7E:EC&stream=1167659.mp4&play_token=2TgxWFSUdr&type=series&sn2=
+http://23088-lodge.cdn-o2.me:80/play/movie.php?mac=00:1A:79:C4:7E:EC&stream=1175279.mkv&play_token=SKfRsT7t6q&type=series&sn2=
+http://23088-lodge.cdn-o2.me:80/play/movie.php?mac=00:1A:79:C4:7E:EC&stream=1175280.mkv&play_token=2h26rvqwU1&type=series&sn2=
+http://23088-lodge.cdn-o2.me:80/play/movie.php?mac=00:1A:79:C4:7E:EC&stream=1179860.mkv&play_token=Y08eP0mSR5&type=series&sn2=
+http://23088-lodge.cdn-o2.me:80/play/movie.php?mac=00:1A:79:C4:7E:EC&stream=1182601.mp4&play_token=fOLTesaQgD&type=series&sn2=
+http://23088-lodge.cdn-o2.me:80/play/movie.php?mac=00:1A:79:C4:7E:EC&stream=1232269.mkv&play_token=zNrNJAeDsr&type=series&sn2=
+http://23088-lodge.cdn-o2.me:80/play/movie.php?mac=00:1A:79:C4:7E:EC&stream=1232276.mkv&play_token=5uEZYnMfH6&type=series&sn2=
+http://23088-lodge.cdn-o2.me:80/play/movie.php?mac=00:1A:79:C4:7E:EC&stream=1232272.mkv&play_token=B4kNVWPADj&type=series&sn2=
+http://23088-lodge.cdn-o2.me:80/play/movie.php?mac=00:1A:79:C4:7E:EC&stream=1232270.mkv&play_token=IIPvOUafCq&type=series&sn2=
+http://23088-lodge.cdn-o2.me:80/play/movie.php?mac=00:1A:79:C4:7E:EC&stream=1232273.mkv&play_token=N8HD5jEwol&type=series&sn2=
+http://23088-lodge.cdn-o2.me:80/play/movie.php?mac=00:1A:79:C4:7E:EC&stream=1232274.mkv&play_token=GymhZCA0fq&type=series&sn2=
+http://23088-lodge.cdn-o2.me:80/play/movie.php?mac=00:1A:79:C4:7E:EC&stream=1232275.mkv&play_token=wDVVt9MH2A&type=series&sn2=
+http://23088-lodge.cdn-o2.me:80/play/movie.php?mac=00:1A:79:C4:7E:EC&stream=1232277.mkv&play_token=C3xSSmnMU8&type=series&sn2=
+http://23088-lodge.cdn-o2.me:80/play/movie.php?mac=00:1A:79:C4:7E:EC&stream=1232271.mkv&play_token=aRKeqbisSI&type=series&sn2=
+http://23088-lodge.cdn-o2.me:80/play/movie.php?mac=00:1A:79:C4:7E:EC&stream=1283880.mkv&play_token=IZJcWbrhJR&type=series&sn2=
+http://23088-lodge.cdn-o2.me:80/play/movie.php?mac=00:1A:79:C4:7E:EC&stream=1283881.mkv&play_token=FZZN3eoHcO&type=series&sn2=
+http://23088-lodge.cdn-o2.me:80/play/movie.php?mac=00:1A:79:C4:7E:EC&stream=1283886.mkv&play_token=FZZN3eoHcO&type=series&sn2=
