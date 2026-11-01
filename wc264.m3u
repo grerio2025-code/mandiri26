@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,inews
+https://www.youtube.com/live/UMe1AKUyUN0?si=eMoDnvNZx9DNyBV5
+#EXTINF:-1,TV One
+https://www.youtube.com/live/rQJoEpzKkNk?si=k8wU6FE4EwLX3Ee3
+#EXTINF:-1,Kompas TV
+https://www.youtube.com/live/DOOrIxw5xOw?si=tb8ZT1zMFZzQgnCu
 #EXTINF:-1,TVLux
 http://iptvrss.com:80/play/live.php?mac=00:1A:79:AD:E1:08&stream=721855&extension=ts&play_token=sZpqbVeX8T
 #EXTINF:-1,SW Pulse
