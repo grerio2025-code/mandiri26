@@ -1,19 +1,23 @@
 #EXTM3U
-#EXTINF:-1 group-title="WC2026",TVRI Nasional
-https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
-#EXTINF:-1 group-title="WC2026",TVRI Sport
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:-1 group-title="WC2026",Kompas Youtube
+https://www.youtube.com/live/DOOrIxw5xOw?si=i0oFWJIrRmw8TY_3
+#EXTINF:-1 group-title="WC2026",MetroTV Youtube
+https://www.youtube.com/live/tiIOHgDI3Ow?si=zXuu3LLjwWrRqkDO
+#EXTINF:-1 group-title="WC2026",TVOne Youtube
+https://www.youtube.com/live/rQJoEpzKkNk?si=tdanpvhIYIlnPOZt
+#EXTINF:-1 group-title="WC2026",iNews Youtube
+https://www.youtube.com/live/YFqTvI7dSc0?si=T0BgpjTz412O-obe
+#EXTINF:-1 group-title="WC2026",CNN Youtube
+https://www.youtube.com/live/jWfQVN-XKSg?si=C2sl8vhXD9S-OE7W
 
-#EXTINF:-1 group-title="WC2026",TSN 1
-http://vpn.onair8k.xyz/live/b035e4288b/1739ee84b351/2077049.m3u8
-#EXTINF:-1 group-title="WC2026",TSN 2
-http://vpn.onair8k.xyz/live/b035e4288b/1739ee84b351/2077048.m3u8
-#EXTINF:-1 group-title="WC2026",TSN 3
-http://vpn.onair8k.xyz/live/b035e4288b/1739ee84b351/2077047.m3u8
-#EXTINF:-1 group-title="WC2026",TSN 4
-http://vpn.onair8k.xyz/live/b035e4288b/1739ee84b351/2077046.m3u8
-#EXTINF:-1 group-title="WC2026",Winsport 1
-http://vpn.onair8k.xyz/live/b035e4288b/1739ee84b351/2077038.m3u8
+#EXTINF:-1 group-title="WC2026",Ziggo 1
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:85:C2:B0&stream=169220&extension=ts&play_token=2WhrOMmOAK
+#EXTINF:-1 group-title="WC2026",Ziggo 2
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:85:C2:B0&stream=169218&extension=ts&play_token=CNfsydAYII
+#EXTINF:-1 group-title="WC2026",Ziggo 3
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:85:C2:B0&stream=169216&extension=ts&play_token=LA8WXVt6de
+#EXTINF:-1 group-title="WC2026",ZIggo 4
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:85:C2:B0&stream=169214&extension=ts&play_token=HGrH5QhT2w
 
 #EXTINF:-1 group-title="WC2026",Fox Sport 1
 http://vpn.onair8k.xyz/live/b035e4288b/1739ee84b351/2077001.m3u8
