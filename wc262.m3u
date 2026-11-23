@@ -9,6 +9,8 @@ https://www.youtube.com/live/rQJoEpzKkNk?si=tdanpvhIYIlnPOZt
 https://www.youtube.com/live/YFqTvI7dSc0?si=T0BgpjTz412O-obe
 #EXTINF:-1 group-title="WC2026",CNN Youtube
 https://www.youtube.com/live/jWfQVN-XKSg?si=C2sl8vhXD9S-OE7W
+#EXTINF:-1 group-title="WC2026",metro ytdl
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1795429962/ei/6sEDa6qvJYDlqfkP0u_J-AE/ip/2001:448a:81b0:14a7:64f6:f6e2:6ad9:1146/id/tiIOHgDI3Ow.48/itag/232/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr2---sn-2uuxa3vh-cuwe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AZFAFb8DYAO3dHEMFrPgyqgAExLF38zr8g-XrC_-nyB3DN3CUyZ4x7AB-Jl9rnqWGYkUjD87y9im_Xfd/spc/nfZ8ZuXXjKetVNUR07D1beujoVazFVtKMdiAP0oo0YwY1TfX8jMwgUghBSZA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/598875/met/1795408362,/mh/4A/mm/44/mn/sn-2uuxa3vh-cuwe/ms/lva/mv/m/mvi/2/pl/48/rms/lva,lva/dover/13/pacing/0/epbp/1/short_key/1/keepalive/yes/fexp/51565115/mt/1795407893/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIhAOfF_EPN9kyXiddzXJYsZMwCPOmsq_ASFd7YPwi_7KwcAiBoN8mo3-hPldbPUrw-e7BJhLab4zdXbTlbmX3lLlXJcQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhANYqNxST30DbiiGWMyls3J9VWGJ4zftgz5VooDbWwcWXAiAXR3kmqY9nTP62mKs0-1MnSfr8LHvAtTWGHISFzGEIrg%3D%3D/playlist/index.m3u8
 
 #EXTINF:-1 group-title="WC2026",Ziggo 1
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:85:C2:B0&stream=169220&extension=ts&play_token=2WhrOMmOAK
